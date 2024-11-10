@@ -1,0 +1,4 @@
+time,expected,destination,airline,status,scrape_time
+08:45,,Frankfurt,LUFTHANSA,Cancelled,2024-11-08 15:14:56
+21:1521:10,21:10,Manchester,EASYJET,Took off,2024-11-08 15:14:56
+21:1521:45,21:45,Maurice,AIR MAURITIUS,Took off,2024-11-08 15:14:56
