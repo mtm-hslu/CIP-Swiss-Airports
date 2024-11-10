@@ -1,0 +1,664 @@
+Date,Type,LocalAirport,ForeignAirport,Airline,Status,Planned,Expected
+2024-10-22,arrival,Zurich,Geneva,swiss,Landed,21:00,20:41
+2024-10-22,arrival,Zurich,Hanover,swiss,Landed,21:00,20:57
+2024-10-22,arrival,Zurich,Sarajevo,swiss,Landed,21:00,20:44
+2024-10-22,arrival,Zurich,Amsterdam,swiss,Landed,21:00,20:40
+2024-10-22,arrival,Zurich,Copenhagen,swiss,Landed,21:05,21:13
+2024-10-22,arrival,Zurich,Barcelona,vueling,Landed,21:10,20:57
+2024-10-22,arrival,Zurich,Brussels,swiss,Landed,21:20,21:25
+2024-10-22,arrival,Zurich,Berlin,swiss,Landed,21:20,21:12
+2024-10-22,arrival,Zurich,Düsseldorf,swiss,Landed,21:20,21:14
+2024-10-22,arrival,Zurich,Corfu,edelweiss,Landed,21:25,21:15
+2024-10-22,arrival,Zurich,London LGW,swiss,Landed,21:25,21:06
+2024-10-22,arrival,Zurich,Paris CDG,swiss,Landed,21:30,21:24
+2024-10-22,arrival,Zurich,Vienna,swiss,Landed,21:30,21:16
+2024-10-22,arrival,Zurich,Amsterdam,swiss,Landed,21:30,22:06
+2024-10-22,arrival,Zurich,London LHR,swiss,Landed,21:35,21:19
+2024-10-22,arrival,Zurich,Budapest,swiss,Landed,21:35,21:23
+2024-10-22,arrival,Zurich,Marseille,swiss,Landed,21:40,21:32
+2024-10-22,arrival,Zurich,Hamburg,swiss,Landed,21:40,21:36
+2024-10-22,arrival,Zurich,Birmingham,swiss,Landed,21:45,21:33
+2024-10-22,arrival,Zurich,Rome FCO,swiss,Landed,21:45,21:42
+2024-10-22,arrival,Zurich,Copenhagen,swiss,Landed,21:45,21:39
+2024-10-22,arrival,Zurich,Manchester,swiss,Landed,21:45,21:57
+2024-10-22,arrival,Zurich,Barcelona,swiss,Landed,21:50,21:40
+2024-10-22,arrival,Zurich,Warsaw,swiss,Landed,21:50,22:05
+2024-10-22,arrival,Zurich,Frankfurt,swiss,Landed,21:55,22:28
+2024-10-22,arrival,Zurich,Dublin,swiss,Landed,21:55,22:03
+2024-10-22,arrival,Zurich,Belgrade,swiss,Landed,21:55,22:02
+2024-10-22,arrival,Zurich,Munich,swiss,Landed,21:55,21:59
+2024-10-22,arrival,Zurich,Madrid,swiss,Landed,22:00,22:21
+2024-10-22,arrival,Zurich,Reykjavík,edelweiss,Landed,22:00,22:07
+2024-10-22,arrival,Zurich,Berlin,swiss,Landed,22:00,21:56
+2024-10-22,arrival,Zurich,Skopje,chair,Landed,22:10,21:47
+2024-10-22,arrival,Zurich,Larnaca,edelweiss,Landed,22:15,
+2024-10-22,arrival,Zurich,Madrid,iberia,Landed,22:20,22:17
+2024-10-22,arrival,Zurich,Istanbul IST,turkish,Landed,22:20,21:51
+2024-10-22,arrival,Zurich,Alicante,swiss,Landed,22:20,22:13
+2024-10-22,arrival,Zurich,Pristina,chair,Landed,22:25,22:09
+2024-10-22,arrival,Zurich,London LHR,british,Landed,22:30,22:51
+2024-10-22,arrival,Zurich,Paris CDG,airfrance,Landed,22:30,22:22
+2024-10-22,arrival,Zurich,Lisbon,tap,Landed,22:30,23:16
+2024-10-22,arrival,Zurich,Palma De Mallorca,swiss,Landed,22:40,22:26
+2024-10-22,arrival,Zurich,Kos,edelweiss,Landed,22:40,22:35
+2024-10-22,arrival,Zurich,London LHR,swiss,Landed,22:45,22:38
+2024-10-22,arrival,Zurich,Menorca,edelweiss,Landed,22:45,22:30
+2024-10-22,arrival,Zurich,Catania,edelweiss,Landed,22:45,22:42
+2024-10-22,arrival,Zurich,Bilbao,edelweiss,Landed,22:50,22:40
+2024-10-22,arrival,Zurich,Heraklion,edelweiss,Landed,22:50,
+2024-10-22,arrival,Zurich,Fuerteventura,edelweiss,Landed,22:55,22:54
+2024-10-22,arrival,Zurich,Antalya,edelweiss,Landed,22:55,22:47
+2024-10-22,arrival,Zurich,Faro,edelweiss,Landed,22:55,23:10
+2024-10-22,arrival,Zurich,Porto,tap,Landed,19:00,
+2024-10-22,arrival,Zurich,Warsaw,lot,Landed,19:05,19:43
+2024-10-22,arrival,Zurich,Pristina,gp-aviation,Landed,19:20,19:17
+2024-10-22,arrival,Zurich,Frankfurt,lufthansa_neu,Landed,19:20,19:16
+2024-10-22,arrival,Zurich,Zagreb,croatia_v2,Landed,19:20,19:29
+2024-10-22,arrival,Zurich,Lisbon,swiss,Landed,19:30,19:43
+2024-10-22,arrival,Zurich,Berlin,euro,Landed,19:30,19:36
+2024-10-22,arrival,Zurich,Bangkok,swiss,Landed,19:35,19:39
+2024-10-22,arrival,Zurich,Munich,lufthansa_neu,Landed,19:35,19:34
+2024-10-22,arrival,Zurich,Cologne Bonn,euro,Landed,19:40,19:45
+2024-10-22,arrival,Zurich,Marrakesh,edelweiss,Landed,19:40,19:27
+2024-10-22,arrival,Zurich,Malaga,swiss,Landed,19:40,19:31
+2024-10-22,arrival,Zurich,Geneva,swiss,Landed,19:40,19:32
+2024-10-22,arrival,Zurich,Copenhagen,sas,Landed,19:45,19:54
+2024-10-22,arrival,Zurich,Hamburg,euro,Landed,19:55,20:10
+2024-10-22,arrival,Zurich,London LHR,swiss,Landed,19:55,19:49
+2024-10-22,arrival,Zurich,Vienna,austrian,Landed,20:00,20:17
+2024-10-22,arrival,Zurich,Belgrade,serbia,Landed,20:00,19:59
+2024-10-22,arrival,Zurich,Milan MXP,swiss,Landed,20:05,20:48
+2024-10-22,arrival,Zurich,Luxembourg,swiss,Landed,20:05,20:03
+2024-10-22,arrival,Zurich,Bologna,swiss,Landed,20:10,19:51
+2024-10-22,arrival,Zurich,Berlin,swiss,Landed,20:10,20:08
+2024-10-22,arrival,Zurich,Palma De Mallorca,swiss,Landed,20:15,20:06
+2024-10-22,arrival,Zurich,Stuttgart,swiss,Landed,20:15,
+2024-10-22,arrival,Zurich,Dubai DXB,emirates-neu,Landed,20:20,20:12
+2024-10-22,arrival,Zurich,Florence,swiss,Landed,20:20,20:06
+2024-10-22,arrival,Zurich,Düsseldorf,swiss,Landed,20:20,20:18
+2024-10-22,arrival,Zurich,Barcelona,swiss,Landed,20:25,20:03
+2024-10-22,arrival,Zurich,Nice,swiss,Landed,20:25,20:56
+2024-10-22,arrival,Zurich,Brussels,swiss,Landed,20:25,20:28
+2024-10-22,arrival,Zurich,Ljubljana,swiss,Landed,20:30,20:54
+2024-10-22,arrival,Zurich,Prague,swiss,Landed,20:30,20:20
+2024-10-22,arrival,Zurich,Hamburg,swiss,Landed,20:30,20:37
+2024-10-22,arrival,Zurich,Venice,swiss,Landed,20:30,20:29
+2024-10-22,arrival,Zurich,London LCY,swiss,Landed,20:35,21:28
+2024-10-22,arrival,Zurich,London LGW,easyjet,Landed,20:50,
+2024-10-22,arrival,Zurich,Porto,easyjet,Landed,20:50,21:05
+2024-10-22,arrival,Zurich,Palma De Mallorca,edelweiss,Landed,17:00,18:04
+2024-10-22,arrival,Zurich,Hurghada,edelweiss,Landed,17:00,16:53
+2024-10-22,arrival,Zurich,Valencia,swiss,Landed,17:05,17:04
+2024-10-22,arrival,Zurich,Marsa Alam,edelweiss,Landed,17:05,16:37
+2024-10-22,arrival,Zurich,Seoul,korean,Landed,17:10,16:46
+2024-10-22,arrival,Zurich,Madrid,europa,Landed,17:10,17:41
+2024-10-22,arrival,Zurich,Berlin,swiss,Landed,17:10,17:15
+2024-10-22,arrival,Zurich,Lisbon,tap,Landed,17:15,17:20
+2024-10-22,arrival,Zurich,Frankfurt,lufthansa_neu,Landed,17:25,17:36
+2024-10-22,arrival,Zurich,Istanbul IST,turkish,Landed,17:25,17:42
+2024-10-22,arrival,Zurich,Antalya,sun,Landed,17:35,17:17
+2024-10-22,arrival,Zurich,Bucharest,swiss,Landed,17:35,17:46
+2024-10-22,arrival,Zurich,Hurghada,cairo,Landed,17:40,19:40
+2024-10-22,arrival,Zurich,Kalamata,edelweiss,Landed,17:40,17:39
+2024-10-22,arrival,Zurich,Vienna,austrian,Landed,18:00,18:01
+2024-10-22,arrival,Zurich,London LHR,british,Landed,18:05,18:10
+2024-10-22,arrival,Zurich,Paris CDG,airfrance,Landed,18:05,18:09
+2024-10-22,arrival,Zurich,Shanghai,swiss,Landed,18:15,17:28
+2024-10-22,arrival,Zurich,Helsinki,finnair,Landed,18:20,18:33
+2024-10-22,arrival,Zurich,Stockholm,swiss,Landed,18:20,18:23
+2024-10-22,arrival,Zurich,Riga,baltic,Landed,18:20,18:31
+2024-10-22,arrival,Zurich,Tokyo,swiss,Landed,18:20,18:27
+2024-10-22,arrival,Zurich,Düsseldorf,euro,Landed,18:30,18:54
+2024-10-22,arrival,Zurich,Antalya,sun,Landed,18:35,18:17
+2024-10-22,arrival,Zurich,Athens,swiss,Landed,18:35,18:58
+2024-10-22,arrival,Zurich,Amsterdam,klm,Landed,18:40,18:46
+2024-10-22,arrival,Zurich,London LCY,british,Landed,18:40,18:30
+2024-10-22,arrival,Zurich,Madrid,iberia,Landed,18:55,18:37
+2024-10-22,arrival,Zurich,Istanbul SAW,pegasus,Landed,15:00,15:20
+2024-10-22,arrival,Zurich,Düsseldorf,euro,Landed,15:00,14:50
+2024-10-22,arrival,Zurich,Thessaloniki,swiss,Landed,15:05,15:08
+2024-10-22,arrival,Zurich,Gran Canaria,edelweiss,Landed,15:20,16:12
+2024-10-22,arrival,Zurich,Muscat,edelweiss,Landed,15:20,15:42
+2024-10-22,arrival,Zurich,Lanzarote,edelweiss,Landed,15:25,15:18
+2024-10-22,arrival,Zurich,Hamburg,euro,Landed,15:30,15:58
+2024-10-22,arrival,Zurich,Cologne Bonn,euro,Landed,15:35,15:47
+2024-10-22,arrival,Zurich,Hurghada,chair,Landed,15:40,16:08
+2024-10-22,arrival,Zurich,Los Angeles,swiss,Landed,15:40,15:14
+2024-10-22,arrival,Zurich,Milan MXP,swiss,Landed,15:45,16:03
+2024-10-22,arrival,Zurich,Stockholm,swiss,Landed,15:45,16:08
+2024-10-22,arrival,Zurich,Porto,swiss,Landed,15:45,15:52
+2024-10-22,arrival,Zurich,London LCY,swiss,Landed,15:45,16:27
+2024-10-22,arrival,Zurich,Vienna,swiss,Landed,15:50,15:48
+2024-10-22,arrival,Zurich,San Francisco,swiss,Landed,15:50,14:56
+2024-10-22,arrival,Zurich,Tenerife,edelweiss,Landed,15:50,15:45
+2024-10-22,arrival,Zurich,Geneva,swiss,Landed,15:50,16:14
+2024-10-22,arrival,Zurich,Malaga,swiss,Landed,15:55,
+2024-10-22,arrival,Zurich,Frankfurt,swiss,Landed,15:55,15:56
+2024-10-22,arrival,Zurich,Stuttgart,swiss,Landed,15:55,15:56
+2024-10-22,arrival,Zurich,Düsseldorf,swiss,Landed,16:00,16:02
+2024-10-22,arrival,Zurich,Venice,swiss,Landed,16:05,16:47
+2024-10-22,arrival,Zurich,Nice,swiss,Landed,16:05,16:10
+2024-10-22,arrival,Zurich,Hanover,swiss,Landed,16:05,16:01
+2024-10-22,arrival,Zurich,Florence,swiss,Landed,16:10,16:05
+2024-10-22,arrival,Zurich,Graz,swiss,Landed,16:10,16:20
+2024-10-22,arrival,Zurich,Dublin,swiss,Landed,16:15,16:22
+2024-10-22,arrival,Zurich,Prague,swiss,Landed,16:15,16:11
+2024-10-22,arrival,Zurich,Athens,swiss,Landed,16:15,
+2024-10-22,arrival,Zurich,Brussels,swiss,Landed,16:15,16:17
+2024-10-22,arrival,Zurich,Nantes,swiss,Landed,16:20,16:15
+2024-10-22,arrival,Zurich,Munich,lufthansa_neu,Landed,16:20,16:36
+2024-10-22,arrival,Zurich,Paris CDG,swiss,Landed,16:20,16:40
+2024-10-22,arrival,Zurich,Berlin,swiss,Landed,16:20,16:24
+2024-10-22,arrival,Zurich,Budapest,swiss,Landed,16:25,16:19
+2024-10-22,arrival,Zurich,Oslo OSL,swiss,Landed,16:25,19:26
+2024-10-22,arrival,Zurich,Hamburg,swiss,Landed,16:25,16:57
+2024-10-22,arrival,Zurich,Naples,swiss,Landed,16:30,16:35
+2024-10-22,arrival,Zurich,London LHR,swiss,Landed,16:30,16:34
+2024-10-22,arrival,Zurich,Ljubljana,swiss,Landed,16:30,16:24
+2024-10-22,arrival,Zurich,Belgrade,swiss,Landed,16:35,17:21
+2024-10-22,arrival,Zurich,Palermo,swiss,Landed,16:35,
+2024-10-22,arrival,Zurich,Krakow,swiss,Landed,16:35,16:33
+2024-10-22,arrival,Zurich,Amsterdam,swiss,Landed,16:35,17:00
+2024-10-22,arrival,Zurich,Tirana,swiss,Landed,16:40,16:41
+2024-10-22,arrival,Zurich,Barcelona,swiss,Landed,16:40,16:47
+2024-10-22,arrival,Zurich,Rome FCO,swiss,Landed,16:45,17:25
+2024-10-22,arrival,Zurich,Brindisi,swiss,Landed,16:45,16:52
+2024-10-22,arrival,Zurich,Malta,km_malta_airlines,Landed,16:45,16:43
+2024-10-22,arrival,Zurich,Amsterdam,klm,Landed,16:45,16:40
+2024-10-22,arrival,Zurich,Warsaw,swiss,Landed,16:50,17:05
+2024-10-22,arrival,Zurich,Bordeaux,swiss,Landed,16:50,16:53
+2024-10-22,arrival,Zurich,Copenhagen,swiss,Landed,16:55,16:59
+2024-10-22,arrival,Zurich,Palma De Mallorca,swiss,Landed,16:55,17:13
+2024-10-22,arrival,Zurich,Gothenburg,swiss,Landed,16:55,17:04
+2024-10-22,arrival,Zurich,Palma De Mallorca,vueling,Landed,13:05,12:59
+2024-10-22,arrival,Zurich,Reykjavík,iceland,Landed,13:05,15:51
+2024-10-22,arrival,Zurich,Heraklion,edelweiss,Landed,13:10,13:06
+2024-10-22,arrival,Zurich,Chania,edelweiss,Landed,13:15,13:14
+2024-10-22,arrival,Zurich,Alicante,vueling,Landed,13:20,13:02
+2024-10-22,arrival,Zurich,Dubai DXB,emirates-neu,Landed,13:20,13:24
+2024-10-22,arrival,Zurich,Oslo OSL,sas,Landed,13:20,13:43
+2024-10-22,arrival,Zurich,Rhodes,edelweiss,Landed,13:40,13:47
+2024-10-22,arrival,Zurich,Paris CDG,airfrance,Landed,13:45,13:35
+2024-10-22,arrival,Zurich,Amsterdam,klm,Landed,13:45,14:10
+2024-10-22,arrival,Zurich,Frankfurt,lufthansa_neu,Landed,14:00,13:57
+2024-10-22,arrival,Zurich,Doha,qatar,Landed,14:00,13:40
+2024-10-22,arrival,Zurich,Istanbul IST,turkish,Landed,14:05,13:52
+2024-10-22,arrival,Zurich,Izmir,sun,Landed,14:05,13:47
+2024-10-22,arrival,Zurich,Vienna,austrian,Landed,14:20,14:24
+2024-10-22,arrival,Zurich,London LCY,british,Landed,14:20,14:26
+2024-10-22,arrival,Zurich,Belgrade,serbia,Landed,14:25,14:27
+2024-10-22,arrival,Zurich,Valencia,swiss,Landed,14:30,14:40
+2024-10-22,arrival,Zurich,Bilbao,vueling,Landed,14:40,14:50
+2024-10-22,arrival,Zurich,London LHR,swiss,Landed,14:45,14:49
+2024-10-22,arrival,Zurich,Madeira,edelweiss,Landed,14:45,14:33
+2024-10-22,arrival,Zurich,Tunis,tunis,Landed,14:50,15:45
+2024-10-22,arrival,Zurich,Hanover,swiss,Landed,11:00,10:48
+2024-10-22,arrival,Zurich,Hamburg,swiss,Landed,11:00,11:03
+2024-10-22,arrival,Zurich,Vienna,swiss,Landed,11:00,10:50
+2024-10-22,arrival,Zurich,Brussels,swiss,Landed,11:05,11:04
+2024-10-22,arrival,Zurich,Paris CDG,swiss,Landed,11:05,
+2024-10-22,arrival,Zurich,Amsterdam,klm,Landed,11:05,11:15
+2024-10-22,arrival,Zurich,Madrid,iberia,Landed,11:05,11:23
+2024-10-22,arrival,Zurich,Berlin,swiss,Landed,11:10,11:13
+2024-10-22,arrival,Zurich,Boston,swiss,Landed,11:10,11:34
+2024-10-22,arrival,Zurich,Amsterdam,swiss,Landed,11:15,11:25
+2024-10-22,arrival,Zurich,Florence,swiss,Landed,11:15,11:07
+2024-10-22,arrival,Zurich,Rome FCO,swiss,Landed,11:20,11:26
+2024-10-22,arrival,Zurich,Naples,swiss,Landed,11:20,11:00
+2024-10-22,arrival,Zurich,Tel Aviv,elalisrael,Landed,11:20,11:41
+2024-10-22,arrival,Zurich,Budapest,swiss,Landed,11:20,11:17
+2024-10-22,arrival,Zurich,Barcelona,swiss,Landed,11:25,11:33
+2024-10-22,arrival,Zurich,Vancouver,edelweiss,Landed,11:25,11:10
+2024-10-22,arrival,Zurich,Copenhagen,swiss,Landed,11:30,11:36
+2024-10-22,arrival,Zurich,Belgrade,swiss,Landed,11:30,12:10
+2024-10-22,arrival,Zurich,Pristina,edelweiss,Landed,11:30,11:22
+2024-10-22,arrival,Zurich,London LHR,swiss,Landed,11:35,11:40
+2024-10-22,arrival,Zurich,Warsaw,swiss,Landed,11:35,11:32
+2024-10-22,arrival,Zurich,Milan MXP,swiss,Landed,11:35,11:42
+2024-10-22,arrival,Zurich,Newark,swiss,Landed,11:35,11:29
+2024-10-22,arrival,Zurich,Brindisi,swiss,Landed,11:40,11:15
+2024-10-22,arrival,Zurich,Luxembourg,swiss,Landed,11:45,11:46
+2024-10-22,arrival,Zurich,Geneva,swiss,Landed,11:45,11:54
+2024-10-22,arrival,Zurich,Palermo,swiss,Landed,11:45,11:53
+2024-10-22,arrival,Zurich,Palma De Mallorca,swiss,Landed,11:45,11:44
+2024-10-22,arrival,Zurich,Manchester,swiss,Landed,11:50,12:28
+2024-10-22,arrival,Zurich,Stuttgart,swiss,Landed,11:50,11:39
+2024-10-22,arrival,Zurich,Seville,edelweiss,Landed,11:55,12:01
+2024-10-22,arrival,Zurich,Malta,swiss,Landed,11:55,12:06
+2024-10-22,arrival,Zurich,Ljubljana,swiss,Cancelled,11:55,
+2024-10-22,arrival,Zurich,Venice,swiss,Landed,12:00,11:52
+2024-10-22,arrival,Zurich,London LCY,swiss,Landed,12:00,12:43
+2024-10-22,arrival,Zurich,Bologna,swiss,Landed,12:00,11:50
+2024-10-22,arrival,Zurich,Dresden,swiss,Landed,12:05,12:06
+2024-10-22,arrival,Zurich,Thessaloniki,swiss,Landed,12:05,11:52
+2024-10-22,arrival,Zurich,Geneva,swiss,Landed,12:05,12:08
+2024-10-22,arrival,Zurich,Djerba,edelweiss,Landed,12:05,11:50
+2024-10-22,arrival,Zurich,Hamburg,swiss,Landed,12:10,12:18
+2024-10-22,arrival,Zurich,Porto,swiss,Landed,12:10,12:48
+2024-10-22,arrival,Zurich,Sofia,swiss,Landed,12:15,11:57
+2024-10-22,arrival,Zurich,Vienna,austrian,Landed,12:15,12:13
+2024-10-22,arrival,Zurich,London LHR,british,Landed,12:15,12:24
+2024-10-22,arrival,Zurich,Berlin,swiss,Landed,12:20,12:31
+2024-10-22,arrival,Zurich,Madrid,swiss,Landed,12:25,12:37
+2024-10-22,arrival,Zurich,Lisbon,tap,Landed,12:25,12:34
+2024-10-22,arrival,Zurich,Munich,lufthansa_neu,Landed,12:40,12:46
+2024-10-22,arrival,Zurich,Barcelona,vueling,Landed,09:00,08:59
+2024-10-22,arrival,Zurich,Belgrade,serbia,Landed,09:00,08:47
+2024-10-22,arrival,Zurich,Berlin,euro,Landed,09:00,08:59
+2024-10-22,arrival,Zurich,Malaga,swiss,Landed,09:10,09:20
+2024-10-22,arrival,Zurich,London LCY,british,Landed,09:30,09:21
+2024-10-22,arrival,Zurich,Izmir,sun,Landed,09:35,09:10
+2024-10-22,arrival,Zurich,London LHR,british,Cancelled,09:35,
+2024-10-22,arrival,Zurich,Copenhagen,sas,Landed,09:40,12:52
+2024-10-22,arrival,Zurich,Warsaw,lot,Landed,09:40,09:33
+2024-10-22,arrival,Zurich,Helsinki,finnair,Landed,09:45,10:14
+2024-10-22,arrival,Zurich,Vienna,austrian,Landed,09:45,09:40
+2024-10-22,arrival,Zurich,Frankfurt,swiss,Landed,09:45,10:07
+2024-10-22,arrival,Zurich,Istanbul IST,turkish,Landed,09:55,10:03
+2024-10-22,arrival,Zurich,Lisbon,swiss,Landed,09:55,09:41
+2024-10-22,arrival,Zurich,Munich,swiss,Landed,10:00,09:56
+2024-10-22,arrival,Zurich,London LGW,easyjet,Landed,10:00,09:55
+2024-10-22,arrival,Zurich,Antalya,pegasus,Landed,10:05,10:10
+2024-10-22,arrival,Zurich,Madrid,europa,Landed,10:10,11:42
+2024-10-22,arrival,Zurich,Athens,aegan,Landed,10:20,10:12
+2024-10-22,arrival,Zurich,San Francisco,united,Landed,10:20,09:44
+2024-10-22,arrival,Zurich,Toronto,canada,Landed,10:20,09:47
+2024-10-22,arrival,Zurich,Istanbul SAW,ajet_logo,Landed,10:25,09:56
+2024-10-22,arrival,Zurich,New York,swiss,Landed,10:25,09:49
+2024-10-22,arrival,Zurich,Dubai DWC,beond_logo,Landed,10:25,12:29
+2024-10-22,arrival,Zurich,Paris CDG,airfrance,Landed,10:25,10:18
+2024-10-22,arrival,Zurich,Porto,easyjet,Landed,10:30,10:22
+2024-10-22,arrival,Zurich,Punta Cana,edelweiss,Landed,10:30,10:41
+2024-10-22,arrival,Zurich,New York,delta,Landed,10:35,10:06
+2024-10-22,arrival,Zurich,Istanbul SAW,pegasus,Landed,10:35,10:15
+2024-10-22,arrival,Zurich,Sao Paulo,swiss,Landed,10:40,10:55
+2024-10-22,arrival,Zurich,London LCY,swiss,Landed,10:40,10:32
+2024-10-22,arrival,Zurich,Frankfurt,lufthansa_neu,Landed,10:40,10:50
+2024-10-22,arrival,Zurich,Tampa,edelweiss,Landed,10:45,11:08
+2024-10-22,arrival,Zurich,Zagreb,croatia_v2,Landed,10:45,10:47
+2024-10-22,arrival,Zurich,Pristina,chair,Landed,10:45,10:34
+2024-10-22,arrival,Zurich,Washington,swiss,Landed,10:50,10:26
+2024-10-22,arrival,Zurich,Miami,swiss,Landed,10:50,10:56
+2024-10-22,arrival,Zurich,Chicago,swiss,Landed,10:50,10:45
+2024-10-22,arrival,Zurich,Geneva,swiss,Landed,10:55,10:59
+2024-10-22,arrival,Zurich,Düsseldorf,swiss,Landed,10:55,10:59
+2024-10-22,arrival,Zurich,Prague,swiss,Landed,10:55,10:38
+2024-10-22,arrival,Zurich,Nice,swiss,Landed,10:55,
+2024-10-22,arrival,Zurich,Florence,swiss,Landed,07:25,07:01
+2024-10-22,arrival,Zurich,Abu Dhabi,etihad,Landed,07:25,07:46
+2024-10-22,arrival,Zurich,Cologne Bonn,euro,Landed,07:30,07:38
+2024-10-22,arrival,Zurich,Frankfurt,lufthansa_neu,Landed,07:35,07:26
+2024-10-22,arrival,Zurich,Barcelona,swiss,Landed,07:40,07:37
+2024-10-22,arrival,Zurich,Vilnius,swiss,Landed,07:40,07:42
+2024-10-22,arrival,Zurich,Chicago,united,Landed,07:45,07:05
+2024-10-22,arrival,Zurich,Prague,swiss,Cancelled,07:45,
+2024-10-22,arrival,Zurich,Bucharest,swiss,Landed,07:50,07:45
+2024-10-22,arrival,Zurich,Bangkok,thai,Landed,07:50,07:29
+2024-10-22,arrival,Zurich,Rome FCO,swiss,Landed,07:55,07:38
+2024-10-22,arrival,Zurich,Tallinn,swiss,Landed,07:55,08:06
+2024-10-22,arrival,Zurich,Düsseldorf,euro,Landed,08:00,07:57
+2024-10-22,arrival,Zurich,Paris CDG,swiss,Landed,08:00,07:55
+2024-10-22,arrival,Zurich,Washington,united,Landed,08:05,07:49
+2024-10-22,arrival,Zurich,Vienna,austrian,Landed,08:05,08:03
+2024-10-22,arrival,Zurich,Venice,swiss,Landed,08:05,08:09
+2024-10-22,arrival,Zurich,Valencia,swiss,Landed,08:10,07:57
+2024-10-22,arrival,Zurich,Brussels,brussels_airlines_logo,Landed,08:10,07:59
+2024-10-22,arrival,Zurich,Singapore,singapore,Landed,08:15,08:12
+2024-10-22,arrival,Zurich,Geneva,swiss,Landed,08:15,08:06
+2024-10-22,arrival,Zurich,Newark,united,Landed,08:15,07:42
+2024-10-22,arrival,Zurich,Amsterdam,swiss,Landed,08:25,08:55
+2024-10-22,arrival,Zurich,Hamburg,euro,Landed,08:25,08:37
+2024-10-22,arrival,Zurich,Berlin,swiss,Landed,08:35,08:45
+2024-10-22,arrival,Zurich,Amsterdam,klm,Landed,08:35,08:24
+2024-10-22,arrival,Zurich,Munich,lufthansa_neu,Landed,08:40,08:38
+2024-10-22,arrival,Zurich,London LHR,swiss,Landed,08:40,08:50
+2024-10-22,arrival,Zurich,Athens,swiss,Landed,08:45,08:33
+2024-10-22,arrival,Zurich,Frankfurt,lufthansa_neu,Landed,08:45,08:37
+2024-10-22,arrival,Zurich,Stockholm,swiss,Landed,08:45,08:57
+2024-10-22,arrival,Zurich,Oslo OSL,swiss,Landed,08:50,
+2024-10-22,arrival,Zurich,Antalya,sun,Landed,08:50,08:34
+2024-10-22,arrival,Zurich,Philadelphia,american,Landed,08:55,08:27
+2024-10-22,arrival,Zurich,Dubai DXB,swiss,Landed,06:10,06:24
+2024-10-22,arrival,Zurich,New York,swiss,Landed,06:10,06:14
+2024-10-22,arrival,Zurich,Montreal,swiss,Landed,06:10,07:07
+2024-10-22,arrival,Zurich,Singapore,swiss,Landed,06:15,06:28
+2024-10-22,arrival,Zurich,Mumbai,swiss,Landed,06:15,06:26
+2024-10-22,arrival,Zurich,Hong Kong,swiss,Landed,06:15,06:19
+2024-10-22,arrival,Zurich,Johannesburg,swiss,Landed,06:15,06:12
+2024-10-22,arrival,Zurich,Boston,swiss,Landed,06:20,06:58
+2024-10-22,arrival,Zurich,Delhi,swiss,Landed,06:20,06:10
+2024-10-22,arrival,Zurich,Cairo,swiss,Landed,06:30,06:22
+2024-10-22,arrival,Zurich,Larnaca,edelweiss,Landed,06:35,07:04
+2024-10-22,arrival,Zurich,Geneva,swiss,Cancelled,06:45,
+2024-10-22,arrival,Zurich,Milan MXP,swiss,Landed,06:55,06:43
+2024-10-22,departure,Zurich,Geneva,swiss,Departed,21:00,
+2024-10-22,departure,Zurich,Athens,swiss,Departed,21:10,
+2024-10-22,departure,Zurich,Oslo OSL,swiss,Departed,21:10,
+2024-10-22,departure,Zurich,Lisbon,swiss,Departed,21:15,
+2024-10-22,departure,Zurich,Cairo,swiss,Departed,21:15,21:25
+2024-10-22,departure,Zurich,Florence,swiss,Departed,21:25,21:11
+2024-10-22,departure,Zurich,Venice,swiss,Departed,21:25,21:35
+2024-10-22,departure,Zurich,Malaga,swiss,Departed,21:25,21:19
+2024-10-22,departure,Zurich,Porto,easyjet,Departed,21:25,21:40
+2024-10-22,departure,Zurich,London LGW,easyjet,Departed,21:30,
+2024-10-22,departure,Zurich,Stockholm,swiss,Departed,21:30,
+2024-10-22,departure,Zurich,Rome FCO,swiss,Departed,21:30,22:30
+2024-10-22,departure,Zurich,Berlin,swiss,Departed,21:30,
+2024-10-22,departure,Zurich,Bucharest,swiss,Departed,21:35,21:29
+2024-10-22,departure,Zurich,Barcelona,swiss,Departed,21:40,
+2024-10-22,departure,Zurich,Paris CDG,swiss,Departed,21:40,
+2024-10-22,departure,Zurich,Barcelona,vueling,Departed,21:55,
+2024-10-22,departure,Zurich,Valencia,swiss,Departed,21:55,21:50
+2024-10-22,departure,Zurich,Prague,swiss,Departed,22:00,21:55
+2024-10-22,departure,Zurich,Dubai DXB,emirates-neu,Departed,22:15,22:10
+2024-10-22,departure,Zurich,Larnaca,edelweiss,Departed,22:20,22:25
+2024-10-22,departure,Zurich,Singapore,swiss,Departed,22:40,22:45
+2024-10-22,departure,Zurich,Milan MXP,swiss,Departed,22:40,
+2024-10-22,departure,Zurich,Buenos Airesvia Sao Paulo,swiss,Departed,22:40,22:50
+2024-10-22,departure,Zurich,Hong Kong,swiss,Departed,22:40,22:45
+2024-10-22,departure,Zurich,Johannesburg,swiss,Departed,22:40,23:25
+2024-10-22,departure,Zurich,Geneva,swiss,Departed,22:45,
+2024-10-22,departure,Zurich,Riga,baltic,Departed,19:00,19:10
+2024-10-22,departure,Zurich,Helsinki,finnair,Departed,19:05,19:10
+2024-10-22,departure,Zurich,Frankfurt,swiss,Departed,19:10,19:45
+2024-10-22,departure,Zurich,Düsseldorf,euro,Departed,19:10,19:25
+2024-10-22,departure,Zurich,Seoul,korean,Departed,19:15,19:10
+2024-10-22,departure,Zurich,London LCY,british,Departed,19:15,
+2024-10-22,departure,Zurich,Munich,swiss,Departed,19:25,19:20
+2024-10-22,departure,Zurich,Amsterdam,klm,Departed,19:25,
+2024-10-22,departure,Zurich,Antalya,sun,Departed,19:30,
+2024-10-22,departure,Zurich,Madrid,iberia,Departed,19:40,19:35
+2024-10-22,departure,Zurich,Porto,tap,Departed,19:45,
+2024-10-22,departure,Zurich,Warsaw,lot,Departed,19:55,20:35
+2024-10-22,departure,Zurich,Frankfurt,lufthansa_neu,Departed,20:00,
+2024-10-22,departure,Zurich,Zagreb,croatia_v2,Departed,20:05,
+2024-10-22,departure,Zurich,Munich,lufthansa_neu,Departed,20:15,
+2024-10-22,departure,Zurich,Berlin,euro,Departed,20:15,
+2024-10-22,departure,Zurich,Cologne Bonn,euro,Departed,20:20,
+2024-10-22,departure,Zurich,Pristina,gp-aviation,Departed,20:20,20:15
+2024-10-22,departure,Zurich,Copenhagen,sas,Departed,20:25,20:29
+2024-10-22,departure,Zurich,Amsterdam,swiss,Departed,20:40,20:34
+2024-10-22,departure,Zurich,Hamburg,euro,Departed,20:45,21:00
+2024-10-22,departure,Zurich,Belgrade,serbia,Departed,20:45,
+2024-10-22,departure,Zurich,Vienna,austrian,Departed,20:50,20:55
+2024-10-22,departure,Zurich,London LHR,swiss,Departed,20:55,
+2024-10-22,departure,Zurich,Hamburg,swiss,Departed,17:00,
+2024-10-22,departure,Zurich,Bologna,swiss,Departed,17:05,
+2024-10-22,departure,Zurich,Florence,swiss,Departed,17:05,
+2024-10-22,departure,Zurich,London LGW,swiss,Departed,17:05,17:15
+2024-10-22,departure,Zurich,Manchester,swiss,Departed,17:05,
+2024-10-22,departure,Zurich,London LHR,swiss,Departed,17:10,
+2024-10-22,departure,Zurich,Warsaw,swiss,Departed,17:10,17:25
+2024-10-22,departure,Zurich,Nice,swiss,Departed,17:10,17:30
+2024-10-22,departure,Zurich,Brussels,swiss,Departed,17:10,17:11
+2024-10-22,departure,Zurich,Düsseldorf,swiss,Departed,17:15,
+2024-10-22,departure,Zurich,Pristina,chair,Departed,17:15,17:10
+2024-10-22,departure,Zurich,Newark,swiss,Departed,17:20,17:50
+2024-10-22,departure,Zurich,Copenhagen,swiss,Departed,17:20,
+2024-10-22,departure,Zurich,Ljubljana,swiss,Departed,17:20,17:59
+2024-10-22,departure,Zurich,Birmingham,swiss,Departed,17:25,
+2024-10-22,departure,Zurich,Barcelona,swiss,Departed,17:25,17:30
+2024-10-22,departure,Zurich,Belgrade,swiss,Departed,17:25,17:45
+2024-10-22,departure,Zurich,Berlin,swiss,Departed,17:30,17:50
+2024-10-22,departure,Zurich,Milan MXP,swiss,Departed,17:30,18:05
+2024-10-22,departure,Zurich,Luxembourg,swiss,Departed,17:30,
+2024-10-22,departure,Zurich,Venice,swiss,Departed,17:30,
+2024-10-22,departure,Zurich,Hanover,swiss,Departed,17:35,17:45
+2024-10-22,departure,Zurich,Amsterdam,swiss,Departed,17:35,18:05
+2024-10-22,departure,Zurich,Amsterdam,klm,Departed,17:35,
+2024-10-22,departure,Zurich,Budapest,swiss,Departed,17:40,17:45
+2024-10-22,departure,Zurich,Malta,km_malta_airlines,Departed,17:40,
+2024-10-22,departure,Zurich,Boston,swiss,Departed,17:40,17:45
+2024-10-22,departure,Zurich,Bilbao,edelweiss,Departed,17:45,
+2024-10-22,departure,Zurich,Palma De Mallorca,swiss,Departed,17:45,18:00
+2024-10-22,departure,Zurich,Hamburg,swiss,Departed,17:45,
+2024-10-22,departure,Zurich,Catania,edelweiss,Departed,17:45,
+2024-10-22,departure,Zurich,Rome FCO,swiss,Departed,17:50,17:40
+2024-10-22,departure,Zurich,Marseille,swiss,Departed,17:50,
+2024-10-22,departure,Zurich,Vienna,swiss,Departed,17:50,
+2024-10-22,departure,Zurich,Brussels,swiss,Departed,17:55,18:00
+2024-10-22,departure,Zurich,Paris CDG,swiss,Departed,17:55,
+2024-10-22,departure,Zurich,Bangkok,swiss,Departed,17:55,18:15
+2024-10-22,departure,Zurich,Stuttgart,swiss,Departed,17:55,
+2024-10-22,departure,Zurich,Mauritius,edelweiss,Departed,18:00,
+2024-10-22,departure,Zurich,Geneva,swiss,Departed,18:00,
+2024-10-22,departure,Zurich,Düsseldorf,swiss,Departed,18:00,
+2024-10-22,departure,Zurich,Frankfurt,lufthansa_neu,Departed,18:05,18:15
+2024-10-22,departure,Zurich,Lisbon,tap,Departed,18:05,18:10
+2024-10-22,departure,Zurich,Berlin,swiss,Departed,18:20,
+2024-10-22,departure,Zurich,Menorca,edelweiss,Departed,18:30,
+2024-10-22,departure,Zurich,Madrid,europa,Departed,18:30,18:35
+2024-10-22,departure,Zurich,Antalya,sun,Departed,18:30,
+2024-10-22,departure,Zurich,London LHR,swiss,Departed,18:35,
+2024-10-22,departure,Zurich,Hurghada,cairo,Departed,18:40,20:40
+2024-10-22,departure,Zurich,Vienna,austrian,Departed,18:45,
+2024-10-22,departure,Zurich,Istanbul IST,turkish,Departed,18:50,18:55
+2024-10-22,departure,Zurich,London LHR,british,Departed,18:50,18:55
+2024-10-22,departure,Zurich,Paris CDG,airfrance,Departed,18:55,18:50
+2024-10-22,departure,Zurich,Istanbul IST,turkish,Departed,15:00,
+2024-10-22,departure,Zurich,Vienna,austrian,Closed,15:05,15:00
+2024-10-22,departure,Zurich,Belgrade,serbia,Departed,15:15,
+2024-10-22,departure,Zurich,Antalya,edelweiss,Departed,15:20,15:25
+2024-10-22,departure,Zurich,Bilbao,vueling,Departed,15:20,15:25
+2024-10-22,departure,Zurich,Dubai DXB,emirates-neu,Departed,15:25,15:20
+2024-10-22,departure,Zurich,London LHR,swiss,Departed,15:30,
+2024-10-22,departure,Zurich,Palma De Mallorca,swiss,Departed,15:35,
+2024-10-22,departure,Zurich,Doha,qatar,Departed,15:40,
+2024-10-22,departure,Zurich,Düsseldorf,euro,Departed,15:45,15:40
+2024-10-22,departure,Zurich,Tunis,tunis,Departed,15:50,16:15
+2024-10-22,departure,Zurich,Istanbul SAW,pegasus,Departed,16:00,16:20
+2024-10-22,departure,Zurich,Heraklion,edelweiss,Departed,16:00,
+2024-10-22,departure,Zurich,Barcelona,swiss,Departed,16:00,15:55
+2024-10-22,departure,Zurich,Kos,edelweiss,Departed,16:05,16:00
+2024-10-22,departure,Zurich,Hamburg,euro,Departed,16:05,16:30
+2024-10-22,departure,Zurich,Corfu,edelweiss,Departed,16:15,16:10
+2024-10-22,departure,Zurich,Cologne Bonn,euro,Departed,16:15,16:35
+2024-10-22,departure,Zurich,Berlin,swiss,Departed,16:30,16:40
+2024-10-22,departure,Zurich,Dubai DWC,beond_logo,Departed,16:30,20:50
+2024-10-22,departure,Zurich,Madrid,swiss,Departed,16:35,
+2024-10-22,departure,Zurich,Faro,edelweiss,Departed,16:35,
+2024-10-22,departure,Zurich,Dublin,swiss,Departed,16:40,16:45
+2024-10-22,departure,Zurich,London LCY,swiss,Departed,16:45,17:30
+2024-10-22,departure,Zurich,Geneva,swiss,Departed,16:45,
+2024-10-22,departure,Zurich,Skopje,chair,Departed,16:50,
+2024-10-22,departure,Zurich,Sarajevo,swiss,Departed,16:50,
+2024-10-22,departure,Zurich,Copenhagen,swiss,Departed,16:50,17:00
+2024-10-22,departure,Zurich,Munich,lufthansa_neu,Departed,16:55,17:20
+2024-10-22,departure,Zurich,Amsterdam,swiss,Departed,16:55,
+2024-10-22,departure,Zurich,Prague,swiss,Departed,16:55,
+2024-10-22,departure,Zurich,Alicante,swiss,Departed,16:55,
+2024-10-22,departure,Zurich,Shanghai,swiss,Departed,13:00,
+2024-10-22,departure,Zurich,Graz,swiss,Departed,13:00,13:25
+2024-10-22,departure,Zurich,Venice,swiss,Departed,13:00,13:20
+2024-10-22,departure,Zurich,Geneva,swiss,Departed,13:00,13:20
+2024-10-22,departure,Zurich,Milan MXP,swiss,Departed,13:05,13:20
+2024-10-22,departure,Zurich,Reykjavík,edelweiss,Departed,13:05,
+2024-10-22,departure,Zurich,Los Angeles,swiss,Departed,13:05,13:10
+2024-10-22,departure,Zurich,Malaga,swiss,Departed,13:10,13:15
+2024-10-22,departure,Zurich,Chicago,swiss,Departed,13:10,13:20
+2024-10-22,departure,Zurich,Miami,swiss,Departed,13:10,13:25
+2024-10-22,departure,Zurich,San Francisco,swiss,Departed,13:15,13:35
+2024-10-22,departure,Zurich,Munich,lufthansa_neu,Departed,13:15,13:20
+2024-10-22,departure,Zurich,Lisbon,tap,Departed,13:15,13:25
+2024-10-22,departure,Zurich,Vancouver,edelweiss,Departed,13:15,13:25
+2024-10-22,departure,Zurich,New York,swiss,Departed,13:20,13:35
+2024-10-22,departure,Zurich,London LHR,british,Departed,13:20,
+2024-10-22,departure,Zurich,Ljubljana,swiss,Departed,13:20,
+2024-10-22,departure,Zurich,Vienna,austrian,Departed,13:25,13:30
+2024-10-22,departure,Zurich,Toronto,canada,Departed,13:25,
+2024-10-22,departure,Zurich,Bangkok,thai,Departed,13:30,
+2024-10-22,departure,Zurich,New York,delta,Departed,13:35,13:25
+2024-10-22,departure,Zurich,San Francisco,united,Departed,13:35,
+2024-10-22,departure,Zurich,Berlin,swiss,Departed,13:35,13:40
+2024-10-22,departure,Zurich,Seoul,swiss,Departed,13:40,13:45
+2024-10-22,departure,Zurich,Palma De Mallorca,vueling,Departed,13:45,
+2024-10-22,departure,Zurich,Las Vegas,edelweiss,Departed,13:55,
+2024-10-22,departure,Zurich,Fuerteventura,edelweiss,Departed,13:55,
+2024-10-22,departure,Zurich,Alicante,vueling,Departed,14:00,13:50
+2024-10-22,departure,Zurich,Oslo OSL,sas,Departed,14:00,14:20
+2024-10-22,departure,Zurich,Reykjavík,iceland,Departed,14:00,16:35
+2024-10-22,departure,Zurich,Larnaca,edelweiss,Departed,14:05,
+2024-10-22,departure,Zurich,Amsterdam,klm,Departed,14:20,14:40
+2024-10-22,departure,Zurich,Paris CDG,airfrance,Departed,14:35,14:30
+2024-10-22,departure,Zurich,Frankfurt,lufthansa_neu,Departed,14:40,
+2024-10-22,departure,Zurich,London LCY,british,Departed,14:55,15:00
+2024-10-22,departure,Zurich,Izmir,sun,Departed,14:55,14:50
+2024-10-22,departure,Zurich,Madrid,europa,Departed,11:10,12:25
+2024-10-22,departure,Zurich,Porto,easyjet,Departed,11:10,
+2024-10-22,departure,Zurich,Paris CDG,airfrance,Departed,11:10,
+2024-10-22,departure,Zurich,Athens,aegan,Departed,11:15,
+2024-10-22,departure,Zurich,Abu Dhabi,etihad,Departed,11:15,
+2024-10-22,departure,Zurich,Frankfurt,lufthansa_neu,Departed,11:20,11:25
+2024-10-22,departure,Zurich,Istanbul SAW,pegasus,Cancelled,11:35,
+2024-10-22,departure,Zurich,Kalamata,edelweiss,Departed,11:40,11:35
+2024-10-22,departure,Zurich,Istanbul SAW,ajet_logo,Departed,11:40,
+2024-10-22,departure,Zurich,Singapore,singapore,Departed,11:45,11:50
+2024-10-22,departure,Zurich,Zagreb,croatia_v2,Departed,11:45,11:35
+2024-10-22,departure,Zurich,Philadelphia,american,Departed,11:45,11:35
+2024-10-22,departure,Zurich,Tirana,swiss,Departed,11:50,
+2024-10-22,departure,Zurich,Madrid,iberia,Departed,11:50,12:05
+2024-10-22,departure,Zurich,Amsterdam,klm,Departed,11:50,12:25
+2024-10-22,departure,Zurich,London LCY,swiss,Departed,11:50,12:00
+2024-10-22,departure,Zurich,Marrakesh,edelweiss,Departed,11:55,
+2024-10-22,departure,Zurich,Washington,united,Departed,11:55,
+2024-10-22,departure,Zurich,Gothenburg,swiss,Departed,12:00,
+2024-10-22,departure,Zurich,Brindisi,swiss,Departed,12:00,11:55
+2024-10-22,departure,Zurich,Bucharest,swiss,Departed,12:00,12:30
+2024-10-22,departure,Zurich,Palermo,swiss,Departed,12:00,12:05
+2024-10-22,departure,Zurich,London LHR,swiss,Departed,12:05,
+2024-10-22,departure,Zurich,Stuttgart,swiss,Departed,12:05,13:15
+2024-10-22,departure,Zurich,Valencia,swiss,Departed,12:05,
+2024-10-22,departure,Zurich,Geneva,swiss,Departed,12:10,
+2024-10-22,departure,Zurich,Warsaw,swiss,Departed,12:10,12:15
+2024-10-22,departure,Zurich,Palma De Mallorca,swiss,Departed,12:10,
+2024-10-22,departure,Zurich,Belgrade,swiss,Departed,12:15,13:05
+2024-10-22,departure,Zurich,Naples,swiss,Departed,12:15,
+2024-10-22,departure,Zurich,Nantes,swiss,Departed,12:15,
+2024-10-22,departure,Zurich,Budapest,swiss,Departed,12:15,
+2024-10-22,departure,Zurich,Barcelona,swiss,Departed,12:20,12:35
+2024-10-22,departure,Zurich,Delhi,swiss,Departed,12:20,
+2024-10-22,departure,Zurich,Athens,swiss,Departed,12:20,
+2024-10-22,departure,Zurich,Palma De Mallorca,edelweiss,Departed,12:25,12:30
+2024-10-22,departure,Zurich,Krakow,swiss,Departed,12:25,
+2024-10-22,departure,Zurich,Vienna,swiss,Departed,12:25,
+2024-10-22,departure,Zurich,Tel Aviv,elalisrael,Departed,12:30,12:55
+2024-10-22,departure,Zurich,Berlin,swiss,Departed,12:30,12:35
+2024-10-22,departure,Zurich,Amsterdam,swiss,Departed,12:30,12:45
+2024-10-22,departure,Zurich,Stockholm,swiss,Departed,12:35,
+2024-10-22,departure,Zurich,Hamburg,swiss,Departed,12:35,12:40
+2024-10-22,departure,Zurich,Bordeaux,swiss,Departed,12:35,13:05
+2024-10-22,departure,Zurich,Copenhagen,swiss,Departed,12:35,
+2024-10-22,departure,Zurich,Hanover,swiss,Departed,12:40,
+2024-10-22,departure,Zurich,Dubai DXB,swiss,Departed,12:40,12:55
+2024-10-22,departure,Zurich,Montreal,swiss,Departed,12:40,12:45
+2024-10-22,departure,Zurich,Rome FCO,swiss,Departed,12:45,13:20
+2024-10-22,departure,Zurich,Düsseldorf,swiss,Departed,12:45,12:50
+2024-10-22,departure,Zurich,Lisbon,swiss,Departed,12:45,13:00
+2024-10-22,departure,Zurich,Prague,swiss,Departed,12:45,12:52
+2024-10-22,departure,Zurich,Frankfurt,swiss,Departed,12:50,
+2024-10-22,departure,Zurich,Nice,swiss,Departed,12:50,
+2024-10-22,departure,Zurich,Florence,swiss,Departed,12:50,13:00
+2024-10-22,departure,Zurich,Paris CDG,swiss,Departed,12:55,13:30
+2024-10-22,departure,Zurich,Washington,swiss,Departed,12:55,13:02
+2024-10-22,departure,Zurich,Brussels,swiss,Departed,12:55,12:50
+2024-10-22,departure,Zurich,Boston,swiss,Departed,12:55,
+2024-10-22,departure,Zurich,Luxembourg,swiss,Departed,09:00,
+2024-10-22,departure,Zurich,Milan MXP,swiss,Departed,09:00,
+2024-10-22,departure,Zurich,Brussels,brussels_airlines_logo,Departed,09:00,
+2024-10-22,departure,Zurich,Hamburg,euro,Departed,09:05,09:15
+2024-10-22,departure,Zurich,Geneva,swiss,Departed,09:10,09:45
+2024-10-22,departure,Zurich,Amsterdam,klm,Departed,09:20,09:10
+2024-10-22,departure,Zurich,Munich,lufthansa_neu,Departed,09:20,
+2024-10-22,departure,Zurich,Zanzibarvia Kilimanjaro,edelweiss,Departed,09:25,09:35
+2024-10-22,departure,Zurich,Frankfurt,lufthansa_neu,Departed,09:30,
+2024-10-22,departure,Zurich,Valencia,swiss,Departed,09:30,09:35
+2024-10-22,departure,Zurich,Stuttgart,swiss,Departed,09:35,
+2024-10-22,departure,Zurich,Antalya,sun,Closed,09:40,
+2024-10-22,departure,Zurich,Thessaloniki,swiss,Departed,09:40,
+2024-10-22,departure,Zurich,Malaga,swiss,Departed,09:40,09:45
+2024-10-22,departure,Zurich,Porto,swiss,Departed,09:45,09:55
+2024-10-22,departure,Zurich,Barcelona,vueling,Departed,09:45,
+2024-10-22,departure,Zurich,Athens,swiss,Departed,09:45,
+2024-10-22,departure,Zurich,Belgrade,serbia,Departed,09:50,
+2024-10-22,departure,Zurich,Berlin,euro,Departed,09:50,
+2024-10-22,departure,Zurich,Chicago,united,Departed,09:50,
+2024-10-22,departure,Zurich,Mumbai,swiss,Departed,09:55,10:05
+2024-10-22,departure,Zurich,Stockholm,swiss,Departed,09:55,10:01
+2024-10-22,departure,Zurich,Toronto,swiss,Departed,09:55,
+2024-10-22,departure,Zurich,New York,swiss,Departed,10:00,
+2024-10-22,departure,Zurich,London LCY,british,Departed,10:05,09:55
+2024-10-22,departure,Zurich,Newark,united,Departed,10:10,
+2024-10-22,departure,Zurich,Copenhagen,sas,Departed,10:20,13:55
+2024-10-22,departure,Zurich,Izmir,sun,Departed,10:25,
+2024-10-22,departure,Zurich,Warsaw,lot,Departed,10:25,
+2024-10-22,departure,Zurich,London LHR,swiss,Departed,10:30,10:35
+2024-10-22,departure,Zurich,London LGW,easyjet,Departed,10:35,10:40
+2024-10-22,departure,Zurich,London LHR,british,Cancelled,10:35,
+2024-10-22,departure,Zurich,Vienna,austrian,Departed,10:40,
+2024-10-22,departure,Zurich,Dublin,swiss,Departed,10:50,10:57
+2024-10-22,departure,Zurich,Oslo OSL,swiss,Departed,10:50,14:05
+2024-10-22,departure,Zurich,Helsinki,finnair,Departed,10:50,
+2024-10-22,departure,Zurich,Istanbul IST,turkish,Departed,10:50,10:55
+2024-10-22,departure,Zurich,Antalya,pegasus,Departed,10:55,12:30
+2024-10-22,departure,Zurich,Naples,swiss,Departed,07:00,
+2024-10-22,departure,Zurich,Amsterdam,klm,Departed,07:00,06:55
+2024-10-22,departure,Zurich,Frankfurt,swiss,Departed,07:00,
+2024-10-22,departure,Zurich,Madrid,swiss,Departed,07:00,07:05
+2024-10-22,departure,Zurich,London LHR,swiss,Departed,07:05,07:15
+2024-10-22,departure,Zurich,Manchester,swiss,Departed,07:05,07:22
+2024-10-22,departure,Zurich,Palma De Mallorca,swiss,Departed,07:05,
+2024-10-22,departure,Zurich,Vienna,swiss,Departed,07:10,
+2024-10-22,departure,Zurich,Copenhagen,swiss,Departed,07:10,
+2024-10-22,departure,Zurich,Barcelona,swiss,Departed,07:10,
+2024-10-22,departure,Zurich,Belgrade,swiss,Departed,07:10,07:25
+2024-10-22,departure,Zurich,London LHR,british,Departed,07:15,
+2024-10-22,departure,Zurich,Hamburg,swiss,Departed,07:15,
+2024-10-22,departure,Zurich,Munich,swiss,Departed,07:15,
+2024-10-22,departure,Zurich,Rome FCO,swiss,Departed,07:20,07:25
+2024-10-22,departure,Zurich,Berlin,swiss,Departed,07:20,
+2024-10-22,departure,Zurich,Amsterdam,swiss,Departed,07:20,
+2024-10-22,departure,Zurich,Budapest,swiss,Departed,07:20,
+2024-10-22,departure,Zurich,Brussels,swiss,Departed,07:25,
+2024-10-22,departure,Zurich,Paris CDG,swiss,Departed,07:25,
+2024-10-22,departure,Zurich,Prague,swiss,Departed,07:25,
+2024-10-22,departure,Zurich,Düsseldorf,swiss,Departed,07:30,07:40
+2024-10-22,departure,Zurich,Geneva,swiss,Departed,07:30,07:35
+2024-10-22,departure,Zurich,Madrid,iberia,Departed,07:30,07:45
+2024-10-22,departure,Zurich,Nice,swiss,Departed,07:30,
+2024-10-22,departure,Zurich,Paris CDG,airfrance,Departed,07:45,
+2024-10-22,departure,Zurich,Cologne Bonn,euro,Departed,08:05,08:20
+2024-10-22,departure,Zurich,Florence,swiss,Departed,08:05,
+2024-10-22,departure,Zurich,London LCY,swiss,Departed,08:10,
+2024-10-22,departure,Zurich,Frankfurt,lufthansa_neu,Departed,08:15,
+2024-10-22,departure,Zurich,Hamburg,swiss,Departed,08:30,08:25
+2024-10-22,departure,Zurich,Dresden,swiss,Departed,08:35,
+2024-10-22,departure,Zurich,Berlin,swiss,Departed,08:40,08:35
+2024-10-22,departure,Zurich,Ljubljana,swiss,Cancelled,08:45,
+2024-10-22,departure,Zurich,Düsseldorf,euro,Departed,08:45,
+2024-10-22,departure,Zurich,Venice,swiss,Departed,08:50,08:45
+2024-10-22,departure,Zurich,Vienna,austrian,Departed,08:50,
+2024-10-22,departure,Zurich,Bologna,swiss,Departed,08:55,08:50
+2024-10-22,departure,Zurich,Pristina,chair,Departed,05:45,
+2024-10-22,departure,Zurich,Djerba,edelweiss,Departed,05:45,
+2024-10-22,departure,Zurich,Seville,edelweiss,Departed,06:00,
+2024-10-22,departure,Zurich,Gran Canaria,edelweiss,Departed,06:00,06:20
+2024-10-22,departure,Zurich,Tenerife,edelweiss,Departed,06:10,
+2024-10-22,departure,Zurich,Madeira,edelweiss,Departed,06:10,
+2024-10-22,departure,Zurich,Porto,swiss,Departed,06:20,
+2024-10-22,departure,Zurich,Hurghada,chair,Departed,06:20,
+2024-10-22,departure,Zurich,Lisbon,tap,Departed,06:20,06:35
+2024-10-22,departure,Zurich,Thessaloniki,swiss,Departed,06:25,
+2024-10-22,departure,Zurich,Marsa Alam,edelweiss,Departed,06:25,06:30
+2024-10-22,departure,Zurich,Heraklion,edelweiss,Departed,06:25,06:15
+2024-10-22,departure,Zurich,Lanzarote,edelweiss,Departed,06:30,
+2024-10-22,departure,Zurich,Chania,edelweiss,Departed,06:35,06:25
+2024-10-22,departure,Zurich,Pristina,edelweiss,Departed,06:35,
+2024-10-22,departure,Zurich,Malta,swiss,Departed,06:40,
+2024-10-22,departure,Zurich,Rhodes,edelweiss,Departed,06:45,06:40
+2024-10-22,departure,Zurich,Hurghada,edelweiss,Departed,06:45,
+2024-10-22,departure,Zurich,London LCY,swiss,Departed,06:50,
+2024-10-22,departure,Zurich,Brindisi,swiss,Departed,06:50,
+2024-10-22,departure,Zurich,Warsaw,swiss,Departed,06:55,
+2024-10-22,departure,Zurich,Palermo,swiss,Departed,06:55,
+2024-10-22,departure,Zurich,Sofia,swiss,Departed,06:55,
+2024-10-22,departure,Zurich,Hanover,swiss,Departed,06:55,07:05

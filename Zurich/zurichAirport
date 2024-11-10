@@ -1,0 +1,131 @@
+#!/usr/bin/env python3
+"""\
+authors:	Mouhamadou Thiam
+date:		06.10.2024
+"""
+
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.support.wait import WebDriverWait
+from selenium.webdriver.common.by import By
+# from webdriver_manager.chrome import ChromeDriverManager
+from bs4 import BeautifulSoup
+from pathlib import Path
+import pandas as pd
+import time
+from datetime import datetime
+today = datetime.today().strftime('%Y-%m-%d')
+
+print(f'Starts at {datetime.today()}')
+
+# website class
+class AirportWebsite():
+    def __init__(self, type, url):
+        self.Type = type
+        self.Url = url
+
+# Create website objects and store them in a list
+airportWebsites = [AirportWebsite("arrival","https://www.flughafen-zuerich.ch/en/passengers/fly/flightinformation/arrivals"),
+                   AirportWebsite("departure","https://www.flughafen-zuerich.ch/en/passengers/fly/flightinformation/departures")]
+
+# Set up Chrome options for Selenium
+chrome_options = Options()
+chrome_options.add_argument("--headless")  # Run in headless mode (no GUI)
+chrome_options.add_argument("--no-sandbox")
+
+# chrome_options = webdriver.ChromeOptions()
+#chrome_options.add_experimental_option("prefs", {"profile.default_content_setting_values.cookies": 2})
+
+
+# Initialize the Selenium WebDriver
+# driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
+driver = webdriver.Chrome(options=chrome_options)
+
+# Initialize a list to store the scraped data
+flights_data = []
+
+# Loop through the 2 urls
+for website in airportWebsites:
+    driver.get(website.Url)
+
+    # Wait for the page to fully load with explicit waits
+    wait = WebDriverWait(driver, 20)
+
+    for i in range(9):
+
+        # Wait for the planned header to load
+        wait.until(lambda x: x.find_element(By.CSS_SELECTOR, ".flightListTable__cellPlanned"))
+        time.sleep(5)  # Adding 5 more seconds to make sure the page is loaded
+
+        # Use Selenium to get the page source and parse it with BeautifulSoup
+        soup = BeautifulSoup(driver.page_source, 'html.parser')
+
+        # Find the table rows containing the flight information
+        rows = soup.find('tbody', class_='css-1p9smcc')
+
+        # Loop through each row and extract the necessary information
+        for row in rows.contents:
+            try:
+                txt = row.find('td', class_='flightListTable__cellPlanned').text
+                if row.find('td', class_='flightListTable__cellPlanned').find('div', class_='crossed') is not None:
+                    txt = row.find('td', class_='flightListTable__cellPlanned').find('div', class_='crossed').text.strip()
+                planned = txt
+                expected = row.find('td', class_='flightListTable__cellEstimated').text.strip()
+                airport = row.find('td', class_='flightListTable__cellAirport').text.strip()
+                src = ""
+                if row.find('td', class_='flightListTable__cellAirline').next.has_attr('src'):
+                    src = row.find('td', class_='flightListTable__cellAirline').next['src']
+                else:
+                   continue
+                airline = Path(src).stem
+                # flight_number = row.find('div', class_='flightListTable__cellFlightNumber').text.strip()
+                status = row.find('td', class_='flightListTable__cellStatus').next.text.strip()
+
+                # Append the scraped data to the list
+                flights_data.append({
+                    'Date': today,
+                    'Type': website.Type,
+                    'LocalAirport':'Zurich',
+                    'ForeignAirport': airport,
+                    'Airline': airline,
+                    'Status': status,
+                    'Planned': planned,
+                    'Expected': expected
+
+                    #'Flight number': flight_number,
+                })
+            except AttributeError:
+                print(row.prettify())
+                # In case some fields are missing, handle them gracefully
+                continue
+
+        # Get the Earlier button
+        earlierBtn = driver.find_element(By.CSS_SELECTOR, '.isBefore')
+        # Click on the button to go the previous flights
+        if earlierBtn.is_enabled():
+            earlierBtn.click()
+
+# Close the Selenium browser
+driver.quit()
+
+# Convert the scraped data into a pandas DataFrame
+df = pd.DataFrame(flights_data)
+
+from pathlib import Path
+
+# Define the file path using Path
+file_path = Path(f'Zurich/data/zurich_airport_{today}.csv')
+# Create the directory if it doesn't exist
+# file_path.parent.mkdir(parents=True, exist_ok=True)
+# Check if the file exists
+if file_path.exists():
+    # If file exists, append without header
+    df.to_csv(file_path, mode='a', header=False, index=False)
+else:
+    # If file doesn't exist, create it with header
+    df.to_csv(file_path, mode='w', header=True, index=False)
+
+# Display the DataFrame
+print(df)
+print(f'Ends at {datetime.today()}')

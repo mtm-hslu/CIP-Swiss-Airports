@@ -1,0 +1,343 @@
+Date,Type,LocalAirport,ForeignAirport,Airline,Status,Planned,Expected
+2024-10-25,arrival,Zurich,Dubai DXB,swiss,To details page,06:10,06:12
+2024-10-25,arrival,Zurich,Montreal,swiss,To details page,06:10,06:04
+2024-10-25,arrival,Zurich,New York,swiss,To details page,06:10,
+2024-10-25,arrival,Zurich,Mumbai,swiss,To details page,06:15,06:43
+2024-10-25,arrival,Zurich,Singapore,swiss,To details page,06:15,06:41
+2024-10-25,arrival,Zurich,Johannesburg,swiss,To details page,06:15,06:09
+2024-10-25,arrival,Zurich,Hong Kong,swiss,To details page,06:15,06:20
+2024-10-25,arrival,Zurich,Delhi,swiss,To details page,06:20,06:22
+2024-10-25,arrival,Zurich,Boston,swiss,To details page,06:20,06:38
+2024-10-25,arrival,Zurich,Toronto,swiss,To details page,06:25,06:17
+2024-10-25,arrival,Zurich,Cape Town,edelweiss,To details page,06:30,06:20
+2024-10-25,arrival,Zurich,Cairo,swiss,To details page,06:30,
+2024-10-25,arrival,Zurich,Larnaca,edelweiss,To details page,06:35,
+2024-10-25,arrival,Zurich,Geneva,swiss,To details page,06:45,
+2024-10-25,arrival,Zurich,Milan MXP,swiss,To details page,06:55,
+2024-10-25,arrival,Zurich,Dubai DXB,swiss,To details page,06:10,06:12
+2024-10-25,arrival,Zurich,Montreal,swiss,To details page,06:10,06:04
+2024-10-25,arrival,Zurich,New York,swiss,To details page,06:10,
+2024-10-25,arrival,Zurich,Mumbai,swiss,To details page,06:15,06:43
+2024-10-25,arrival,Zurich,Singapore,swiss,To details page,06:15,06:41
+2024-10-25,arrival,Zurich,Johannesburg,swiss,To details page,06:15,06:09
+2024-10-25,arrival,Zurich,Hong Kong,swiss,To details page,06:15,06:20
+2024-10-25,arrival,Zurich,Delhi,swiss,To details page,06:20,06:22
+2024-10-25,arrival,Zurich,Boston,swiss,To details page,06:20,06:38
+2024-10-25,arrival,Zurich,Toronto,swiss,To details page,06:25,06:17
+2024-10-25,arrival,Zurich,Cape Town,edelweiss,To details page,06:30,06:20
+2024-10-25,arrival,Zurich,Cairo,swiss,To details page,06:30,
+2024-10-25,arrival,Zurich,Larnaca,edelweiss,To details page,06:35,
+2024-10-25,arrival,Zurich,Geneva,swiss,To details page,06:45,
+2024-10-25,arrival,Zurich,Milan MXP,swiss,To details page,06:55,
+2024-10-25,arrival,Zurich,Dubai DXB,swiss,To details page,06:10,06:12
+2024-10-25,arrival,Zurich,Montreal,swiss,To details page,06:10,06:04
+2024-10-25,arrival,Zurich,New York,swiss,To details page,06:10,
+2024-10-25,arrival,Zurich,Mumbai,swiss,To details page,06:15,06:43
+2024-10-25,arrival,Zurich,Singapore,swiss,To details page,06:15,06:41
+2024-10-25,arrival,Zurich,Johannesburg,swiss,To details page,06:15,06:09
+2024-10-25,arrival,Zurich,Hong Kong,swiss,To details page,06:15,06:20
+2024-10-25,arrival,Zurich,Delhi,swiss,To details page,06:20,06:22
+2024-10-25,arrival,Zurich,Boston,swiss,To details page,06:20,06:38
+2024-10-25,arrival,Zurich,Toronto,swiss,To details page,06:25,06:17
+2024-10-25,arrival,Zurich,Cape Town,edelweiss,To details page,06:30,06:20
+2024-10-25,arrival,Zurich,Cairo,swiss,To details page,06:30,
+2024-10-25,arrival,Zurich,Larnaca,edelweiss,To details page,06:35,
+2024-10-25,arrival,Zurich,Geneva,swiss,To details page,06:45,
+2024-10-25,arrival,Zurich,Milan MXP,swiss,To details page,06:55,
+2024-10-25,arrival,Zurich,Dubai DXB,swiss,To details page,06:10,06:12
+2024-10-25,arrival,Zurich,Montreal,swiss,To details page,06:10,06:04
+2024-10-25,arrival,Zurich,New York,swiss,To details page,06:10,
+2024-10-25,arrival,Zurich,Mumbai,swiss,To details page,06:15,06:43
+2024-10-25,arrival,Zurich,Singapore,swiss,To details page,06:15,06:41
+2024-10-25,arrival,Zurich,Johannesburg,swiss,To details page,06:15,06:09
+2024-10-25,arrival,Zurich,Hong Kong,swiss,To details page,06:15,06:20
+2024-10-25,arrival,Zurich,Delhi,swiss,To details page,06:20,06:22
+2024-10-25,arrival,Zurich,Boston,swiss,To details page,06:20,06:38
+2024-10-25,arrival,Zurich,Toronto,swiss,To details page,06:25,06:17
+2024-10-25,arrival,Zurich,Cape Town,edelweiss,To details page,06:30,06:20
+2024-10-25,arrival,Zurich,Cairo,swiss,To details page,06:30,
+2024-10-25,arrival,Zurich,Larnaca,edelweiss,To details page,06:35,
+2024-10-25,arrival,Zurich,Geneva,swiss,To details page,06:45,
+2024-10-25,arrival,Zurich,Milan MXP,swiss,To details page,06:55,
+2024-10-25,arrival,Zurich,Dubai DXB,swiss,To details page,06:10,06:12
+2024-10-25,arrival,Zurich,Montreal,swiss,To details page,06:10,06:04
+2024-10-25,arrival,Zurich,New York,swiss,To details page,06:10,
+2024-10-25,arrival,Zurich,Mumbai,swiss,To details page,06:15,06:43
+2024-10-25,arrival,Zurich,Singapore,swiss,To details page,06:15,06:41
+2024-10-25,arrival,Zurich,Johannesburg,swiss,To details page,06:15,06:09
+2024-10-25,arrival,Zurich,Hong Kong,swiss,To details page,06:15,06:20
+2024-10-25,arrival,Zurich,Delhi,swiss,To details page,06:20,06:22
+2024-10-25,arrival,Zurich,Boston,swiss,To details page,06:20,06:38
+2024-10-25,arrival,Zurich,Toronto,swiss,To details page,06:25,06:17
+2024-10-25,arrival,Zurich,Cape Town,edelweiss,To details page,06:30,06:20
+2024-10-25,arrival,Zurich,Cairo,swiss,To details page,06:30,
+2024-10-25,arrival,Zurich,Larnaca,edelweiss,To details page,06:35,
+2024-10-25,arrival,Zurich,Geneva,swiss,To details page,06:45,
+2024-10-25,arrival,Zurich,Milan MXP,swiss,To details page,06:55,
+2024-10-25,arrival,Zurich,Dubai DXB,swiss,To details page,06:10,06:12
+2024-10-25,arrival,Zurich,Montreal,swiss,To details page,06:10,06:04
+2024-10-25,arrival,Zurich,New York,swiss,To details page,06:10,
+2024-10-25,arrival,Zurich,Mumbai,swiss,To details page,06:15,06:43
+2024-10-25,arrival,Zurich,Singapore,swiss,To details page,06:15,06:41
+2024-10-25,arrival,Zurich,Johannesburg,swiss,To details page,06:15,06:09
+2024-10-25,arrival,Zurich,Hong Kong,swiss,To details page,06:15,06:20
+2024-10-25,arrival,Zurich,Delhi,swiss,To details page,06:20,06:22
+2024-10-25,arrival,Zurich,Boston,swiss,To details page,06:20,06:38
+2024-10-25,arrival,Zurich,Toronto,swiss,To details page,06:25,06:17
+2024-10-25,arrival,Zurich,Cape Town,edelweiss,To details page,06:30,06:20
+2024-10-25,arrival,Zurich,Cairo,swiss,To details page,06:30,
+2024-10-25,arrival,Zurich,Larnaca,edelweiss,To details page,06:35,
+2024-10-25,arrival,Zurich,Geneva,swiss,To details page,06:45,
+2024-10-25,arrival,Zurich,Milan MXP,swiss,To details page,06:55,
+2024-10-25,arrival,Zurich,Dubai DXB,swiss,To details page,06:10,06:12
+2024-10-25,arrival,Zurich,Montreal,swiss,To details page,06:10,06:04
+2024-10-25,arrival,Zurich,New York,swiss,To details page,06:10,
+2024-10-25,arrival,Zurich,Mumbai,swiss,To details page,06:15,06:43
+2024-10-25,arrival,Zurich,Singapore,swiss,To details page,06:15,06:41
+2024-10-25,arrival,Zurich,Johannesburg,swiss,To details page,06:15,06:09
+2024-10-25,arrival,Zurich,Hong Kong,swiss,To details page,06:15,06:20
+2024-10-25,arrival,Zurich,Delhi,swiss,To details page,06:20,06:22
+2024-10-25,arrival,Zurich,Boston,swiss,To details page,06:20,06:38
+2024-10-25,arrival,Zurich,Toronto,swiss,To details page,06:25,06:17
+2024-10-25,arrival,Zurich,Cape Town,edelweiss,To details page,06:30,06:20
+2024-10-25,arrival,Zurich,Cairo,swiss,To details page,06:30,
+2024-10-25,arrival,Zurich,Larnaca,edelweiss,To details page,06:35,
+2024-10-25,arrival,Zurich,Geneva,swiss,To details page,06:45,
+2024-10-25,arrival,Zurich,Milan MXP,swiss,To details page,06:55,
+2024-10-25,arrival,Zurich,Dubai DXB,swiss,To details page,06:10,06:12
+2024-10-25,arrival,Zurich,Montreal,swiss,To details page,06:10,06:04
+2024-10-25,arrival,Zurich,New York,swiss,To details page,06:10,
+2024-10-25,arrival,Zurich,Mumbai,swiss,To details page,06:15,06:43
+2024-10-25,arrival,Zurich,Singapore,swiss,To details page,06:15,06:41
+2024-10-25,arrival,Zurich,Johannesburg,swiss,To details page,06:15,06:09
+2024-10-25,arrival,Zurich,Hong Kong,swiss,To details page,06:15,06:20
+2024-10-25,arrival,Zurich,Delhi,swiss,To details page,06:20,06:22
+2024-10-25,arrival,Zurich,Boston,swiss,To details page,06:20,06:38
+2024-10-25,arrival,Zurich,Toronto,swiss,To details page,06:25,06:17
+2024-10-25,arrival,Zurich,Cape Town,edelweiss,To details page,06:30,06:20
+2024-10-25,arrival,Zurich,Cairo,swiss,To details page,06:30,
+2024-10-25,arrival,Zurich,Larnaca,edelweiss,To details page,06:35,
+2024-10-25,arrival,Zurich,Geneva,swiss,To details page,06:45,
+2024-10-25,arrival,Zurich,Milan MXP,swiss,To details page,06:55,
+2024-10-25,arrival,Zurich,Dubai DXB,swiss,To details page,06:10,06:12
+2024-10-25,arrival,Zurich,Montreal,swiss,To details page,06:10,06:04
+2024-10-25,arrival,Zurich,New York,swiss,To details page,06:10,
+2024-10-25,arrival,Zurich,Mumbai,swiss,To details page,06:15,06:43
+2024-10-25,arrival,Zurich,Singapore,swiss,To details page,06:15,06:41
+2024-10-25,arrival,Zurich,Johannesburg,swiss,To details page,06:15,06:09
+2024-10-25,arrival,Zurich,Hong Kong,swiss,To details page,06:15,06:20
+2024-10-25,arrival,Zurich,Delhi,swiss,To details page,06:20,06:22
+2024-10-25,arrival,Zurich,Boston,swiss,To details page,06:20,06:38
+2024-10-25,arrival,Zurich,Toronto,swiss,To details page,06:25,06:17
+2024-10-25,arrival,Zurich,Cape Town,edelweiss,To details page,06:30,06:20
+2024-10-25,arrival,Zurich,Cairo,swiss,To details page,06:30,
+2024-10-25,arrival,Zurich,Larnaca,edelweiss,To details page,06:35,
+2024-10-25,arrival,Zurich,Geneva,swiss,To details page,06:45,
+2024-10-25,arrival,Zurich,Milan MXP,swiss,To details page,06:55,
+2024-10-25,departure,Zurich,Pristina,chair,To details page,05:45,
+2024-10-25,departure,Zurich,Dalaman,edelweiss,To details page,06:00,
+2024-10-25,departure,Zurich,Hurghada,edelweiss,To details page,06:00,
+2024-10-25,departure,Zurich,Tenerife,edelweiss,To details page,06:10,
+2024-10-25,departure,Zurich,Lisbon,tap,To details page,06:10,
+2024-10-25,departure,Zurich,Bilbao,edelweiss,To details page,06:20,
+2024-10-25,departure,Zurich,Porto,swiss,To details page,06:20,
+2024-10-25,departure,Zurich,Gran Canaria,edelweiss,To details page,06:20,
+2024-10-25,departure,Zurich,Sharm El Sheikh,edelweiss,To details page,06:20,
+2024-10-25,departure,Zurich,Olbia,edelweiss,To details page,06:25,
+2024-10-25,departure,Zurich,Antalya,edelweiss,To details page,06:25,
+2024-10-25,departure,Zurich,Hurghada,chair,To details page,06:30,
+2024-10-25,departure,Zurich,Edinburgh,edelweiss,To details page,06:30,
+2024-10-25,departure,Zurich,Thessaloniki,swiss,To details page,06:30,
+2024-10-25,departure,Zurich,Rhodes,edelweiss,To details page,06:40,
+2024-10-25,departure,Zurich,Pristina,edelweiss,To details page,06:40,
+2024-10-25,departure,Zurich,Brindisi,swiss,To details page,06:45,
+2024-10-25,departure,Zurich,Košice,swiss,To details page,06:50,
+2024-10-25,departure,Zurich,Tirana,swiss,To details page,06:50,
+2024-10-25,departure,Zurich,Palma De Mallorca,swiss,To details page,06:50,
+2024-10-25,departure,Zurich,Palermo,swiss,To details page,06:55,
+2024-10-25,departure,Zurich,Warsaw,swiss,To details page,06:55,
+2024-10-25,departure,Zurich,Bordeaux,swiss,To details page,06:55,
+2024-10-25,departure,Zurich,Pristina,chair,To details page,05:45,
+2024-10-25,departure,Zurich,Dalaman,edelweiss,To details page,06:00,
+2024-10-25,departure,Zurich,Hurghada,edelweiss,To details page,06:00,
+2024-10-25,departure,Zurich,Tenerife,edelweiss,To details page,06:10,
+2024-10-25,departure,Zurich,Lisbon,tap,To details page,06:10,
+2024-10-25,departure,Zurich,Bilbao,edelweiss,To details page,06:20,
+2024-10-25,departure,Zurich,Porto,swiss,To details page,06:20,
+2024-10-25,departure,Zurich,Gran Canaria,edelweiss,To details page,06:20,
+2024-10-25,departure,Zurich,Sharm El Sheikh,edelweiss,To details page,06:20,
+2024-10-25,departure,Zurich,Olbia,edelweiss,To details page,06:25,
+2024-10-25,departure,Zurich,Antalya,edelweiss,To details page,06:25,
+2024-10-25,departure,Zurich,Hurghada,chair,To details page,06:30,
+2024-10-25,departure,Zurich,Edinburgh,edelweiss,To details page,06:30,
+2024-10-25,departure,Zurich,Thessaloniki,swiss,To details page,06:30,
+2024-10-25,departure,Zurich,Rhodes,edelweiss,To details page,06:40,
+2024-10-25,departure,Zurich,Pristina,edelweiss,To details page,06:40,
+2024-10-25,departure,Zurich,Brindisi,swiss,To details page,06:45,
+2024-10-25,departure,Zurich,Košice,swiss,To details page,06:50,
+2024-10-25,departure,Zurich,Tirana,swiss,To details page,06:50,
+2024-10-25,departure,Zurich,Palma De Mallorca,swiss,To details page,06:50,
+2024-10-25,departure,Zurich,Palermo,swiss,To details page,06:55,
+2024-10-25,departure,Zurich,Warsaw,swiss,To details page,06:55,
+2024-10-25,departure,Zurich,Bordeaux,swiss,To details page,06:55,
+2024-10-25,departure,Zurich,Pristina,chair,To details page,05:45,
+2024-10-25,departure,Zurich,Dalaman,edelweiss,To details page,06:00,
+2024-10-25,departure,Zurich,Hurghada,edelweiss,To details page,06:00,
+2024-10-25,departure,Zurich,Tenerife,edelweiss,To details page,06:10,
+2024-10-25,departure,Zurich,Lisbon,tap,To details page,06:10,
+2024-10-25,departure,Zurich,Bilbao,edelweiss,To details page,06:20,
+2024-10-25,departure,Zurich,Porto,swiss,To details page,06:20,
+2024-10-25,departure,Zurich,Gran Canaria,edelweiss,To details page,06:20,
+2024-10-25,departure,Zurich,Sharm El Sheikh,edelweiss,To details page,06:20,
+2024-10-25,departure,Zurich,Olbia,edelweiss,To details page,06:25,
+2024-10-25,departure,Zurich,Antalya,edelweiss,To details page,06:25,
+2024-10-25,departure,Zurich,Hurghada,chair,To details page,06:30,
+2024-10-25,departure,Zurich,Edinburgh,edelweiss,To details page,06:30,
+2024-10-25,departure,Zurich,Thessaloniki,swiss,To details page,06:30,
+2024-10-25,departure,Zurich,Rhodes,edelweiss,To details page,06:40,
+2024-10-25,departure,Zurich,Pristina,edelweiss,To details page,06:40,
+2024-10-25,departure,Zurich,Brindisi,swiss,To details page,06:45,
+2024-10-25,departure,Zurich,Košice,swiss,To details page,06:50,
+2024-10-25,departure,Zurich,Tirana,swiss,To details page,06:50,
+2024-10-25,departure,Zurich,Palma De Mallorca,swiss,To details page,06:50,
+2024-10-25,departure,Zurich,Palermo,swiss,To details page,06:55,
+2024-10-25,departure,Zurich,Warsaw,swiss,To details page,06:55,
+2024-10-25,departure,Zurich,Bordeaux,swiss,To details page,06:55,
+2024-10-25,departure,Zurich,Pristina,chair,To details page,05:45,
+2024-10-25,departure,Zurich,Dalaman,edelweiss,To details page,06:00,
+2024-10-25,departure,Zurich,Hurghada,edelweiss,To details page,06:00,
+2024-10-25,departure,Zurich,Tenerife,edelweiss,To details page,06:10,
+2024-10-25,departure,Zurich,Lisbon,tap,To details page,06:10,
+2024-10-25,departure,Zurich,Bilbao,edelweiss,To details page,06:20,
+2024-10-25,departure,Zurich,Porto,swiss,To details page,06:20,
+2024-10-25,departure,Zurich,Gran Canaria,edelweiss,To details page,06:20,
+2024-10-25,departure,Zurich,Sharm El Sheikh,edelweiss,To details page,06:20,
+2024-10-25,departure,Zurich,Olbia,edelweiss,To details page,06:25,
+2024-10-25,departure,Zurich,Antalya,edelweiss,To details page,06:25,
+2024-10-25,departure,Zurich,Hurghada,chair,To details page,06:30,
+2024-10-25,departure,Zurich,Edinburgh,edelweiss,To details page,06:30,
+2024-10-25,departure,Zurich,Thessaloniki,swiss,To details page,06:30,
+2024-10-25,departure,Zurich,Rhodes,edelweiss,To details page,06:40,
+2024-10-25,departure,Zurich,Pristina,edelweiss,To details page,06:40,
+2024-10-25,departure,Zurich,Brindisi,swiss,To details page,06:45,
+2024-10-25,departure,Zurich,Košice,swiss,To details page,06:50,
+2024-10-25,departure,Zurich,Tirana,swiss,To details page,06:50,
+2024-10-25,departure,Zurich,Palma De Mallorca,swiss,To details page,06:50,
+2024-10-25,departure,Zurich,Palermo,swiss,To details page,06:55,
+2024-10-25,departure,Zurich,Warsaw,swiss,To details page,06:55,
+2024-10-25,departure,Zurich,Bordeaux,swiss,To details page,06:55,
+2024-10-25,departure,Zurich,Pristina,chair,To details page,05:45,
+2024-10-25,departure,Zurich,Dalaman,edelweiss,To details page,06:00,
+2024-10-25,departure,Zurich,Hurghada,edelweiss,To details page,06:00,
+2024-10-25,departure,Zurich,Tenerife,edelweiss,To details page,06:10,
+2024-10-25,departure,Zurich,Lisbon,tap,To details page,06:10,
+2024-10-25,departure,Zurich,Bilbao,edelweiss,To details page,06:20,
+2024-10-25,departure,Zurich,Porto,swiss,To details page,06:20,
+2024-10-25,departure,Zurich,Gran Canaria,edelweiss,To details page,06:20,
+2024-10-25,departure,Zurich,Sharm El Sheikh,edelweiss,To details page,06:20,
+2024-10-25,departure,Zurich,Olbia,edelweiss,To details page,06:25,
+2024-10-25,departure,Zurich,Antalya,edelweiss,To details page,06:25,
+2024-10-25,departure,Zurich,Hurghada,chair,To details page,06:30,
+2024-10-25,departure,Zurich,Edinburgh,edelweiss,To details page,06:30,
+2024-10-25,departure,Zurich,Thessaloniki,swiss,To details page,06:30,
+2024-10-25,departure,Zurich,Rhodes,edelweiss,To details page,06:40,
+2024-10-25,departure,Zurich,Pristina,edelweiss,To details page,06:40,
+2024-10-25,departure,Zurich,Brindisi,swiss,To details page,06:45,
+2024-10-25,departure,Zurich,Košice,swiss,To details page,06:50,
+2024-10-25,departure,Zurich,Tirana,swiss,To details page,06:50,
+2024-10-25,departure,Zurich,Palma De Mallorca,swiss,To details page,06:50,
+2024-10-25,departure,Zurich,Palermo,swiss,To details page,06:55,
+2024-10-25,departure,Zurich,Warsaw,swiss,To details page,06:55,
+2024-10-25,departure,Zurich,Bordeaux,swiss,To details page,06:55,
+2024-10-25,departure,Zurich,Pristina,chair,To details page,05:45,
+2024-10-25,departure,Zurich,Dalaman,edelweiss,To details page,06:00,
+2024-10-25,departure,Zurich,Hurghada,edelweiss,To details page,06:00,
+2024-10-25,departure,Zurich,Tenerife,edelweiss,To details page,06:10,
+2024-10-25,departure,Zurich,Lisbon,tap,To details page,06:10,
+2024-10-25,departure,Zurich,Bilbao,edelweiss,To details page,06:20,
+2024-10-25,departure,Zurich,Porto,swiss,To details page,06:20,
+2024-10-25,departure,Zurich,Gran Canaria,edelweiss,To details page,06:20,
+2024-10-25,departure,Zurich,Sharm El Sheikh,edelweiss,To details page,06:20,
+2024-10-25,departure,Zurich,Olbia,edelweiss,To details page,06:25,
+2024-10-25,departure,Zurich,Antalya,edelweiss,To details page,06:25,
+2024-10-25,departure,Zurich,Hurghada,chair,To details page,06:30,
+2024-10-25,departure,Zurich,Edinburgh,edelweiss,To details page,06:30,
+2024-10-25,departure,Zurich,Thessaloniki,swiss,To details page,06:30,
+2024-10-25,departure,Zurich,Rhodes,edelweiss,To details page,06:40,
+2024-10-25,departure,Zurich,Pristina,edelweiss,To details page,06:40,
+2024-10-25,departure,Zurich,Brindisi,swiss,To details page,06:45,
+2024-10-25,departure,Zurich,Košice,swiss,To details page,06:50,
+2024-10-25,departure,Zurich,Tirana,swiss,To details page,06:50,
+2024-10-25,departure,Zurich,Palma De Mallorca,swiss,To details page,06:50,
+2024-10-25,departure,Zurich,Palermo,swiss,To details page,06:55,
+2024-10-25,departure,Zurich,Warsaw,swiss,To details page,06:55,
+2024-10-25,departure,Zurich,Bordeaux,swiss,To details page,06:55,
+2024-10-25,departure,Zurich,Pristina,chair,To details page,05:45,
+2024-10-25,departure,Zurich,Dalaman,edelweiss,To details page,06:00,
+2024-10-25,departure,Zurich,Hurghada,edelweiss,To details page,06:00,
+2024-10-25,departure,Zurich,Tenerife,edelweiss,To details page,06:10,
+2024-10-25,departure,Zurich,Lisbon,tap,To details page,06:10,
+2024-10-25,departure,Zurich,Bilbao,edelweiss,To details page,06:20,
+2024-10-25,departure,Zurich,Porto,swiss,To details page,06:20,
+2024-10-25,departure,Zurich,Gran Canaria,edelweiss,To details page,06:20,
+2024-10-25,departure,Zurich,Sharm El Sheikh,edelweiss,To details page,06:20,
+2024-10-25,departure,Zurich,Olbia,edelweiss,To details page,06:25,
+2024-10-25,departure,Zurich,Antalya,edelweiss,To details page,06:25,
+2024-10-25,departure,Zurich,Hurghada,chair,To details page,06:30,
+2024-10-25,departure,Zurich,Edinburgh,edelweiss,To details page,06:30,
+2024-10-25,departure,Zurich,Thessaloniki,swiss,To details page,06:30,
+2024-10-25,departure,Zurich,Rhodes,edelweiss,To details page,06:40,
+2024-10-25,departure,Zurich,Pristina,edelweiss,To details page,06:40,
+2024-10-25,departure,Zurich,Brindisi,swiss,To details page,06:45,
+2024-10-25,departure,Zurich,Košice,swiss,To details page,06:50,
+2024-10-25,departure,Zurich,Tirana,swiss,To details page,06:50,
+2024-10-25,departure,Zurich,Palma De Mallorca,swiss,To details page,06:50,
+2024-10-25,departure,Zurich,Palermo,swiss,To details page,06:55,
+2024-10-25,departure,Zurich,Warsaw,swiss,To details page,06:55,
+2024-10-25,departure,Zurich,Bordeaux,swiss,To details page,06:55,
+2024-10-25,departure,Zurich,Pristina,chair,To details page,05:45,
+2024-10-25,departure,Zurich,Dalaman,edelweiss,To details page,06:00,
+2024-10-25,departure,Zurich,Hurghada,edelweiss,To details page,06:00,
+2024-10-25,departure,Zurich,Tenerife,edelweiss,To details page,06:10,
+2024-10-25,departure,Zurich,Lisbon,tap,To details page,06:10,
+2024-10-25,departure,Zurich,Bilbao,edelweiss,To details page,06:20,
+2024-10-25,departure,Zurich,Porto,swiss,To details page,06:20,
+2024-10-25,departure,Zurich,Gran Canaria,edelweiss,To details page,06:20,
+2024-10-25,departure,Zurich,Sharm El Sheikh,edelweiss,To details page,06:20,
+2024-10-25,departure,Zurich,Olbia,edelweiss,To details page,06:25,
+2024-10-25,departure,Zurich,Antalya,edelweiss,To details page,06:25,
+2024-10-25,departure,Zurich,Hurghada,chair,To details page,06:30,
+2024-10-25,departure,Zurich,Edinburgh,edelweiss,To details page,06:30,
+2024-10-25,departure,Zurich,Thessaloniki,swiss,To details page,06:30,
+2024-10-25,departure,Zurich,Rhodes,edelweiss,To details page,06:40,
+2024-10-25,departure,Zurich,Pristina,edelweiss,To details page,06:40,
+2024-10-25,departure,Zurich,Brindisi,swiss,To details page,06:45,
+2024-10-25,departure,Zurich,Košice,swiss,To details page,06:50,
+2024-10-25,departure,Zurich,Tirana,swiss,To details page,06:50,
+2024-10-25,departure,Zurich,Palma De Mallorca,swiss,To details page,06:50,
+2024-10-25,departure,Zurich,Palermo,swiss,To details page,06:55,
+2024-10-25,departure,Zurich,Warsaw,swiss,To details page,06:55,
+2024-10-25,departure,Zurich,Bordeaux,swiss,To details page,06:55,
+2024-10-25,departure,Zurich,Pristina,chair,To details page,05:45,
+2024-10-25,departure,Zurich,Dalaman,edelweiss,To details page,06:00,
+2024-10-25,departure,Zurich,Hurghada,edelweiss,To details page,06:00,
+2024-10-25,departure,Zurich,Tenerife,edelweiss,To details page,06:10,
+2024-10-25,departure,Zurich,Lisbon,tap,To details page,06:10,
+2024-10-25,departure,Zurich,Bilbao,edelweiss,To details page,06:20,
+2024-10-25,departure,Zurich,Porto,swiss,To details page,06:20,
+2024-10-25,departure,Zurich,Gran Canaria,edelweiss,To details page,06:20,
+2024-10-25,departure,Zurich,Sharm El Sheikh,edelweiss,To details page,06:20,
+2024-10-25,departure,Zurich,Olbia,edelweiss,To details page,06:25,
+2024-10-25,departure,Zurich,Antalya,edelweiss,To details page,06:25,
+2024-10-25,departure,Zurich,Hurghada,chair,To details page,06:30,
+2024-10-25,departure,Zurich,Edinburgh,edelweiss,To details page,06:30,
+2024-10-25,departure,Zurich,Thessaloniki,swiss,To details page,06:30,
+2024-10-25,departure,Zurich,Rhodes,edelweiss,To details page,06:40,
+2024-10-25,departure,Zurich,Pristina,edelweiss,To details page,06:40,
+2024-10-25,departure,Zurich,Brindisi,swiss,To details page,06:45,
+2024-10-25,departure,Zurich,Košice,swiss,To details page,06:50,
+2024-10-25,departure,Zurich,Tirana,swiss,To details page,06:50,
+2024-10-25,departure,Zurich,Palma De Mallorca,swiss,To details page,06:50,
+2024-10-25,departure,Zurich,Palermo,swiss,To details page,06:55,
+2024-10-25,departure,Zurich,Warsaw,swiss,To details page,06:55,
+2024-10-25,departure,Zurich,Bordeaux,swiss,To details page,06:55,
