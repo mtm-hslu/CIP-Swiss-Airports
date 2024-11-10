@@ -34,18 +34,13 @@ chrome_options = Options()
 chrome_options.add_argument("--headless")  # Run in headless mode (no GUI)
 chrome_options.add_argument("--no-sandbox")
 
-# chrome_options = webdriver.ChromeOptions()
-#chrome_options.add_experimental_option("prefs", {"profile.default_content_setting_values.cookies": 2})
-
-
 # Initialize the Selenium WebDriver
-# driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
 driver = webdriver.Chrome(options=chrome_options)
 
 # Initialize a list to store the scraped data
 flights_data = []
 
-# Loop through the 2 urls
+# Loop through the 2 urls (arrivals and departures)
 for website in airportWebsites:
     driver.get(website.Url)
 
@@ -97,7 +92,7 @@ for website in airportWebsites:
                 })
             except AttributeError:
                 print(row.prettify())
-                # In case some fields are missing, handle them gracefully
+                # In case some fields are missing
                 continue
 
         # Get the Earlier button
@@ -115,7 +110,7 @@ df = pd.DataFrame(flights_data)
 from pathlib import Path
 
 # Define the file path using Path
-file_path = Path(f'Zurich/data/zurich_airport_{today}.csv')
+file_path = Path(f'data/zurich_airport_{today}.csv')
 # Create the directory if it doesn't exist
 # file_path.parent.mkdir(parents=True, exist_ok=True)
 # Check if the file exists
