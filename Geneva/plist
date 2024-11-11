@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.geneva.arrivals.scraper</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/nafisaumar/PycharmProjects/pythonProject/.venv/bin/python3</string>
+        <string>/Users/nafisaumar/switchdrive/SyncVM/Pycharm/Exam/Geneva_Airport.py</string>
+    </array>
+    <key>StartInterval</key>
+    <integer>10800</integer> <!-- Run every 3 hours -->
+    <key>StandardOutPath</key>
+    <string>/Users/nafisaumar/geneva_arrivals_scraper.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/nafisaumar/geneva_arrivals_scraper_error.log</string>
+</dict>
+</plist>
