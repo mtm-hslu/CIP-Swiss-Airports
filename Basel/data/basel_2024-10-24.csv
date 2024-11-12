@@ -1,0 +1,228 @@
+Type,Time,Expected,Origin/Destination,Airline,Flight Number,Status,Note,Date Scraped
+Arrivals,5:15,5:14,Liege,FedEx,FX4862,Landed 05:11,Cargo,24-10-24 23:55
+Arrivals,5:15,5:07,Brussels,European Air Transport / DHL,QY4908,Landed 05:05,Cargo,24-10-24 23:55
+Arrivals,5:20,5:11,Cologne Bonn,Sprintair,SRN6262,Landed 05:07,Cargo,24-10-24 23:55
+Arrivals,5:25,5:22,Paris Charles De Gaulle,FedEx,FX6257,Landed 05:17,Cargo,24-10-24 23:55
+Arrivals,5:25,6:08,Lille,Enter Air,E4550,Landed 06:04,Cargo,24-10-24 23:55
+Arrivals,5:30,5:57,Leipzig,DHL Air,D04904,Landed 05:54,Cargo,24-10-24 23:55
+Arrivals,5:50,6:17,Cologne Bonn,Sprintair,SRN1996,Landed 06:13,Cargo,24-10-24 23:55
+Arrivals,5:55,7:26,Cologne Bonn,European Air Transport / DHL,QY4906,Landed 07:24,Cargo,24-10-24 23:55
+Arrivals,7:55,7:48,Frankfurt,Lufthansa,LH1200,Landed 07:47,,24-10-24 23:55
+Arrivals,8:55,8:52,Palma,easyJet,EC7271,Landed 08:50,,24-10-24 23:55
+Arrivals,8:55,8:57,Antalya,SunExpress,XQ110,Landed 08:54,,24-10-24 23:55
+Arrivals,9:05,9:06,Munich,Lufthansa,LH2394,Landed 09:03,,24-10-24 23:55
+Arrivals,9:10,9:09,Antalya,Corendon Airlines,XC4701,Landed 09:06,,24-10-24 23:55
+Arrivals,9:20,9:03,Alicante,easyJet,EC5501,Landed 09:01,,24-10-24 23:55
+Arrivals,9:30,9:17,Malaga,easyJet,EC7021,Landed 09:15,,24-10-24 23:55
+Arrivals,9:35,9:31,Barcelona,easyJet,EC7101,Landed 09:26,,24-10-24 23:55
+Arrivals,9:35,9:33,Amsterdam,easyJet,DS1222,Landed 09:29,,24-10-24 23:55
+Arrivals,9:40,9:36,Vienna,Austrian Airlines,OS471,Landed 09:32,,24-10-24 23:55
+Arrivals,9:40,10:01,Porto,easyJet,EC7731,Landed 09:56,,24-10-24 23:55
+Arrivals,9:40,9:27,Istanbul,Turkish Airlines,TK1923,Landed 09:24,,24-10-24 23:55
+Arrivals,9:45,9:51,Amsterdam,KLM,KL1943,Landed 09:49,,24-10-24 23:55
+Arrivals,9:50,9:54,Dublin,Ryanair,FR5131,Landed 09:51,,24-10-24 23:55
+Arrivals,9:55,9:49,Hamburg,easyJet,DS1182,Landed 09:45,,24-10-24 23:55
+Arrivals,10:00,9:46,Rome,easyJet,DS1124,Landed 09:42,,24-10-24 23:55
+Arrivals,10:15,10:19,Paris Charles De Gaulle,Air France,AF1192,Landed 10:15,,24-10-24 23:55
+Arrivals,10:35,10:14,Budapest,Wizz Air,W62269,Landed 10:11,,24-10-24 23:55
+Arrivals,10:40,10:33,Frankfurt,Lufthansa,LH1202,Landed 10:29,,24-10-24 23:55
+Arrivals,11:00,10:56,Budapest,easyJet,DS1212,Landed 10:52,,24-10-24 23:55
+Arrivals,11:05,11:16,London Gatwick,easyJet,DS8477,Landed 11:11,,24-10-24 23:55
+Arrivals,11:05,11:01,Istanbul Sabiha Gökcen,Ajet,VF105,Landed 10:58,,24-10-24 23:55
+Arrivals,11:05,11:22,Palma,easyJet,DS1004,Landed 11:18,,24-10-24 23:55
+Arrivals,11:05,11:46,Constantine,Air Algérie,AH1170,Landed 11:42,,24-10-24 23:55
+Arrivals,11:15,11:27,Naples,easyJet,EC4221,Landed 11:24,,24-10-24 23:55
+Arrivals,11:20,11:17,London Heathrow,British Airways,BA752,Landed 11:14,,24-10-24 23:55
+Arrivals,12:20,12:19,Istanbul Sabiha Gökcen,Pegasus Airlines,PC939,Landed 12:16,,24-10-24 23:55
+Arrivals,12:30,12:29,London Gatwick,easyJet,DS8500,Landed 12:26,,24-10-24 23:55
+Arrivals,12:30,12:34,Lisbon,easyJet,DS1272,Landed 12:28,,24-10-24 23:55
+Arrivals,12:40,12:42,Athens,easyJet,DS1146,Landed 12:38,,24-10-24 23:55
+Arrivals,12:55,13:01,Munich,Lufthansa,LH2396,Landed 12:57,,24-10-24 23:55
+Arrivals,13:20,13:03,Barcelona,Vueling,VY6260,Landed 12:59,,24-10-24 23:55
+Arrivals,13:35,13:43,Pristina,GP Aviation,IV800,Landed 13:40,,24-10-24 23:55
+Arrivals,13:35,13:46,Nice,easyJet,DS1052,Landed 13:42,,24-10-24 23:55
+Arrivals,13:40,13:56,Frankfurt,Lufthansa,LH1204,Landed 13:52,,24-10-24 23:55
+Arrivals,13:50,14:37,Amsterdam,KLM,KL1945,Landed 14:36,,24-10-24 23:55
+Arrivals,14:00,14:19,Marrakech,easyJet,DS1254,Landed 14:17,,24-10-24 23:55
+Arrivals,14:00,13:34,Heraklion,easyJet,DS1150,Landed 13:31,,24-10-24 23:55
+Arrivals,14:05,14:11,Warsaw,Wizz Air,W61363,Landed 14:09,,24-10-24 23:55
+Arrivals,14:25,14:17,Krakow,easyJet,DS1262,Landed 14:14,,24-10-24 23:55
+Arrivals,14:30,14:26,Bucharest,Wizz Air,W43089,Landed 14:24,,24-10-24 23:55
+Arrivals,14:30,14:14,Belgrade,Wizz Air,W64051,Landed 14:12,,24-10-24 23:55
+Arrivals,14:55,15:04,Berlin,easyJet,EC5185,Landed 15:02,,24-10-24 23:55
+Arrivals,15:15,14:49,Skopje,Wizz Air,W64731,Landed 14:48,,24-10-24 23:55
+Arrivals,15:25,17:18,Palma,easyJet,EC7273,Landed 17:16,,24-10-24 23:55
+Arrivals,15:30,15:28,Heraklion,Enter Air,E4952,Landed 15:27,,24-10-24 23:55
+Arrivals,15:40,15:34,Madrid,easyJet,DS1016,Landed 15:32,,24-10-24 23:55
+Arrivals,16:00,15:48,Naples,easyJet,EC4229,Landed 15:46,,24-10-24 23:55
+Arrivals,16:15,15:58,Zagreb,Ryanair,FR5862,Landed 15:55,,24-10-24 23:55
+Arrivals,16:30,16:08,Tirana,Wizz Air,W45123,Landed 16:04,,24-10-24 23:55
+Arrivals,16:35,16:29,Barcelona,easyJet,DS1030,Landed 16:27,,24-10-24 23:55
+Arrivals,16:35,16:46,Catania,easyJet,DS1118,Landed 16:44,,24-10-24 23:55
+Arrivals,16:45,16:49,Istanbul Sabiha Gökcen,Pegasus Airlines,PC941,Landed 16:48,,24-10-24 23:55
+Arrivals,16:55,16:36,Olbia,easyJet,DS1108,Landed 16:32,,24-10-24 23:55
+Arrivals,17:00,17:09,Venice,easyJet,EC4083,Landed 17:07,,24-10-24 23:55
+Arrivals,17:25,17:21,Tunis,Nouvelair,BJ166,Landed 17:19,,24-10-24 23:55
+Arrivals,17:30,17:23,Stuttgart,Daimler Chrysler,DCS503,Landed 17:22,Cargo,24-10-24 23:55
+Arrivals,17:30,17:11,Riga,Swiss Air Force,SUI8,Landed 17:10,Cargo,24-10-24 23:55
+Arrivals,17:30,17:29,Emmen,Zimex Aviation,XM64,Landed 17:27,Cargo,24-10-24 23:55
+Arrivals,17:35,18:14,Paris Le Bourget,Netjets,NJE7,Landed 18:11,,24-10-24 23:55
+Arrivals,17:40,17:33,Frankfurt,Lufthansa,LH1206,Landed 17:31,,24-10-24 23:55
+Arrivals,17:55,18:11,Amsterdam,KLM,KL1947,Landed 18:08,,24-10-24 23:55
+Arrivals,18:00,17:56,Istanbul,Turkish Airlines,TK1925,Landed 17:54,,24-10-24 23:55
+Arrivals,18:00,17:39,Faro,easyJet,EC7521,Landed 17:37,,24-10-24 23:55
+Arrivals,18:00,17:59,Split,easyJet,DS1164,Landed 17:56,,24-10-24 23:55
+Arrivals,18:00,18:09,Antalya,SunExpress,XQ210,Landed 18:05,,24-10-24 23:55
+Arrivals,18:05,18:46,Lisbon,easyJet,EC7647,Landed 18:43,,24-10-24 23:55
+Arrivals,18:05,17:52,Copenhagen,easyJet,DS1264,Landed 17:40,,24-10-24 23:55
+Arrivals,18:10,18:58,London Luton,Luxaviation,LXA26,Landed 18:58,Cargo,24-10-24 23:55
+Arrivals,18:10,18:06,Izmir,SunExpress,XQ912,Landed 18:02,,24-10-24 23:55
+Arrivals,18:10,18:02,Ajaccio,easyJet,DS1064,Landed 18:00,,24-10-24 23:55
+Arrivals,18:20,19:22,Oslo,Norwegian,DY1610,Landed 19:22,,24-10-24 23:55
+Arrivals,18:35,18:29,Amsterdam,easyJet,DS1226,Landed 18:27,,24-10-24 23:55
+Arrivals,19:00,19:14,London Heathrow,British Airways,BA754,Landed 19:11,,24-10-24 23:55
+Arrivals,19:15,,Istanbul,Turkish Airlines,TK6285,Cancelled,Cargo,24-10-24 23:55
+Arrivals,19:25,19:41,Oran,ASL Airlines France,5O538,Landed 19:38,,24-10-24 23:55
+Arrivals,19:30,19:49,Pristina,GP Aviation,IV802,Landed 19:48,,24-10-24 23:55
+Arrivals,19:35,19:43,Munich,Air Dolomiti,EN8078,Landed 19:41,,24-10-24 23:55
+Arrivals,19:45,19:38,Vienna,Austrian Airlines,OS473,Landed 19:34,,24-10-24 23:55
+Arrivals,19:45,19:59,Budapest,Wizz Air,W62267,Landed 19:57,,24-10-24 23:55
+Arrivals,19:50,20:16,Amsterdam,easyJet,EC7861,Landed 20:14,,24-10-24 23:55
+Arrivals,20:05,19:47,Cluj,Wizz Air,W43371,Landed 19:44,,24-10-24 23:55
+Arrivals,20:25,20:31,Nis,Wizz Air,W64195,Landed 20:27,,24-10-24 23:55
+Arrivals,20:30,20:23,Barcelona,easyJet,EC7103,Landed 20:21,,24-10-24 23:55
+Arrivals,20:50,21:23,London Gatwick,easyJet,U28483,Landed 21:20,,24-10-24 23:55
+Arrivals,20:55,20:41,Porto,easyJet,EC7733,Landed 20:39,,24-10-24 23:55
+Arrivals,21:15,21:12,Ibiza,easyJet,DS1018,Landed 21:09,,24-10-24 23:55
+Arrivals,21:40,22:24,Amsterdam,KLM,KL1949,Landed 22:22,,24-10-24 23:55
+Arrivals,21:45,22:03,Palermo,easyJet,DS1116,Landed 22:00,,24-10-24 23:55
+Arrivals,21:50,21:41,Paris Charles De Gaulle,FedEx,FX6237,Landed 21:37,Cargo,24-10-24 23:55
+Arrivals,21:55,21:46,Geneva,FedEx,FX4962,Landed 21:45,Cargo,24-10-24 23:55
+Arrivals,22:05,22:19,Frankfurt,Lufthansa,LH1208,Landed 22:16,,24-10-24 23:55
+Arrivals,22:35,22:22,Tenerife,easyJet,DS1026,Landed 22:19,,24-10-24 23:55
+Arrivals,22:40,22:52,Hamburg,easyJet,DS1184,Landed 22:48,,24-10-24 23:55
+Arrivals,22:45,22:56,London Heathrow,British Airways,BA756,Landed 22:54,,24-10-24 23:55
+Arrivals,22:45,22:36,Budapest,easyJet,DS1214,Landed 22:33,,24-10-24 23:55
+Arrivals,22:50,22:44,Pristina,Chair Airlines,GM613,Landed 22:41,,24-10-24 23:55
+Arrivals,22:50,23:08,Porto,easyJet,DS1276,Landed 23:05,,24-10-24 23:55
+Arrivals,22:50,23:11,Edinburgh,easyJet,DS1232,Landed 23:08,,24-10-24 23:55
+Arrivals,23:05,23:37,Pristina,easyJet,DS1208,Landed 23:35,,24-10-24 23:55
+Arrivals,23:15,23:21,Madeira,easyJet,DS1284,Landed 23:16,,24-10-24 23:55
+Arrivals,23:15,23:47,Brindisi,easyJet,DS1120,,,24-10-24 23:55
+Arrivals,23:30,23:57,Berlin,easyJet,DS1190,,,24-10-24 23:55
+Arrivals,23:35,23:59,Kos,Enter Air,E4958,,,24-10-24 23:55
+Departures,6:00,,Athens,easyJet,DS1145,Departed 06:15,,24-10-24 23:55
+Departures,6:05,,Lisbon,easyJet,DS1271,Departed 06:28,,24-10-24 23:55
+Departures,6:05,,Geneva,FedEx,FX4862,Departed 06:17,Cargo,24-10-24 23:55
+Departures,6:05,,Amsterdam,easyJet,DS1221,Departed 06:41,,24-10-24 23:55
+Departures,6:10,,Rome,easyJet,DS1123,Departed 06:18,,24-10-24 23:55
+Departures,6:15,,Amsterdam,KLM,KL1942,Departed 07:52,,24-10-24 23:55
+Departures,6:25,,Marrakech,easyJet,DS1253,Departed 06:51,,24-10-24 23:55
+Departures,6:30,,Hamburg,easyJet,DS1181,Departed 06:31,,24-10-24 23:55
+Departures,6:35,,Palma,easyJet,DS1003,Departed 07:01,,24-10-24 23:55
+Departures,6:35,,London Heathrow,British Airways,BA751,Departed 06:47,,24-10-24 23:55
+Departures,6:40,,Heraklion,easyJet,DS1149,Departed 06:37,,24-10-24 23:55
+Departures,6:40,,Frankfurt,Lufthansa,LH1211,Departed 06:53,,24-10-24 23:55
+Departures,7:00,,London Gatwick,easyJet,DS8476,Departed 07:22,,24-10-24 23:55
+Departures,7:00,,Budapest,easyJet,DS1211,Departed 07:26,,24-10-24 23:55
+Departures,8:05,,Oran,ASL Airlines France,5O537,Departed 08:14,,24-10-24 23:55
+Departures,8:30,,Frankfurt,Lufthansa,LH1201,Departed 08:37,,24-10-24 23:55
+Departures,8:35,,London Gatwick,easyJet,DS8499,Departed 08:55,,24-10-24 23:55
+Departures,8:45,,Pristina,Zimex Aviation,XM64,Departed 09:08,Cargo,24-10-24 23:55
+Departures,8:45,,Heraklion,Enter Air,E4951,Departed 08:52,,24-10-24 23:55
+Departures,9:30,,Palma,easyJet,EC7272,Departed 09:47,,24-10-24 23:55
+Departures,9:40,,Munich,Lufthansa,LH2395,Departed 09:53,,24-10-24 23:55
+Departures,9:45,,Antwerp,,MCK304,Departed 09:50,Cargo,24-10-24 23:55
+Departures,9:45,,Antalya,SunExpress,XQ111,Departed 09:58,,24-10-24 23:55
+Departures,9:50,,Naples,EJMEPORTUG,JME514,Departed 10:02,Cargo,24-10-24 23:55
+Departures,9:55,,Alicante,easyJet,EC5500,Departed 10:03,,24-10-24 23:55
+Departures,10:05,,Malaga,easyJet,EC7022,Departed 10:24,,24-10-24 23:55
+Departures,10:05,,Krakow,easyJet,DS1261,Departed 10:26,,24-10-24 23:55
+Departures,10:05,,Barcelona,easyJet,EC7102,Departed 10:22,,24-10-24 23:55
+Departures,10:10,,Antalya,Corendon Airlines,XC4702,Departed 10:18,,24-10-24 23:55
+Departures,10:15,10:30,Porto,easyJet,EC7732,Departed 10:50,,24-10-24 23:55
+Departures,10:15,,Dublin,Ryanair,FR5132,Departed 10:55,,24-10-24 23:55
+Departures,10:15,10:20,Amsterdam,KLM,KL1944,Departed 10:59,,24-10-24 23:55
+Departures,10:20,,Vienna,Austrian Airlines,OS472,Departed 10:35,,24-10-24 23:55
+Departures,10:25,,Madrid,easyJet,DS1015,Departed 10:40,,24-10-24 23:55
+Departures,10:35,,Nice,easyJet,DS1051,Departed 11:02,,24-10-24 23:55
+Departures,10:35,,Istanbul,Turkish Airlines,TK1924,Departed 10:42,,24-10-24 23:55
+Departures,10:55,,Paris Charles De Gaulle,Air France,AF1193,Departed 11:17,,24-10-24 23:55
+Departures,11:00,,Athens,Netjets,NJE989,Departed 11:13,Cargo,24-10-24 23:55
+Departures,11:10,,Budapest,Wizz Air,W62270,Departed 11:16,,24-10-24 23:55
+Departures,11:15,,Frankfurt,Lufthansa,LH1203,Departed 11:21,,24-10-24 23:55
+Departures,11:30,,Catania,easyJet,DS1117,Departed 11:44,,24-10-24 23:55
+Departures,11:45,,Pristina,Chair Airlines,GM612,Departed 11:52,,24-10-24 23:55
+Departures,11:45,11:55,Naples,easyJet,EC4222,Departed 12:13,,24-10-24 23:55
+Departures,11:46,,Grenchen,REGA,RGA2,Departed 11:46,Cargo,24-10-24 23:55
+Departures,12:05,,Istanbul Sabiha Gökcen,Ajet,VF106,Departed 12:15,,24-10-24 23:55
+Departures,12:10,12:50,Constantine,Air Algérie,AH1171,Departed 13:14,,24-10-24 23:55
+Departures,12:20,,London Heathrow,British Airways,BA753,Departed 12:23,,24-10-24 23:55
+Departures,12:20,,Barcelona,easyJet,DS1029,Departed 12:31,,24-10-24 23:55
+Departures,12:50,,Tenerife,easyJet,DS1025,Departed 12:58,,24-10-24 23:55
+Departures,13:00,,Olbia,easyJet,DS1107,Departed 13:06,,24-10-24 23:55
+Departures,13:25,,Istanbul Sabiha Gökcen,Pegasus Airlines,PC940,Departed 13:29,,24-10-24 23:55
+Departures,13:30,13:35,Munich,Lufthansa,LH2397,Departed 13:49,,24-10-24 23:55
+Departures,13:45,,Copenhagen,easyJet,DS1263,Departed 13:53,,24-10-24 23:55
+Departures,14:00,,Barcelona,Vueling,VY6261,Departed 14:01,,24-10-24 23:55
+Departures,14:15,,Split,easyJet,DS1163,Departed 14:22,,24-10-24 23:55
+Departures,14:15,14:25,Frankfurt,Lufthansa,LH1205,Departed 14:37,,24-10-24 23:55
+Departures,14:20,15:15,Amsterdam,KLM,KL1946,Departed 15:37,,24-10-24 23:55
+Departures,14:35,,Pristina,GP Aviation,IV801,Departed 14:50,,24-10-24 23:55
+Departures,14:45,,Warsaw,Wizz Air,W61364,Departed 17:11,,24-10-24 23:55
+Departures,14:50,,Madeira,easyJet,DS1283,Departed 15:06,,24-10-24 23:55
+Departures,14:50,,Ajaccio,easyJet,DS1063,Departed 14:52,,24-10-24 23:55
+Departures,15:05,,Bucharest,Wizz Air,W43090,Departed 15:35,,24-10-24 23:55
+Departures,15:05,,Belgrade,Wizz Air,W64052,Departed 15:15,,24-10-24 23:55
+Departures,15:10,,Amsterdam,easyJet,DS1225,Departed 15:19,,24-10-24 23:55
+Departures,15:25,15:30,Berlin,easyJet,EC5186,Departed 15:51,,24-10-24 23:55
+Departures,15:35,,Buochs,PILATUS AIRCRAFT LTD.,PCH555,Departed 15:41,,24-10-24 23:55
+Departures,15:50,,Nis,Wizz Air,W64196,Departed 15:58,,24-10-24 23:55
+Departures,16:00,17:40,Palma,easyJet,EC7274,Departed 18:13,,24-10-24 23:55
+Departures,16:30,,Naples,easyJet,EC4230,Departed 16:38,,24-10-24 23:55
+Departures,16:40,,Zagreb,Ryanair,FR5863,Departed 16:57,,24-10-24 23:55
+Departures,16:40,,Ibiza,easyJet,DS1017,Departed 16:46,,24-10-24 23:55
+Departures,16:50,,Kos,Enter Air,E4957,Departed 17:00,,24-10-24 23:55
+Departures,17:05,,Tirana,Wizz Air,W45124,Departed 17:21,,24-10-24 23:55
+Departures,17:10,,Palermo,easyJet,DS1115,Departed 17:29,,24-10-24 23:55
+Departures,17:15,,Porto,easyJet,DS1275,Departed 17:24,,24-10-24 23:55
+Departures,17:25,,Paris Charles De Gaulle,FedEx,FX6337,Departed 17:33,Cargo,24-10-24 23:55
+Departures,17:30,17:40,Venice,easyJet,EC4084,Departed 17:58,,24-10-24 23:55
+Departures,17:40,,Edinburgh,easyJet,DS1231,Departed 17:51,,24-10-24 23:55
+Departures,17:50,,Istanbul Sabiha Gökcen,Pegasus Airlines,PC942,Departed 18:07,,24-10-24 23:55
+Departures,18:00,,Pristina,easyJet,DS1207,Departed 18:04,,24-10-24 23:55
+Departures,18:00,,Prague,Heron Aviation,HRN611,Departed 18:15,Cargo,24-10-24 23:55
+Departures,18:00,,Berne,Swiss Air Force,SUI8,Departed 17:40,Cargo,24-10-24 23:55
+Departures,18:15,,Tunis,Nouvelair,BJ167,Departed 18:35,,24-10-24 23:55
+Departures,18:20,,Frankfurt,Lufthansa,LH1207,Departed 18:24,,24-10-24 23:55
+Departures,18:25,18:40,Amsterdam,KLM,KL1948,Departed 18:53,,24-10-24 23:55
+Departures,18:45,,Brindisi,easyJet,DS1119,Departed 18:51,,24-10-24 23:55
+Departures,18:45,,Budapest,easyJet,DS1213,Departed 18:55,,24-10-24 23:55
+Departures,18:55,,Istanbul,Turkish Airlines,TK1926,Departed 19:05,,24-10-24 23:55
+Departures,18:55,,Faro,easyJet,EC7522,Departed 19:13,,24-10-24 23:55
+Departures,18:55,,Antalya,SunExpress,XQ211,Departed 19:08,,24-10-24 23:55
+Departures,19:00,20:05,Oslo,Norwegian,DY1611,Departed 20:24,,24-10-24 23:55
+Departures,19:00,,Izmir,SunExpress,XQ913,Departed 19:07,,24-10-24 23:55
+Departures,19:15,,Hamburg,easyJet,DS1183,Departed 19:20,,24-10-24 23:55
+Departures,19:45,,London Heathrow,British Airways,BA755,Departed 20:11,,24-10-24 23:55
+Departures,19:45,,Berlin,easyJet,DS1189,Departed 19:46,,24-10-24 23:55
+Departures,20:00,,Amsterdam,Daimler Chrysler,DCS503,Departed 20:02,,24-10-24 23:55
+Departures,20:10,20:15,Munich,Air Dolomiti,EN8079,Departed 20:47,,24-10-24 23:55
+Departures,20:20,20:35,Budapest,Wizz Air,W62268,Departed 20:57,,24-10-24 23:55
+Departures,20:25,,Vienna,Austrian Airlines,OS474,Departed 20:30,,24-10-24 23:55
+Departures,20:30,20:45,Pristina,GP Aviation,IV803,Departed 20:52,,24-10-24 23:55
+Departures,20:30,20:40,Amsterdam,easyJet,EC7862,Departed 20:58,,24-10-24 23:55
+Departures,20:40,,Lisbon,easyJet,EC7648,Departed 20:45,,24-10-24 23:55
+Departures,20:40,,Cluj,Wizz Air,W43372,Departed 20:42,,24-10-24 23:55
+Departures,20:45,,Istanbul,Turkish Airlines,TK6285,Cancelled,Cargo,24-10-24 23:55
+Departures,21:00,,Skopje,Wizz Air,W64732,Departed 21:22,,24-10-24 23:55
+Departures,21:00,,Barcelona,easyJet,EC7104,Departed 21:24,,24-10-24 23:55
+Departures,21:30,,Porto,easyJet,EC7734,Departed 21:40,,24-10-24 23:55
+Departures,21:30,21:50,London Gatwick,easyJet,U28484,Departed 22:10,,24-10-24 23:55
+Departures,22:05,,Cologne Bonn,Sprintair,SRN1997,Departed 22:11,Cargo,24-10-24 23:55
+Departures,22:20,,Cologne Bonn,European Air Transport / DHL,QY7513,Departed 22:24,Cargo,24-10-24 23:55
+Departures,22:30,,Cologne Bonn,Sprintair,SRN6261,Departed 22:36,Cargo,24-10-24 23:55
+Departures,22:40,,Brussels,European Air Transport / DHL,QY4907,Departed 22:47,Cargo,24-10-24 23:55
+Departures,22:45,,Paris Charles De Gaulle,FedEx,FX6357,Departed 22:52,Cargo,24-10-24 23:55
+Departures,22:45,,Liege,FedEx,FX4962,Departed 22:46,Cargo,24-10-24 23:55
+Departures,22:45,,Leipzig,DHL Air,D04911,Departed 23:03,Cargo,24-10-24 23:55
