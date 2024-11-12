@@ -5,7 +5,8 @@ from bs4 import BeautifulSoup
 import requests
 from selenium import webdriver
 import time
-from datetime import datetime  
+from datetime import datetime
+from pathlib import Path
 
 # Unified scraping function for both arrivals and departures
 def scrape_flights(url, flight_type):
@@ -77,7 +78,10 @@ arrivals_url = 'https://www.euroairport.com/en/passengers-visitors/arrivals-depa
 departures_url = 'https://www.euroairport.com/en/passengers-visitors/arrivals-departures/flights/departures.html'
 
 # CSV file to save the data with the actual date it was scraped
-csv_filename = f'C:/Users/kefer/OneDrive - Hochschule Luzern/MDS Sem 2/CIP/scraped data/basel_{datetime.now().strftime("%Y-%m-%d")}.csv'
+csv_filename = Path(f'data/basel_{datetime.now().strftime("%Y-%m-%d")}.csv')
+
+# Create the directory if it doesn't exist
+csv_filename.parent.mkdir(parents=True, exist_ok=True)
 
 # List to store all flight data before writing to CSV
 all_flights = []
