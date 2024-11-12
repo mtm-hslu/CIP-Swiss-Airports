@@ -8,8 +8,10 @@ from selenium.common.exceptions import WebDriverException, TimeoutException
 from bs4 import BeautifulSoup
 import pandas as pd
 from datetime import datetime
+from pathlib import Path
 import logging
 import time
+import os
 
 # Setup logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -73,7 +75,6 @@ def save_flights_to_csv(flights, flight_type):
     if flights:
         df = pd.DataFrame(flights)
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        from pathlib import Path
 
         output_directory = Path("data/")
         csv_filename = f"{output_directory}geneva_{flight_type}_{timestamp}.csv"
@@ -84,6 +85,7 @@ def save_flights_to_csv(flights, flight_type):
 
 # Scraping process
 def main():
+    driver = None
     try:
         driver = initialize_driver()
 
@@ -99,13 +101,12 @@ def main():
 
     except WebDriverException as e:
         logger.error(f"Failed to connect to the existing Chrome instance: {e}")
-        raise e
+    except Exception as e:
+        logger.error(f"An unexpected error occurred: {e}")
     finally:
-        driver.quit()
+        if driver:
+            driver.quit()
 
 # Scraping function
 if __name__ == "__main__":
-    try:
-        main()
-    except Exception as e:
-        logger.error(f"An unexpected error occurred: {e}")
+    main()

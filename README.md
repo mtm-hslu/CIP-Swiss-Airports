@@ -9,9 +9,9 @@ The main folder contains:
 
 ### Airport-Specific Folders
 Each airport has its own dedicated folder:
-1. **Basel**
-2. **Geneva**
-3. **Zurich**
+1. **Basel** by Kethrin Heinze
+2. **Geneva** by Nafisa Umar
+3. **Zurich** by Mouhamadou Thiam
 
 Inside each airport folder, you will find:
 - **Scraping Script** (`.py`): A Python file that scrapes the latest data from the respective airport's website.
