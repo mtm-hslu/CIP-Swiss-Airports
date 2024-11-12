@@ -1,8 +1,9 @@
 import pandas as pd
 import glob
+from pathlib import Path
 
 # Load all CSV files
-files = glob.glob("/users/nafisaumar/documents/GenevaAirport/*.csv")
+files = glob.glob("./data/*.csv")
 dfs = []
 
 for file in files:
@@ -65,6 +66,9 @@ if dfs:
     combined_df['scheduled'] = combined_df['time'].str.extract(r'(\d{2}:\d{2})')
     combined_df['actual'] = combined_df['time'].str.extract(r'\d{2}:\d{2}(\d{2}:\d{2})$')
     combined_df['actual'] = combined_df['actual'].fillna(combined_df['scheduled'])
+
+    # Drop time and expected columns since the data is not clean
+    combined_df.drop(columns=['time', 'expected'], inplace=True)
 
     # Convert 'scrape_time' to datetime if necessary
     combined_df['scrape_time'] = pd.to_datetime(combined_df['scrape_time'], errors='coerce')
@@ -132,23 +136,12 @@ if dfs:
     combined_df['delta'] = ((combined_df['actual_dt'] - combined_df['scheduled_dt']).dt.total_seconds() / 60).astype(
         int)
 
-    # Flag extreme delays or early arrivals
-    combined_df['is_extreme_delay'] = combined_df['delta'] > 120  # More than 5 hours delay
-    combined_df['is_extreme_early'] = combined_df['delta'] < -30  # More than 30 minutes early
-
-    if combined_df['is_extreme_delay'].any():
-        print("Flights with extreme delays (more than 5 hours):")
-        print(combined_df[combined_df['is_extreme_delay']][['scheduled', 'actual', 'delta']])
-
-    if combined_df['is_extreme_early'].any():
-        print("Flights with extreme early arrivals (more than 30 minutes early):")
-        print(combined_df[combined_df['is_extreme_early']][['scheduled', 'actual', 'delta']])
-
     # Drop the temporary datetime columns after calculation
     combined_df.drop(columns=['scheduled_dt', 'actual_dt'], inplace=True)
 
     # Save the cleaned DataFrame
-    combined_df.to_csv("/users/nafisaumar/documents/GenevaAirport/combined_cleaned_data.csv", index=False)
+    output_file = Path("data/combined_cleaned_data.csv")
+    combined_df.to_csv(output_file, index=False)
     print("Combined and cleaned data saved.")
 
 else:

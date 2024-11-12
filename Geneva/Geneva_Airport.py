@@ -73,7 +73,9 @@ def save_flights_to_csv(flights, flight_type):
     if flights:
         df = pd.DataFrame(flights)
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        output_directory = "/Users/nafisaumar/Documents/GenevaAirport/"
+        from pathlib import Path
+
+        output_directory = Path("data/")
         csv_filename = f"{output_directory}geneva_{flight_type}_{timestamp}.csv"
         df.to_csv(csv_filename, index=False)
         logger.info(f"Data saved to {csv_filename}")

@@ -1,0 +1,1312 @@
+location,airline,status,scrape_time,flight_type,scheduled,actual,delta
+Marrakech,EASYJET,Arrived,2024-10-22 23:13:45,arrivals,22:45,22:39,-6
+Edinburgh,EASYJET,Arrived,2024-10-22 23:13:45,arrivals,22:45,22:30,-15
+Barcelona,EASYJET,Arrived,2024-10-22 23:13:45,arrivals,22:50,22:37,-13
+Budapest,EASYJET,Arrived,2024-10-22 23:13:45,arrivals,22:55,22:50,-5
+Antalya,SWISS,Arrived,2024-10-22 23:13:45,arrivals,23:00,23:06,6
+Oslo,SWISS,,2024-10-22 23:13:45,arrivals,23:30,23:27,-3
+Pristina,EASYJET,Arrived,2024-10-22 23:13:45,arrivals,23:10,23:00,-10
+Nantes,EASYJET,,2024-10-22 23:13:45,arrivals,22:55,23:28,33
+Athens,SWISS,Arrived,2024-10-22 23:13:45,arrivals,22:30,22:41,11
+Bari,EASYJET,Arrived,2024-10-22 23:13:45,arrivals,22:15,22:14,-1
+Tunis,TUNISAIR,,2024-10-23 02:14:29,arrivals,18:20,18:20,0
+Tivat,EASYJET,,2024-10-23 02:14:29,arrivals,18:10,18:10,0
+Barcelona,EASYJET,,2024-10-23 02:14:29,arrivals,18:10,18:10,0
+Istanbul,TURKISH AIRLINES,,2024-10-23 02:14:29,arrivals,18:10,18:10,0
+Nice,EASYJET,,2024-10-23 02:14:29,arrivals,18:00,18:00,0
+Pristina,EASYJET,,2024-10-23 02:14:29,arrivals,17:40,17:40,0
+Bucharest,WIZZ AIR,,2024-10-23 02:14:29,arrivals,17:40,17:40,0
+Venice,EASYJET,,2024-10-23 02:14:29,arrivals,17:25,17:25,0
+Barcelona,VUELING,,2024-10-23 02:14:29,arrivals,17:20,17:20,0
+London,BRITISH AIRWAYS,,2024-10-23 02:14:29,arrivals,10:35,10:35,0
+Antalya,PEGASUS,,2024-10-23 02:14:29,arrivals,18:55,18:55,0
+Porto,EASYJET,,2024-10-23 02:14:29,arrivals,19:00,19:00,0
+Toulouse,EASYJET,,2024-10-23 02:14:29,arrivals,19:00,19:00,0
+Djerba,TUNISAIR,,2024-10-23 02:14:29,arrivals,19:20,19:20,0
+Munich,AIR DOLOMITI,,2024-10-23 02:14:29,arrivals,19:30,19:30,0
+Bordeaux,EASYJET,,2024-10-23 02:14:29,arrivals,10:10,10:10,0
+Naples,EASYJET,,2024-10-23 02:14:29,arrivals,10:20,10:20,0
+London,EASYJET,,2024-10-23 02:14:29,arrivals,15:35,15:35,0
+Valencia,EASYJET,,2024-10-23 02:14:29,arrivals,16:55,16:55,0
+Lille,EASYJET,,2024-10-23 02:14:29,arrivals,13:25,13:25,0
+Zurich,SWISS,,2024-10-23 02:14:29,arrivals,13:00,13:00,0
+Santiago de Compostela,EASYJET,,2024-10-23 02:14:29,arrivals,12:50,12:50,0
+Djerba,EASYJET,,2024-10-23 02:14:29,arrivals,12:30,12:30,0
+London,BRITISH AIRWAYS,,2024-10-23 02:14:29,arrivals,12:00,12:00,0
+London,EASYJET,,2024-10-23 02:14:29,arrivals,11:05,11:05,0
+Porto,EASYJET,,2024-10-23 02:14:29,arrivals,11:10,11:10,0
+Split,EASYJET,,2024-10-23 02:14:29,arrivals,13:45,13:45,0
+Belgrade,EASYJET,,2024-10-23 02:14:29,arrivals,11:30,11:30,0
+Catania,SWISS,,2024-10-23 02:14:29,arrivals,11:35,11:35,0
+Lisbon,EASYJET,,2024-10-23 02:14:29,arrivals,11:50,11:50,0
+Copenhagen,EASYJET,,2024-10-23 02:14:29,arrivals,11:20,11:20,0
+Ajaccio,EASYJET,,2024-10-23 02:14:29,arrivals,10:40,10:40,0
+London,BRITISH AIRWAYS,,2024-10-23 02:14:29,arrivals,15:50,15:50,0
+Nice,SWISS,,2024-10-23 02:14:29,arrivals,16:20,16:20,0
+Palma de Mallorca,EASYJET,,2024-10-23 02:14:29,arrivals,16:20,16:20,0
+Alicante,EASYJET,,2024-10-23 02:14:29,arrivals,15:30,15:30,0
+Seville,EASYJET,,2024-10-23 02:14:29,arrivals,16:30,16:30,0
+Faro,EASYJET,,2024-10-23 02:14:29,arrivals,16:40,16:40,0
+Hurghada,SWISS,,2024-10-23 02:14:29,arrivals,16:50,16:50,0
+Luxembourg,LUXAIR,,2024-10-23 02:14:29,arrivals,16:50,16:50,0
+Porto,EASYJET,,2024-10-23 02:14:29,arrivals,15:30,15:30,0
+Barcelona,EASYJET,,2024-10-23 02:14:29,arrivals,15:20,15:20,0
+Madrid,EASYJET,,2024-10-23 02:14:29,arrivals,14:35,14:35,0
+Santorin,SWISS,,2024-10-23 02:14:29,arrivals,14:55,14:55,0
+Nice,EASYJET,,2024-10-23 02:14:29,arrivals,15:00,15:00,0
+Porto,TAP PORTUGAL,,2024-10-23 02:14:29,arrivals,15:05,15:05,0
+Prague,EASYJET,,2024-10-23 02:14:29,arrivals,15:15,15:15,0
+Bastia,EASYJET,,2024-10-23 02:14:29,arrivals,14:40,14:40,0
+Birmingham,EASYJET,,2024-10-23 02:14:29,arrivals,20:05,20:05,0
+Berlin,EASYJET,,2024-10-23 02:14:29,arrivals,20:00,20:00,0
+Amsterdam,EASYJET,,2024-10-23 02:14:29,arrivals,20:05,20:05,0
+London,BRITISH AIRWAYS,,2024-10-23 02:14:29,arrivals,09:20,09:20,0
+Porto,EASYJET,,2024-10-23 02:14:29,arrivals,09:25,09:25,0
+Barcelona,EASYJET,,2024-10-23 02:14:29,arrivals,09:30,09:30,0
+Olbia,EASYJET,,2024-10-23 02:14:29,arrivals,09:30,09:30,0
+Brussels,EASYJET,,2024-10-23 02:14:29,arrivals,09:20,09:20,0
+Tbilissi,HELVETIC AIRWAYS,,2024-10-23 02:14:29,arrivals,20:15,20:15,0
+Lisbon,EASYJET,,2024-10-23 02:14:29,arrivals,20:20,20:20,0
+Nice,EASYJET,,2024-10-23 02:14:29,arrivals,20:30,20:30,0
+Prague,EUROWINGS,,2024-10-23 02:14:29,arrivals,20:35,20:35,0
+Lanzarote,EASYJET,Arrived,2024-10-23 22:09:44,arrivals,22:15,21:57,-18
+Bordeaux,EASYJET,Arrived,2024-10-23 22:09:44,arrivals,21:50,21:33,-17
+Hamburg,SWISS,Arrived,2024-10-23 22:09:44,arrivals,21:30,21:09,-21
+Porto,SWISS,Arrived,2024-10-23 22:09:44,arrivals,21:20,21:01,-19
+Manchester,EASYJET,,2024-10-23 22:09:44,arrivals,22:25,22:21,-4
+Menorca,EASYJET,,2024-10-23 22:09:44,arrivals,22:35,22:32,-3
+Athens,EASYJET,,2024-10-23 22:09:44,arrivals,22:35,22:33,-2
+Brindisi,SWISS,,2024-10-23 22:09:44,arrivals,23:20,22:54,-26
+Dublin,SWISS,,2024-10-23 22:09:44,arrivals,23:00,22:37,-23
+Brindisi,EASYJET,,2024-10-23 22:09:44,arrivals,23:00,22:54,-6
+Edinburgh,EASYJET,,2024-10-23 22:09:44,arrivals,22:40,23:15,35
+Sharm El-Sheikh,EASYJET,,2024-10-23 22:09:44,arrivals,22:35,22:36,1
+Copenhagen,EASYJET,,2024-10-23 22:09:44,arrivals,22:55,22:45,-10
+Tel Aviv-YafoVIA Larnaca,ARKIA,,2024-10-24 04:11:32,arrivals,11:00,11:00,0
+Barcelona,EASYJET,,2024-10-24 07:12:38,arrivals,08:25,08:19,-6
+Nice,EASYJET,,2024-10-24 07:12:38,arrivals,08:00,07:44,-16
+Palma de Mallorca,EASYJET,,2024-10-24 07:12:38,arrivals,07:40,07:39,-1
+Faro,EASYJET,Arrived,2024-10-24 10:13:45,arrivals,10:05,09:36,-29
+Tunis,TUNISAIR,,2024-10-24 10:13:45,arrivals,10:00,10:12,12
+Bordeaux,EASYJET,,2024-10-24 10:13:45,arrivals,10:30,10:29,-1
+Cagliari,EASYJET,Arrived,2024-10-24 10:13:45,arrivals,09:55,09:47,-8
+Porto,EASYJET,Arrived,2024-10-24 10:13:45,arrivals,09:45,09:54,9
+London,BRITISH AIRWAYS,,2024-10-24 10:13:45,arrivals,10:40,10:35,-5
+Lisbon,EASYJET,,2024-10-24 10:13:45,arrivals,10:50,10:43,-7
+Pristina,SWISS,,2024-10-24 10:13:45,arrivals,12:10,11:59,-11
+Alicante,SWISS,,2024-10-24 10:13:45,arrivals,11:40,11:40,0
+Oslo,NORWEGIAN AIR SHUTTLE,,2024-10-24 10:13:45,arrivals,11:20,11:34,14
+Santiago de Compostela,EASYJET,,2024-10-24 10:13:45,arrivals,11:05,11:08,3
+Tel AvivVIA Larnaca,ARKIA,Delayed,2024-10-24 10:13:45,arrivals,11:00,11:00,0
+Casablanca,AIR ARABIA MAROC,,2024-10-24 10:13:45,arrivals,12:00,11:49,-11
+Athens,EASYJET,,2024-10-24 13:14:41,arrivals,13:25,13:14,-11
+Barcelona,VUELING,,2024-10-24 13:14:41,arrivals,13:40,13:50,10
+Manchester,EASYJET,,2024-10-24 13:14:41,arrivals,14:00,14:30,30
+Edinburgh,EASYJET,,2024-10-24 13:14:41,arrivals,14:00,14:00,0
+Nantes,EASYJET,,2024-10-24 13:14:41,arrivals,14:10,14:20,10
+Heraklion,SWISS,,2024-10-24 13:14:41,arrivals,14:45,14:27,-18
+Ajaccio,EASYJET,,2024-10-24 13:14:41,arrivals,14:40,14:40,0
+Budapest,EASYJET,,2024-10-24 13:14:41,arrivals,14:40,14:40,0
+Tunis,NOUVELAIR TUNISIE,,2024-10-24 13:14:41,arrivals,14:30,14:33,3
+Barcelona,EASYJET,,2024-10-24 13:14:41,arrivals,14:30,14:30,0
+Olbia,EASYJET,,2024-10-24 13:14:41,arrivals,15:15,15:15,0
+Alicante,EASYJET,,2024-10-24 13:14:41,arrivals,15:10,15:10,0
+Malaga,EASYJET,,2024-10-24 13:14:41,arrivals,15:00,14:50,-10
+Enfidha,EASYJET,,2024-10-24 13:14:41,arrivals,14:50,14:50,0
+Nice,EASYJET,Arrived,2024-10-24 13:14:41,arrivals,12:40,12:24,-16
+Porto,EASYJET,Arrived,2024-10-24 13:14:41,arrivals,12:50,12:35,-15
+Santorin,EASYJET,Arrived,2024-10-24 13:14:41,arrivals,13:10,12:39,-31
+Amsterdam,EASYJET,,2024-10-24 16:15:27,arrivals,17:50,17:50,0
+Porto,EASYJET,Arrived,2024-10-24 16:15:27,arrivals,15:35,16:07,32
+Lisbon,EASYJET,Arrived,2024-10-24 16:15:27,arrivals,15:35,15:34,-1
+Ibiza,EASYJET,Arrived,2024-10-24 16:15:27,arrivals,15:45,15:32,-13
+Larnaca,SWISS,Arrived,2024-10-24 16:15:27,arrivals,15:55,15:43,-12
+Barcelona,EASYJET,Arrived,2024-10-24 16:15:27,arrivals,16:00,15:45,-15
+London,EASYJET,,2024-10-24 16:15:27,arrivals,16:15,16:53,38
+Bristol,EASYJET,,2024-10-24 16:15:27,arrivals,16:15,16:39,24
+Manchester,EASYJET,Arrived,2024-10-24 16:15:27,arrivals,16:20,16:05,-15
+Porto,EASYJET,Delayed,2024-10-24 16:15:27,arrivals,17:45,17:45,0
+Hurghada,EASYJET,,2024-10-24 16:15:27,arrivals,16:35,16:25,-10
+Seville,EASYJET,,2024-10-24 16:15:27,arrivals,16:40,16:50,10
+Stockholm,SWISS,,2024-10-24 16:15:27,arrivals,16:40,16:21,-19
+A Coruna,EASYJET,,2024-10-24 16:15:27,arrivals,16:45,16:47,2
+London,BRITISH AIRWAYS,,2024-10-24 16:15:27,arrivals,16:45,16:41,-4
+Palma de Mallorca,EASYJET,,2024-10-24 16:15:27,arrivals,16:55,16:49,-6
+Frankfurt,LUFTHANSA,,2024-10-24 16:15:27,arrivals,17:15,17:15,0
+Madrid,IBERIA,,2024-10-24 16:15:27,arrivals,18:05,18:05,0
+Palermo,EASYJET,,2024-10-24 16:15:27,arrivals,18:10,18:10,0
+Nice,EASYJET,,2024-10-24 16:15:27,arrivals,18:10,18:10,0
+Agadir,EASYJET,,2024-10-24 19:16:09,arrivals,21:00,20:46,-14
+Luxembourg,LUXAIR,Delayed,2024-10-24 19:16:09,arrivals,20:45,20:45,0
+Bordeaux,EASYJET,Arrived,2024-10-24 19:16:09,arrivals,18:20,18:19,-1
+Nantes,EASYJET,,2024-10-24 19:16:09,arrivals,19:00,19:21,21
+Toulouse,EASYJET,,2024-10-24 19:16:09,arrivals,19:05,19:36,31
+Barcelona,EASYJET,,2024-10-24 19:16:09,arrivals,20:05,19:56,-9
+Amsterdam,EASYJET,,2024-10-24 19:16:09,arrivals,20:15,20:15,0
+Lisbon,EASYJET,,2024-10-24 19:16:09,arrivals,20:15,20:46,31
+Faro,SWISS,,2024-10-24 19:16:09,arrivals,20:15,20:01,-14
+Naples,EASYJET,,2024-10-24 19:16:09,arrivals,20:20,20:23,3
+Brussels,BRUSSELS AIRLINES,,2024-10-24 19:16:09,arrivals,20:25,20:25,0
+Prague,EUROWINGS,,2024-10-24 19:16:09,arrivals,19:35,19:45,10
+Brussels,EASYJET,,2024-10-24 22:16:42,arrivals,22:45,23:08,23
+Porto,SWISS,Arrived,2024-10-24 22:16:42,arrivals,21:25,21:21,-4
+Brindisi,EASYJET,,2024-10-24 22:16:42,arrivals,22:50,23:46,56
+Ibiza,EASYJET,,2024-10-24 22:16:42,arrivals,23:00,23:31,31
+Alicante,EASYJET,,2024-10-24 22:16:42,arrivals,23:00,23:24,24
+Tenerife,EASYJET,,2024-10-24 22:16:42,arrivals,22:40,22:44,4
+Edinburgh,EASYJET,,2024-10-24 22:16:42,arrivals,22:35,22:23,-12
+Tirana,EASYJET,,2024-10-24 22:16:42,arrivals,22:35,22:21,-14
+Nantes,EASYJET,,2024-10-24 22:16:42,arrivals,22:30,22:37,7
+Copenhagen,EASYJET,,2024-10-24 22:16:42,arrivals,22:20,22:29,9
+Oslo,SWISS,Arrived,2024-10-24 22:16:42,arrivals,21:50,21:27,-23
+Brussels,SWISS,Arrived,2024-10-24 22:16:42,arrivals,21:45,21:23,-22
+Paris,EASYJET,,2024-10-25 07:19:52,arrivals,09:05,09:05,0
+London,EASYJET,,2024-10-25 07:19:52,arrivals,09:05,09:05,0
+Alicante,EASYJET,,2024-10-25 07:19:52,arrivals,09:05,08:55,-10
+Barcelona,VUELING,,2024-10-25 07:19:52,arrivals,08:55,08:55,0
+Naples,EASYJET,,2024-10-25 07:19:52,arrivals,08:45,08:40,-5
+London,BRITISH AIRWAYS,,2024-10-25 07:19:52,arrivals,09:10,09:10,0
+Venice,EASYJET,,2024-10-25 07:19:52,arrivals,08:15,08:02,-13
+Doha,QATAR AIRWAYS,,2024-10-25 07:19:52,arrivals,07:35,07:43,8
+Nice,EASYJET,,2024-10-25 07:19:52,arrivals,09:15,09:15,0
+Lisbon,EASYJET,Arrived,2024-10-25 10:20:59,arrivals,10:30,10:06,-24
+Copenhagen,SAS SCANDINAVIAN AIRLINES,Arrived,2024-10-25 10:20:59,arrivals,10:25,10:14,-11
+Rome,EASYJET,,2024-10-25 10:20:59,arrivals,10:20,10:22,2
+Edinburgh,EASYJET,Arrived,2024-10-25 10:20:59,arrivals,10:15,10:00,-15
+Nantes,EASYJET,,2024-10-25 10:20:59,arrivals,10:15,10:26,11
+Berlin,EASYJET,Arrived,2024-10-25 10:20:59,arrivals,10:10,09:50,-20
+London,EASYJET,,2024-10-25 10:20:59,arrivals,10:10,10:27,17
+Faro,EASYJET,Arrived,2024-10-25 10:20:59,arrivals,09:45,09:15,-30
+Porto,EASYJET,Arrived,2024-10-25 10:20:59,arrivals,09:30,09:39,9
+Istanbul,TURKISH AIRLINES,Arrived,2024-10-25 10:20:59,arrivals,09:30,09:10,-20
+Brussels,EASYJET,Arrived,2024-10-25 10:20:59,arrivals,09:25,09:26,1
+Rome,ITA AIRWAYS,,2024-10-25 10:20:59,arrivals,10:40,10:46,6
+London,BRITISH AIRWAYS,,2024-10-25 10:20:59,arrivals,10:45,10:37,-8
+Thessaloniki,SWISS,,2024-10-25 10:20:59,arrivals,12:20,12:20,0
+London,BRITISH AIRWAYS,,2024-10-25 10:20:59,arrivals,12:15,12:15,0
+Alicante,SWISS,,2024-10-25 10:20:59,arrivals,12:00,11:51,-9
+Seville,EASYJET,,2024-10-25 10:20:59,arrivals,12:00,12:00,0
+Manchester,EASYJET,,2024-10-25 10:20:59,arrivals,11:55,11:55,0
+Brindisi,SWISS,,2024-10-25 10:20:59,arrivals,11:25,11:25,0
+Valencia,SWISS,,2024-10-25 10:20:59,arrivals,11:20,11:18,-2
+Porto,EASYJET,,2024-10-25 10:20:59,arrivals,11:15,11:27,12
+Athens,AEGEAN AIRLINES,,2024-10-25 10:20:59,arrivals,11:00,10:46,-14
+Catania,EASYJET,,2024-10-25 10:20:59,arrivals,10:55,10:40,-15
+Toulouse,EASYJET,,2024-10-25 10:20:59,arrivals,10:50,10:51,1
+Doha,QATAR AIRWAYS,Took off,2024-10-25 10:21:29,departures,09:25,09:25,0
+Birmingham,EASYJET,Go to gate,2024-10-25 10:21:29,departures,10:55,10:55,0
+Munich,AIR DOLOMITI,Departed,2024-10-25 10:21:29,departures,09:30,10:25,55
+Barcelona,VUELING,Took off,2024-10-25 10:21:29,departures,09:35,09:28,-7
+Alicante,EASYJET,Took off,2024-10-25 10:21:29,departures,09:40,09:40,0
+Nice,EASYJET,Took off,2024-10-25 10:21:29,departures,09:40,09:40,0
+Ibiza,EASYJET,Departed,2024-10-25 10:21:29,departures,09:50,09:40,-10
+Madrid,IBERIA,Took off,2024-10-25 10:21:29,departures,09:50,09:50,0
+London,EASYJET,Departed,2024-10-25 10:21:29,departures,09:50,09:50,0
+Barcelona,EASYJET,Departed,2024-10-25 10:21:29,departures,09:55,09:55,0
+Zurich,SWISS,Departed,2024-10-25 10:21:29,departures,10:00,10:00,0
+Porto,EASYJET,Departed,2024-10-25 10:21:29,departures,10:05,10:25,20
+Budapest,EASYJET,Departed,2024-10-25 10:21:29,departures,10:10,10:15,5
+Faro,EASYJET,Departed,2024-10-25 10:21:29,departures,10:20,10:20,0
+Istanbul,TURKISH AIRLINES,Departed,2024-10-25 10:21:29,departures,10:25,10:25,0
+Warsaw,LOT POLISH AIRLINES,Go to gate,2024-10-25 10:21:29,departures,10:25,10:25,0
+Stockholm,SWISS,Departed,2024-10-25 10:21:29,departures,10:35,10:35,0
+Abu Dhabi,ETIHAD AIRWAYS,Boarding,2024-10-25 10:21:29,departures,10:40,10:40,0
+Frankfurt,SWISS,Boarding,2024-10-25 10:21:29,departures,10:45,10:45,0
+Bordeaux,EASYJET,Boarding,2024-10-25 10:21:29,departures,10:45,10:45,0
+Zurich,SWISS,Go to gate,2024-10-25 10:21:29,departures,10:50,10:50,0
+London,EASYJET,Boarding,2024-10-25 10:21:29,departures,10:50,10:50,0
+London,BRITISH AIRWAYS,Departed,2024-10-25 10:21:29,departures,10:15,10:15,0
+Washington,UNITED AIRLINES,Boarding,2024-10-25 10:21:29,departures,11:00,11:00,0
+Copenhagen,SAS SCANDINAVIAN AIRLINES,Go to gate,2024-10-25 10:21:29,departures,11:00,11:00,0
+Zurich,SWISS,,2024-10-25 10:21:29,departures,11:15,11:15,0
+Malaga,SWISS,,2024-10-25 10:21:29,departures,11:15,11:15,0
+Rome,ITA AIRWAYS,,2024-10-25 10:21:29,departures,11:35,11:35,0
+Lille,EASYJET,,2024-10-25 10:21:29,departures,11:35,12:00,25
+Brindisi,EASYJET,,2024-10-25 10:21:29,departures,11:45,11:45,0
+New York,SWISS,,2024-10-25 10:21:29,departures,11:45,11:45,0
+Athens,AEGEAN AIRLINES,,2024-10-25 10:21:29,departures,11:50,11:50,0
+London,BRITISH AIRWAYS,,2024-10-25 10:21:29,departures,11:55,11:55,0
+Paris,AIR FRANCE,,2024-10-25 10:21:29,departures,12:00,12:00,0
+Lisbon,SWISS,,2024-10-25 10:21:29,departures,12:10,12:10,0
+Stockholm,EASYJET,,2024-10-25 10:21:29,departures,12:10,12:10,0
+Copenhagen,SWISS,,2024-10-25 10:21:29,departures,12:15,12:15,0
+Montreal,AIR CANADA,,2024-10-25 10:21:29,departures,12:15,12:15,0
+Nice,EASYJET,,2024-10-25 10:21:29,departures,12:20,12:20,0
+Lisbon,EASYJET,Go to gate,2024-10-25 10:21:29,departures,11:05,11:05,0
+Edinburgh,EASYJET,Go to gate,2024-10-25 10:21:29,departures,11:00,11:00,0
+Belgrade,EASYJET,Go to gate,2024-10-25 10:21:29,departures,11:00,11:00,0
+Kuwait,KUWAIT AIRWAYS,,2024-10-25 13:21:55,arrivals,14:00,14:00,0
+Ibiza,EASYJET,,2024-10-25 13:21:55,arrivals,14:00,14:12,12
+Bordeaux,EASYJET,Delayed,2024-10-25 13:21:55,arrivals,13:55,13:55,0
+Manchester,EASYJET,,2024-10-25 13:21:55,arrivals,13:55,14:08,13
+Frankfurt,AIR DOLOMITI,Delayed,2024-10-25 13:21:55,arrivals,13:25,13:25,0
+Marrakech,EASYJET,,2024-10-25 13:21:55,arrivals,13:10,15:52,162
+Pristina,GP AVIATION,,2024-10-25 13:21:55,arrivals,13:05,13:29,24
+Athens,EASYJET,,2024-10-25 13:21:55,arrivals,12:40,13:55,75
+Warsaw,LOT POLISH AIRLINES,Arrived,2024-10-25 13:21:55,arrivals,12:40,12:38,-2
+London,BRITISH AIRWAYS,,2024-10-25 13:21:55,arrivals,14:10,13:57,-13
+Budapest,EASYJET,,2024-10-25 13:21:55,arrivals,14:25,14:29,4
+Riyadh,SAUDIA,,2024-10-25 13:21:55,arrivals,14:35,14:21,-14
+Lille,EASYJET,,2024-10-25 13:21:55,arrivals,14:50,14:50,0
+Bucharest,WIZZ AIR,,2024-10-25 13:21:55,arrivals,14:50,14:38,-12
+Nice,EASYJET,,2024-10-25 13:21:55,arrivals,14:55,14:55,0
+Birmingham,EASYJET,,2024-10-25 13:21:55,arrivals,14:55,14:55,0
+Izmir,SUN EXPRESS,,2024-10-25 13:21:55,arrivals,14:10,14:16,6
+Porto,EASYJET,Delayed,2024-10-25 13:21:55,arrivals,15:20,15:20,0
+Pristina,EASYJET,Next info at 13:35,2024-10-25 13:22:18,departures,13:35,13:35,0
+Ibiza,EASYJET,,2024-10-25 13:22:18,departures,14:00,14:30,30
+Frankfurt,AIR DOLOMITI,,2024-10-25 13:22:18,departures,14:00,14:40,40
+Amsterdam,KLM ROYAL DUTCH AIRLINES,,2024-10-25 13:22:18,departures,14:10,14:30,20
+Manchester,EASYJET,,2024-10-25 13:22:18,departures,14:30,14:40,10
+Istanbul,TURKISH AIRLINES,,2024-10-25 13:22:18,departures,14:40,14:40,0
+Hamburg,SWISS,Go to gate,2024-10-25 13:22:18,departures,13:45,13:45,0
+Lisbon,TAP PORTUGAL,Departed,2024-10-25 13:22:18,departures,13:00,13:10,10
+London,BRITISH AIRWAYS,Go to gate,2024-10-25 13:22:18,departures,13:15,14:20,65
+Paris,AIR FRANCE,,2024-10-25 13:22:18,departures,14:40,14:40,0
+Warsaw,LOT POLISH AIRLINES,Departed,2024-10-25 13:22:18,departures,13:30,13:30,0
+Brindisi,EASYJET,Departed,2024-10-25 13:22:18,departures,13:30,13:30,0
+Palma de Mallorca,SWISS,Departed,2024-10-25 13:22:18,departures,13:20,13:20,0
+Beijing,AIR CHINA,Departed,2024-10-25 13:22:18,departures,13:20,13:15,-5
+Santiago de Compostela,EASYJET,Took off,2024-10-25 13:22:18,departures,12:25,12:25,0
+Porto,SWISS,Took off,2024-10-25 13:22:18,departures,12:25,12:25,0
+Prague,EASYJET,Took off,2024-10-25 13:22:18,departures,12:30,12:30,0
+Alicante,EASYJET,Departed,2024-10-25 13:22:18,departures,12:45,13:05,20
+New York,DELTA AIR LINES,Departed,2024-10-25 13:22:18,departures,12:45,13:30,45
+Copenhagen,EASYJET,Boarding,2024-10-25 13:22:18,departures,12:50,13:20,30
+London,SWISS,Departed,2024-10-25 13:22:18,departures,12:55,13:05,10
+Cairo,EGYPTAIR,,2024-10-25 13:22:18,departures,15:00,15:00,0
+Barcelona,EASYJET,,2024-10-25 13:22:18,departures,15:00,15:00,0
+Zurich,SWISS,,2024-10-25 13:22:18,departures,15:00,15:00,0
+Izmir,SUN EXPRESS,,2024-10-25 13:22:18,departures,15:05,15:05,0
+Kuwait,KUWAIT AIRWAYS,,2024-10-25 13:22:18,departures,15:15,15:15,0
+Dubai,EMIRATES,,2024-10-25 13:22:18,departures,15:15,15:15,0
+Chania,EASYJET,,2024-10-25 13:22:18,departures,15:10,16:20,70
+London,BRITISH AIRWAYS,,2024-10-25 13:22:18,departures,15:10,15:10,0
+London,BRITISH AIRWAYS,Arrived,2024-10-25 16:22:42,arrivals,16:10,16:17,7
+Naples,EASYJET,Arrived,2024-10-25 16:22:42,arrivals,15:25,15:52,27
+Belgrade,EASYJET,Arrived,2024-10-25 16:22:42,arrivals,15:35,15:37,2
+Amsterdam,EASYJET,Arrived,2024-10-25 16:22:42,arrivals,15:55,16:15,20
+Antalya,SUN EXPRESS,Arrived,2024-10-25 16:22:42,arrivals,16:00,15:40,-20
+Gran Canaria,EASYJET,Arrived,2024-10-25 16:22:42,arrivals,16:05,15:42,-23
+Prague,EASYJET,Arrived,2024-10-25 16:22:42,arrivals,16:10,16:06,-4
+London,EASYJET,,2024-10-25 16:22:42,arrivals,16:10,17:28,78
+Palma de Mallorca,EASYJET,,2024-10-25 16:22:42,arrivals,16:45,16:26,-19
+Brindisi,EASYJET,Arrived,2024-10-25 16:22:42,arrivals,16:15,16:03,-12
+Algiers,AIR ALGERIE,,2024-10-25 16:22:42,arrivals,16:30,16:45,15
+Luxembourg,LUXAIR,,2024-10-25 16:22:42,arrivals,16:35,16:37,2
+Malaga,SWISS,,2024-10-25 16:22:42,arrivals,16:50,16:47,-3
+Stockholm,SWISS,,2024-10-25 16:22:42,arrivals,16:50,16:49,-1
+Ibiza,EASYJET,,2024-10-25 16:22:42,arrivals,18:15,18:15,0
+Stockholm,EASYJET,,2024-10-25 16:22:42,arrivals,18:15,18:05,-10
+Hamburg,SWISS,,2024-10-25 16:22:42,arrivals,18:05,18:05,0
+Brindisi,EASYJET,,2024-10-25 16:22:42,arrivals,18:00,17:49,-11
+Lisbon,SWISS,,2024-10-25 16:22:42,arrivals,17:55,17:48,-7
+Istanbul,TURKISH AIRLINES,,2024-10-25 16:22:42,arrivals,17:40,17:14,-26
+Palma de Mallorca,SWISS,,2024-10-25 16:22:42,arrivals,17:30,17:30,0
+Alicante,EASYJET,Delayed,2024-10-25 16:22:42,arrivals,17:25,17:25,0
+Copenhagen,EASYJET,Delayed,2024-10-25 16:22:42,arrivals,17:25,17:25,0
+Santiago de Compostela,EASYJET,,2024-10-25 16:22:42,arrivals,17:20,17:12,-8
+Manchester,EASYJET,,2024-10-25 16:22:42,arrivals,17:05,17:05,0
+Tunis,TUNISAIR,Delayed,2024-10-25 16:22:42,arrivals,17:00,17:00,0
+Bristol,EASYJET,Delayed,2024-10-25 16:22:42,arrivals,17:35,17:35,0
+Skopje,EASYJET,Boarding,2024-10-25 16:23:03,departures,16:55,16:55,0
+Paris,AIR FRANCE,Boarding,2024-10-25 16:23:03,departures,17:00,17:00,0
+Athens,SWISS,Go to gate,2024-10-25 16:23:03,departures,17:05,17:05,0
+Barcelona,EASYJET,Next info at 16:30,2024-10-25 16:23:03,departures,17:10,17:10,0
+London,BRITISH AIRWAYS,Go to gate,2024-10-25 16:23:03,departures,17:10,17:10,0
+Amsterdam,KLM ROYAL DUTCH AIRLINES,,2024-10-25 16:23:03,departures,17:15,17:40,25
+Lisbon,EASYJET,,2024-10-25 16:23:03,departures,17:15,17:15,0
+Luxembourg,LUXAIR,,2024-10-25 16:23:03,departures,17:15,17:15,0
+Munich,AIR DOLOMITI,,2024-10-25 16:23:03,departures,17:20,17:20,0
+Antalya,SUN EXPRESS,Boarding,2024-10-25 16:23:03,departures,16:55,16:55,0
+Porto,EASYJET,,2024-10-25 16:23:03,departures,17:25,17:25,0
+Dublin,AER LINGUS,Go to gate,2024-10-25 16:23:03,departures,17:10,17:10,0
+Marrakech,EASYJET,Took off,2024-10-25 16:23:03,departures,15:55,16:10,15
+Amsterdam,EASYJET,Go to gate,2024-10-25 16:23:03,departures,16:30,16:55,25
+Nice,EASYJET,Departed,2024-10-25 16:23:03,departures,16:20,16:20,0
+Riyadh,SAUDIA,Departed,2024-10-25 16:23:03,departures,16:00,16:10,10
+Naples,EASYJET,Boarding,2024-10-25 16:23:03,departures,16:00,16:30,30
+Porto,EASYJET,Boarding,2024-10-25 16:23:03,departures,15:55,16:30,35
+London,SWISS,Took off,2024-10-25 16:23:03,departures,15:50,15:50,0
+Bordeaux,EASYJET,Departed,2024-10-25 16:23:03,departures,15:45,16:15,30
+Malaga,EASYJET,Took off,2024-10-25 16:23:03,departures,15:40,16:00,20
+London,EASYJET,Boarding,2024-10-25 16:23:03,departures,15:40,16:45,65
+Bucharest,WIZZ AIR,Took off,2024-10-25 16:23:03,departures,15:35,15:35,0
+Brussels,EASYJET,Took off,2024-10-25 16:23:03,departures,15:25,15:25,0
+Algiers,AIR ALGERIE,,2024-10-25 16:23:03,departures,17:30,17:30,0
+London,EASYJET,,2024-10-25 16:23:03,departures,16:45,18:00,75
+Palma de Mallorca,EASYJET,,2024-10-25 16:23:03,departures,17:30,17:30,0
+Porto,SWISS,,2024-10-25 16:23:03,departures,17:45,17:45,0
+Manchester,EASYJET,,2024-10-25 16:23:03,departures,17:45,17:45,0
+Biarritz,SWISS,,2024-10-25 16:23:03,departures,18:20,18:20,0
+Vienna,SWISS,,2024-10-25 16:23:03,departures,17:50,17:50,0
+Dublin,SWISS,,2024-10-25 16:23:03,departures,17:50,17:50,0
+Frankfurt,AIR DOLOMITI,,2024-10-25 16:23:03,departures,17:55,17:55,0
+Toulouse,EASYJET,,2024-10-25 16:23:03,departures,17:55,17:55,0
+Casablanca,ROYAL AIR MAROC,,2024-10-25 16:23:03,departures,17:55,17:55,0
+Valencia,EASYJET,,2024-10-25 16:23:03,departures,18:00,18:00,0
+Bristol,EASYJET,,2024-10-25 16:23:03,departures,18:10,18:10,0
+Copenhagen,EASYJET,,2024-10-25 16:23:03,departures,18:20,18:20,0
+Tunis,TUNISAIR,,2024-10-25 16:23:03,departures,18:00,18:00,0
+Brussels,BRUSSELS AIRLINES,,2024-10-25 19:23:23,arrivals,20:30,20:30,0
+Barcelona,EASYJET,,2024-10-25 19:23:23,arrivals,20:20,20:23,3
+London,BRITISH AIRWAYS,Delayed,2024-10-25 19:23:23,arrivals,20:35,20:35,0
+Toulouse,EASYJET,,2024-10-25 19:23:23,arrivals,21:00,21:00,0
+Edinburgh,EASYJET,Delayed,2024-10-25 19:23:23,arrivals,20:20,20:20,0
+Luxembourg,LUXAIR,,2024-10-25 19:23:23,arrivals,19:15,19:28,13
+Barcelona,VUELING,Arrived,2024-10-25 19:23:23,arrivals,19:35,19:20,-15
+London,EASYJET,Delayed,2024-10-25 19:23:23,arrivals,19:35,19:35,0
+Athens,AEGEAN AIRLINES,,2024-10-25 19:23:23,arrivals,19:30,19:31,1
+Prague,EUROWINGS,,2024-10-25 19:23:23,arrivals,19:25,19:44,19
+Maurice,AIR MAURITIUS,Arrived,2024-10-25 19:23:23,arrivals,19:20,18:19,-61
+Palma de Mallorca,EASYJET,Delayed,2024-10-25 19:23:23,arrivals,20:00,20:00,0
+Nice,EASYJET,Arrived,2024-10-25 19:23:23,arrivals,19:00,19:11,11
+Brussels,EASYJET,Arrived,2024-10-25 19:23:23,arrivals,18:30,18:24,-6
+Barcelona,EASYJET,Arrived,2024-10-25 19:23:23,arrivals,18:40,18:38,-2
+Bordeaux,EASYJET,Arrived,2024-10-25 19:23:23,arrivals,19:00,19:13,13
+Pristina,EASYJET,,2024-10-25 19:23:23,arrivals,18:55,20:40,105
+Palma de Mallorca,EASYJET,Next info at 20:15,2024-10-25 19:23:41,departures,20:40,20:40,0
+Prague,EUROWINGS,,2024-10-25 19:23:41,departures,20:05,20:15,10
+Copenhagen,SAS SCANDINAVIAN AIRLINES,Go to gate,2024-10-25 19:23:41,departures,20:10,20:10,0
+Zurich,SWISS,Go to gate,2024-10-25 19:23:41,departures,20:10,20:10,0
+Barcelona,VUELING,,2024-10-25 19:23:41,departures,20:15,20:15,0
+Athens,AEGEAN AIRLINES,,2024-10-25 19:23:41,departures,20:20,20:20,0
+Paris,AIR FRANCE,,2024-10-25 19:23:41,departures,20:40,20:40,0
+London,EASYJET,,2024-10-25 19:23:41,departures,20:55,21:05,10
+Edinburgh,EASYJET,Next info at 20:10,2024-10-25 19:23:41,departures,20:55,20:55,0
+Barcelona,EASYJET,,2024-10-25 19:23:41,departures,20:55,20:55,0
+Lisbon,EASYJET,,2024-10-25 19:23:41,departures,21:00,21:00,0
+Maurice,AIR MAURITIUS,,2024-10-25 19:23:41,departures,21:10,21:10,0
+Luxembourg,LUXAIR,Go to gate,2024-10-25 19:23:41,departures,19:55,19:55,0
+Bordeaux,EASYJET,,2024-10-25 19:23:41,departures,19:40,21:15,95
+Warsaw,LOT POLISH AIRLINES,Go to gate,2024-10-25 19:23:41,departures,19:45,19:45,0
+Catania,SWISS,Took off,2024-10-25 19:23:41,departures,18:25,18:35,10
+Frankfurt,SWISS,Took off,2024-10-25 19:23:41,departures,18:45,18:45,0
+Zurich,SWISS,Took off,2024-10-25 19:23:41,departures,18:50,18:50,0
+Rome,EASYJET,Go to gate,2024-10-25 19:23:41,departures,18:50,19:40,50
+Nantes,EASYJET,Took off,2024-10-25 19:23:41,departures,18:55,18:55,0
+Helsinki,FINNAIR,Took off,2024-10-25 19:23:41,departures,18:55,18:55,0
+Istanbul,TURKISH AIRLINES,Took off,2024-10-25 19:23:41,departures,19:05,19:05,0
+Vienna,AUSTRIAN,Go to gate,2024-10-25 19:23:41,departures,19:50,19:55,5
+London,EASYJET,Took off,2024-10-25 19:23:41,departures,19:05,19:05,0
+Nice,SWISS,Departed,2024-10-25 19:23:41,departures,19:10,19:10,0
+Brussels,BRUSSELS AIRLINES,Departed,2024-10-25 19:23:41,departures,19:10,19:15,5
+Amsterdam,KLM ROYAL DUTCH AIRLINES,Departed,2024-10-25 19:23:41,departures,19:15,19:15,0
+Amsterdam,EASYJET,Departed,2024-10-25 19:23:41,departures,19:15,19:20,5
+Frankfurt,LUFTHANSA,Departed,2024-10-25 19:23:41,departures,19:30,19:30,0
+Porto,EASYJET,,2024-10-25 19:23:41,departures,21:15,21:30,15
+Brussels,EASYJET,Go to gate,2024-10-25 19:23:41,departures,19:40,19:55,15
+Olbia,EASYJET,Departed,2024-10-25 19:23:41,departures,19:10,19:10,0
+Dubai,EMIRATES,,2024-10-25 19:23:41,departures,21:20,21:20,0
+London,BRITISH AIRWAYS,,2024-10-25 19:23:41,departures,21:25,21:25,0
+Nice,SWISS,,2024-10-25 22:23:57,arrivals,22:00,22:50,50
+Biarritz,SWISS,Arrived,2024-10-25 22:23:57,arrivals,21:45,21:59,14
+Chania,EASYJET,,2024-10-25 22:23:57,arrivals,22:10,23:59,109
+Marrakech,EASYJET,,2024-10-25 22:23:57,arrivals,23:00,22:56,-4
+Catania,SWISS,,2024-10-25 22:23:57,arrivals,23:25,23:17,-8
+Porto,SWISS,,2024-10-25 22:23:57,arrivals,23:05,23:17,12
+Paris,EASYJET,,2024-10-25 22:23:57,arrivals,22:20,22:27,7
+Valencia,EASYJET,,2024-10-25 22:23:57,arrivals,22:20,23:40,80
+Skopje,EASYJET,Arrived,2024-10-25 22:23:57,arrivals,22:30,22:05,-25
+Rome,EASYJET,Delayed,2024-10-25 22:23:57,arrivals,22:30,22:30,0
+Olbia,EASYJET,Arrived,2024-10-25 22:23:57,arrivals,22:35,22:20,-15
+London,BRITISH AIRWAYS,,2024-10-25 22:23:57,arrivals,22:40,23:03,23
+Bordeaux,EASYJET,Cancelled,2024-10-25 22:23:57,arrivals,22:45,22:45,0
+Amsterdam,EASYJET,Delayed,2024-10-25 22:23:57,arrivals,22:50,22:50,0
+London,EASYJET,,2024-10-25 22:23:57,arrivals,22:55,22:49,-6
+Dublin,SWISS,,2024-10-25 22:23:57,arrivals,22:55,22:42,-13
+Brussels,EASYJET,,2024-10-25 22:23:57,arrivals,23:00,23:01,1
+Copenhagen,EASYJET,Delayed,2024-10-25 22:23:57,arrivals,23:00,23:00,0
+Brussels,EASYJET,Delayed,2024-10-26 07:26:52,arrivals,09:00,09:00,0
+Istanbul,TURKISH AIRLINES,,2024-10-26 07:26:52,arrivals,09:00,08:40,-20
+Munich,AIR DOLOMITI,,2024-10-26 07:26:52,arrivals,08:55,08:55,0
+Frankfurt,LUFTHANSA,,2024-10-26 07:26:52,arrivals,08:35,08:35,0
+Zurich,SWISS,,2024-10-26 07:26:52,arrivals,08:30,08:30,0
+Amsterdam,KLM ROYAL DUTCH AIRLINES,,2024-10-26 07:26:52,arrivals,08:20,08:32,12
+Nice,EASYJET,,2024-10-26 07:26:52,arrivals,09:05,09:05,0
+Paris,AIR FRANCE,,2024-10-26 07:26:52,arrivals,08:20,08:20,0
+Abu Dhabi,ETIHAD AIRWAYS,,2024-10-26 07:26:52,arrivals,07:55,08:02,7
+Sofia,WIZZ AIR,,2024-10-26 07:26:52,arrivals,07:45,07:30,-15
+Washington,UNITED AIRLINES,Arrived,2024-10-26 07:26:52,arrivals,07:40,07:15,-25
+New York,UNITED AIRLINES,Arrived,2024-10-26 07:26:52,arrivals,07:30,06:50,-40
+Beijing,AIR CHINA,,2024-10-26 07:26:52,arrivals,07:30,07:30,0
+Addis Ababa,ETHIOPIAN AIRLINES,Arrived,2024-10-26 07:26:52,arrivals,06:30,06:22,-8
+Barcelona,VUELING,,2024-10-26 07:26:52,arrivals,08:00,07:44,-16
+New York,SWISS,,2024-10-26 07:26:52,arrivals,09:15,08:40,-35
+Bristol,EASYJET,,2024-10-26 07:26:52,arrivals,09:15,09:15,0
+Bordeaux,EASYJET,,2024-10-26 07:26:52,arrivals,09:25,09:25,0
+Barcelona,EASYJET,,2024-10-26 07:26:52,arrivals,09:20,09:20,0
+Nantes,EASYJET,Delayed,2024-10-26 10:27:50,arrivals,09:35,09:35,0
+Dublin,AER LINGUS,Arrived,2024-10-26 10:27:50,arrivals,09:30,09:24,-6
+Lisbon,EASYJET,,2024-10-26 10:27:50,arrivals,09:45,11:53,128
+Porto,EASYJET,Arrived,2024-10-26 10:27:50,arrivals,09:40,09:27,-13
+Berlin,EASYJET,,2024-10-26 10:27:50,arrivals,11:05,10:42,-23
+Paris,AIR FRANCE,,2024-10-26 10:27:50,arrivals,11:10,11:10,0
+Amsterdam,KLM ROYAL DUTCH AIRLINES,,2024-10-26 10:27:50,arrivals,11:10,11:07,-3
+Naples,EASYJET,,2024-10-26 10:27:50,arrivals,11:15,11:08,-7
+Santiago de Compostela,EASYJET,,2024-10-26 10:27:50,arrivals,11:20,11:52,32
+Palma de Mallorca,SWISS,,2024-10-26 10:27:50,arrivals,11:20,11:20,0
+Pristina,EASYJET,,2024-10-26 10:27:50,arrivals,11:35,11:47,12
+London,SWISS,,2024-10-26 10:27:50,arrivals,11:35,11:35,0
+Bari,EASYJET,,2024-10-26 10:27:50,arrivals,11:40,11:20,-20
+London,BRITISH AIRWAYS,,2024-10-26 10:27:50,arrivals,11:40,11:40,0
+Porto,EASYJET,Delayed,2024-10-26 10:27:50,arrivals,12:05,12:05,0
+Lisbon,TAP PORTUGAL,,2024-10-26 10:27:50,arrivals,12:10,12:10,0
+Pristina,SWISS,Delayed,2024-10-26 10:27:50,arrivals,12:15,12:15,0
+Porto,EASYJET,,2024-10-26 10:27:50,arrivals,11:00,10:52,-8
+Figari,EASYJET,,2024-10-26 10:27:50,arrivals,10:50,10:44,-6
+Warsaw,LOT POLISH AIRLINES,Arrived,2024-10-26 10:27:50,arrivals,09:45,09:37,-8
+Montreal,AIR CANADA,Arrived,2024-10-26 10:27:50,arrivals,09:50,09:07,-43
+Manchester,EASYJET,Arrived,2024-10-26 10:27:50,arrivals,09:55,10:26,31
+Catania,EASYJET,,2024-10-26 10:27:50,arrivals,12:15,12:15,0
+Brussels,SWISS,Arrived,2024-10-26 10:27:50,arrivals,10:05,10:03,-2
+Djerba,TUNISAIR,Arrived,2024-10-26 10:27:50,arrivals,10:25,10:21,-4
+Athens,AEGEAN AIRLINES,Arrived,2024-10-26 10:27:50,arrivals,10:30,10:19,-11
+Beirut,MEA MIDDLE EAST AIRLINES,Arrived,2024-10-26 10:27:50,arrivals,10:35,10:05,-30
+Alicante,EASYJET,,2024-10-26 10:27:50,arrivals,10:40,10:42,2
+New York,DELTA AIR LINES,Arrived,2024-10-26 10:27:50,arrivals,10:45,10:08,-37
+Frankfurt,SWISS,Arrived,2024-10-26 10:27:50,arrivals,10:05,10:10,5
+Paris,EASYJET,Arrived,2024-10-26 10:27:50,arrivals,10:10,10:01,-9
+Naples,EASYJET,,2024-10-26 13:28:38,arrivals,15:20,15:20,0
+Split,EASYJET,Delayed,2024-10-26 13:28:38,arrivals,15:15,15:15,0
+Frankfurt,SWISS,,2024-10-26 13:28:38,arrivals,14:05,14:05,0
+Amsterdam,EASYJET,,2024-10-26 13:28:38,arrivals,15:05,15:05,0
+Amsterdam,KLM ROYAL DUTCH AIRLINES,,2024-10-26 13:28:38,arrivals,13:35,14:00,25
+London,EASYJET,,2024-10-26 13:28:38,arrivals,13:40,13:49,9
+Istanbul,TURKISH AIRLINES,,2024-10-26 13:28:38,arrivals,13:45,13:55,10
+Paris,AIR FRANCE,,2024-10-26 13:28:38,arrivals,13:50,13:55,5
+Mykonos,SWISS,Arrived,2024-10-26 13:28:38,arrivals,13:50,13:21,-29
+Zurich,SWISS,,2024-10-26 13:28:38,arrivals,13:55,13:55,0
+Bilbao,EASYJET,,2024-10-26 13:28:38,arrivals,13:55,14:00,5
+Cairo,EGYPTAIR,,2024-10-26 13:28:38,arrivals,14:00,14:14,14
+Marrakech,EASYJET,,2024-10-26 13:28:38,arrivals,14:05,14:00,-5
+Manchester,EASYJET,,2024-10-26 13:28:38,arrivals,14:05,14:07,2
+Malaga,EASYJET,Delayed,2024-10-26 13:28:38,arrivals,15:05,15:05,0
+Toulouse,EASYJET,,2024-10-26 13:28:38,arrivals,14:10,14:10,0
+Copenhagen,EASYJET,,2024-10-26 13:28:38,arrivals,14:15,14:28,13
+Edinburgh,EASYJET,,2024-10-26 13:28:38,arrivals,14:20,14:14,-6
+Doha,QATAR AIRWAYS,,2024-10-26 13:28:38,arrivals,14:20,14:18,-2
+Amman,ROYAL JORDANIAN,,2024-10-26 13:28:38,arrivals,14:35,14:12,-23
+Jeddah,SAUDIA,,2024-10-26 13:28:38,arrivals,14:35,14:12,-23
+Porto,EASYJET,Delayed,2024-10-26 13:28:38,arrivals,14:35,14:35,0
+Paris,AIR FRANCE,,2024-10-26 13:28:38,arrivals,14:40,14:40,0
+Marrakech,SWISS,,2024-10-26 13:28:38,arrivals,14:50,15:07,17
+Antalya,SWISS,,2024-10-26 13:28:38,arrivals,14:55,14:49,-6
+Lanzarote,EASYJET,,2024-10-26 13:28:38,arrivals,15:00,14:54,-6
+Nice,EASYJET,,2024-10-26 13:28:38,arrivals,14:15,14:15,0
+Zurich,SWISS,Arrived,2024-10-26 13:28:38,arrivals,12:45,12:54,9
+Dubai,EMIRATES,Arrived,2024-10-26 13:28:38,arrivals,13:15,13:14,-1
+London,BRITISH AIRWAYS,,2024-10-26 16:29:19,arrivals,17:10,17:40,30
+Copenhagen,SWISS,,2024-10-26 16:29:19,arrivals,17:05,17:55,50
+Palma de Mallorca,EASYJET,,2024-10-26 16:29:19,arrivals,17:00,17:25,25
+Casablanca,ROYAL AIR MAROC,,2024-10-26 16:29:19,arrivals,16:55,17:09,14
+Dubrovnik,EASYJET,,2024-10-26 16:29:19,arrivals,16:55,16:42,-13
+Olbia,EASYJET,,2024-10-26 16:29:19,arrivals,16:50,17:13,23
+Munich,AIR DOLOMITI,,2024-10-26 16:29:19,arrivals,16:45,16:55,10
+Athens,SWISS,,2024-10-26 16:29:19,arrivals,16:45,18:33,108
+Amsterdam,KLM ROYAL DUTCH AIRLINES,Arrived,2024-10-26 16:29:19,arrivals,16:30,16:23,-7
+Algiers,AIR ALGERIE,,2024-10-26 16:29:19,arrivals,16:25,17:07,42
+Paris,AIR FRANCE,Arrived,2024-10-26 16:29:19,arrivals,16:10,15:59,-11
+Barcelona,EASYJET,Arrived,2024-10-26 16:29:19,arrivals,16:10,16:06,-4
+Barcelona,VUELING,Arrived,2024-10-26 16:29:19,arrivals,15:55,15:48,-7
+Heraklion,SWISS,Arrived,2024-10-26 16:29:19,arrivals,15:30,15:05,-25
+Frankfurt,AIR DOLOMITI,,2024-10-26 16:29:19,arrivals,17:15,17:15,0
+Dublin,AER LINGUS,Arrived,2024-10-26 16:29:19,arrivals,16:30,16:26,-4
+Brussels,BRUSSELS AIRLINES,,2024-10-26 16:29:19,arrivals,18:20,18:20,0
+Nice,EASYJET,,2024-10-26 16:29:19,arrivals,17:40,17:40,0
+Rome,ITA AIRWAYS,,2024-10-26 16:29:19,arrivals,18:15,18:15,0
+Helsinki,FINNAIR,,2024-10-26 16:29:19,arrivals,18:10,18:15,5
+Istanbul,TURKISH AIRLINES,,2024-10-26 16:29:19,arrivals,18:05,17:42,-23
+Tunis,TUNISAIR,,2024-10-26 16:29:19,arrivals,18:00,18:00,0
+Porto,SWISS,,2024-10-26 16:29:19,arrivals,17:45,18:12,27
+London,EASYJET,,2024-10-26 16:29:19,arrivals,18:20,18:20,0
+Barcelona,EASYJET,Delayed,2024-10-26 16:29:19,arrivals,17:40,17:40,0
+London,SWISS,,2024-10-26 19:29:54,arrivals,19:55,20:14,19
+London,EASYJET,,2024-10-26 19:29:54,arrivals,20:20,20:26,6
+Porto,EASYJET,Delayed,2024-10-26 19:29:54,arrivals,20:40,20:40,0
+Pristina,EASYJET,,2024-10-26 19:29:54,arrivals,20:45,20:35,-10
+Santorin,SWISS,,2024-10-26 19:29:54,arrivals,21:10,21:04,-6
+Paris,AIR FRANCE,,2024-10-26 19:29:54,arrivals,19:50,19:40,-10
+Manchester,ETHIOPIAN AIRLINES,Delayed,2024-10-26 19:29:54,arrivals,21:15,21:15,0
+Corfu,SWISS,,2024-10-26 19:29:54,arrivals,21:10,21:06,-4
+Madrid,IBERIA,Arrived,2024-10-26 19:29:54,arrivals,19:25,19:09,-16
+Lisbon,EASYJET,Arrived,2024-10-26 19:29:54,arrivals,18:35,19:11,36
+Dubai,EMIRATES,Arrived,2024-10-26 19:29:54,arrivals,19:20,19:17,-3
+Vienna,AUSTRIAN,Arrived,2024-10-26 19:29:54,arrivals,19:05,19:06,1
+Zurich,SWISS,Arrived,2024-10-26 19:29:54,arrivals,19:00,19:13,13
+Ibiza,EASYJET,,2024-10-26 19:29:54,arrivals,18:55,19:30,35
+Frankfurt,LUFTHANSA,Arrived,2024-10-26 19:29:54,arrivals,18:45,18:40,-5
+Antalya,PEGASUS,Arrived,2024-10-26 19:29:54,arrivals,18:30,19:20,50
+Bordeaux,EASYJET,,2024-10-26 22:30:23,arrivals,22:35,22:32,-3
+Heraklion,EASYJET,,2024-10-26 22:30:23,arrivals,22:45,22:37,-8
+Palermo,EASYJET,,2024-10-26 22:30:23,arrivals,22:40,22:54,14
+Brindisi,EASYJET,,2024-10-26 22:30:23,arrivals,22:40,23:46,66
+Amsterdam,KLM ROYAL DUTCH AIRLINES,Arrived,2024-10-26 22:30:23,arrivals,22:15,22:22,7
+Frankfurt,SWISS,Arrived,2024-10-26 22:30:23,arrivals,22:10,22:06,-4
+Oslo,SWISS,Arrived,2024-10-26 22:30:23,arrivals,22:10,21:41,-29
+London,SWISS,Arrived,2024-10-26 22:30:23,arrivals,22:00,22:19,19
+Vienna,SWISS,Arrived,2024-10-26 22:30:23,arrivals,22:00,21:54,-6
+Paris,AIR FRANCE,Arrived,2024-10-26 22:30:23,arrivals,21:55,21:56,1
+Mykonos,EASYJET,Arrived,2024-10-26 22:30:23,arrivals,21:40,21:29,-11
+Tenerife,EASYJET,Arrived,2024-10-26 22:30:23,arrivals,21:35,22:02,27
+Palma de Mallorca,SWISS,Arrived,2024-10-26 22:30:23,arrivals,21:35,21:26,-9
+Antalya,SWISS,,2024-10-26 22:30:23,arrivals,22:45,23:10,25
+Enfidha,EASYJET,,2024-10-26 22:30:23,arrivals,22:10,23:50,100
+Malta,EASYJET,,2024-10-26 22:30:23,arrivals,22:50,22:40,-10
+Ankara,AJET,Cancelled,2024-10-26 22:30:23,arrivals,17:35,17:35,0
+Nice,EASYJET,Delayed,2024-10-26 22:30:23,arrivals,22:50,22:50,0
+Nantes,EASYJET,Delayed,2024-10-26 22:30:23,arrivals,22:50,22:50,0
+Athens,SWISS,,2024-10-26 22:30:23,arrivals,23:30,23:18,-12
+London,BRITISH AIRWAYS,,2024-10-26 22:30:23,arrivals,23:10,23:20,10
+Munich,AIR DOLOMITI,,2024-10-26 22:30:23,arrivals,23:10,23:11,1
+Lisbon,EASYJET,,2024-10-26 22:30:23,arrivals,23:00,22:49,-11
+Hurghada,EASYJET,,2024-10-26 22:30:23,arrivals,22:55,23:22,27
+Funchal,EASYJET,,2024-10-26 22:30:23,arrivals,22:55,23:22,27
+Santorin,EASYJET,Arrived,2024-10-26 22:30:23,arrivals,23:00,22:24,-36
+London,EASYJET,,2024-10-27 06:33:18,arrivals,08:30,08:30,0
+Malaga,EASYJET,,2024-10-27 06:33:18,arrivals,08:30,08:30,0
+Nantes,EASYJET,,2024-10-27 06:33:18,arrivals,08:25,08:25,0
+London,EASYJET,Arrived,2024-10-27 09:34:20,arrivals,09:35,09:23,-12
+Zurich,SWISS,Arrived,2024-10-27 09:34:20,arrivals,08:35,08:32,-3
+Palma de Mallorca,EASYJET,Arrived,2024-10-27 15:36:00,arrivals,15:15,15:30,15
+Bristol,EASYJET,,2024-10-27 15:36:00,arrivals,16:00,16:00,0
+Marrakech,EASYJET,,2024-10-27 15:36:00,arrivals,16:50,18:21,91
+Split,EASYJET,Arrived,2024-10-27 18:36:40,arrivals,18:05,18:28,23
+London,EASYJET,Delayed,2024-10-27 21:37:12,arrivals,22:35,22:35,0
+MRU,AIR MAURITIUS,,2024-10-28 00:37:56,arrivals,19:30,19:30,0
+London,EASYJET,,2024-10-28 06:39:57,arrivals,08:50,08:50,0
+Tunis,TUNISAIR,,2024-10-28 06:39:57,arrivals,08:55,08:55,0
+Santorin,EASYJET,,2024-10-28 06:39:57,arrivals,20:30,20:30,0
+Brussels,EASYJET,,2024-10-28 06:39:57,arrivals,18:40,18:40,0
+Bordeaux,EASYJET,,2024-10-28 06:39:57,arrivals,17:10,17:10,0
+Prague,EASYJET,,2024-10-28 06:39:57,arrivals,17:35,17:35,0
+London,BRITISH AIRWAYS,,2024-10-28 06:39:57,arrivals,17:45,17:45,0
+Lisbon,SWISS,,2024-10-28 06:39:57,arrivals,17:50,17:50,0
+Ibiza,EASYJET,,2024-10-28 06:39:57,arrivals,18:00,18:00,0
+Pristina,EASYJET,,2024-10-28 06:39:57,arrivals,18:00,18:00,0
+Catania,EASYJET,,2024-10-28 06:39:57,arrivals,18:05,18:05,0
+Athens,EASYJET,,2024-10-28 06:39:57,arrivals,18:10,18:10,0
+Lisbon,EASYJET,,2024-10-28 06:39:57,arrivals,18:15,18:15,0
+Palma de Mallorca,EASYJET,,2024-10-28 06:39:57,arrivals,17:05,17:05,0
+Munich,AIR DOLOMITI,,2024-10-28 06:39:57,arrivals,08:45,08:45,0
+Doha,QATAR AIRWAYS,Arrived,2024-10-28 06:39:57,arrivals,06:15,06:04,-11
+Luxembourg,LUXAIR,,2024-10-28 06:39:57,arrivals,07:40,07:40,0
+Barcelona,EASYJET,,2024-10-28 06:39:57,arrivals,08:15,08:15,0
+Berlin,SWISS,,2024-10-28 06:39:57,arrivals,22:10,22:10,0
+Seville,EASYJET,,2024-10-28 06:39:57,arrivals,22:45,22:45,0
+Naples,EASYJET,,2024-10-28 06:39:57,arrivals,22:50,22:50,0
+Malaga,SWISS,,2024-10-28 06:39:57,arrivals,17:00,17:00,0
+Toulouse,EASYJET,,2024-10-28 06:39:57,arrivals,16:55,16:55,0
+Rome,ITA AIRWAYS,,2024-10-28 06:39:57,arrivals,10:45,10:45,0
+London,EASYJET,,2024-10-28 06:39:57,arrivals,10:50,10:50,0
+Bordeaux,EASYJET,,2024-10-28 06:39:57,arrivals,10:50,10:50,0
+Budapest,EASYJET,,2024-10-28 06:39:57,arrivals,10:55,10:55,0
+Valencia,SWISS,,2024-10-28 06:39:57,arrivals,10:25,10:25,0
+Hamburg,SWISS,,2024-10-28 06:39:57,arrivals,11:10,11:10,0
+London,BRITISH AIRWAYS,,2024-10-28 06:39:57,arrivals,11:10,11:10,0
+Berlin,EASYJET,,2024-10-28 06:39:57,arrivals,11:30,11:30,0
+Budapest,EASYJET,,2024-10-28 06:39:57,arrivals,11:30,11:30,0
+Nice,EASYJET,,2024-10-28 06:39:57,arrivals,11:45,11:45,0
+Copenhagen,EASYJET,,2024-10-28 06:39:57,arrivals,12:05,12:05,0
+Belgrade,EASYJET,,2024-10-28 06:39:57,arrivals,11:10,11:10,0
+Ajaccio,EASYJET,,2024-10-28 06:39:57,arrivals,12:05,12:05,0
+Barcelona,EASYJET,,2024-10-28 06:39:57,arrivals,10:20,10:20,0
+London,EASYJET,,2024-10-28 06:39:57,arrivals,09:10,09:10,0
+Madrid,IBERIA,,2024-10-28 06:39:57,arrivals,09:15,09:15,0
+Paris,EASYJET,,2024-10-28 06:39:57,arrivals,09:25,09:25,0
+London,BRITISH AIRWAYS,,2024-10-28 06:39:57,arrivals,09:25,09:25,0
+Faro,EASYJET,,2024-10-28 06:39:57,arrivals,09:40,09:40,0
+Brussels,SWISS,,2024-10-28 06:39:57,arrivals,10:20,10:20,0
+Edinburgh,EASYJET,,2024-10-28 06:39:57,arrivals,09:40,09:40,0
+Brussels,EASYJET,,2024-10-28 06:39:57,arrivals,09:50,09:50,0
+Dublin,AER LINGUS,,2024-10-28 06:39:57,arrivals,10:10,10:10,0
+Düsseldorf,EUROWINGS,,2024-10-28 06:39:57,arrivals,08:15,08:15,0
+London,BRITISH AIRWAYS,,2024-10-28 06:39:57,arrivals,12:10,12:10,0
+Santiago de Compostela,EASYJET,,2024-10-28 06:39:57,arrivals,12:30,12:30,0
+Valencia,EASYJET,,2024-10-28 06:39:57,arrivals,14:30,14:30,0
+London,BRITISH AIRWAYS,,2024-10-28 06:39:57,arrivals,14:35,14:35,0
+Marrakech,EASYJET,,2024-10-28 06:39:57,arrivals,15:10,15:10,0
+Porto,EASYJET,,2024-10-28 06:39:57,arrivals,15:10,15:10,0
+Birmingham,EASYJET,,2024-10-28 06:39:57,arrivals,15:15,15:15,0
+London,EASYJET,,2024-10-28 06:39:57,arrivals,15:20,15:20,0
+Algiers,AIR ALGERIE,,2024-10-28 06:39:57,arrivals,15:30,15:30,0
+Madrid,EASYJET,,2024-10-28 06:39:57,arrivals,15:45,15:45,0
+Alicante,EASYJET,,2024-10-28 06:39:57,arrivals,16:10,16:10,0
+Berlin,EASYJET,,2024-10-28 06:39:57,arrivals,16:40,16:40,0
+Manchester,EASYJET,,2024-10-28 06:39:57,arrivals,16:50,16:50,0
+Venice,EASYJET,,2024-10-28 06:39:57,arrivals,16:55,16:55,0
+Porto,SWISS,,2024-10-28 06:39:57,arrivals,12:25,12:25,0
+Porto,EASYJET,,2024-10-28 06:39:57,arrivals,12:30,12:30,0
+Lisbon,EASYJET,,2024-10-28 06:39:57,arrivals,12:30,12:30,0
+Pristina,EASYJET,,2024-10-28 06:39:57,arrivals,12:40,12:40,0
+London,BRITISH AIRWAYS,Cancelled,2024-10-28 06:39:57,arrivals,12:40,12:40,0
+Naples,EASYJET,,2024-10-28 06:39:57,arrivals,12:40,12:40,0
+Manchester,EASYJET,,2024-10-28 06:39:57,arrivals,13:50,13:50,0
+Kuwait,KUWAIT AIRWAYS,,2024-10-28 06:39:57,arrivals,13:05,13:05,0
+London,EASYJET,,2024-10-28 06:39:57,arrivals,13:20,13:20,0
+Riyadh,SAUDIA,,2024-10-28 06:39:57,arrivals,13:35,13:35,0
+Malaga,EASYJET,,2024-10-28 06:39:57,arrivals,13:45,13:45,0
+Nantes,EASYJET,,2024-10-28 06:39:57,arrivals,13:50,13:50,0
+Izmir,SUN EXPRESS,,2024-10-28 06:39:57,arrivals,13:15,13:15,0
+Vienne,AUSTRIAN,,2024-11-01 17:23:35,arrivals,08:50,08:50,0
+Vienne,AUSTRIAN,,2024-11-01 17:23:35,arrivals,19:10,19:10,0
+Vienne,AUSTRIAN,,2024-11-01 17:24:06,departures,19:55,19:55,0
+Vienne,AUSTRIAN,,2024-11-01 17:24:06,departures,09:35,09:35,0
+Beijing,AIR CHINA,Arrived,2024-11-01 23:25:55,arrivals,07:15,06:23,-52
+Nice,EASYJET,,2024-11-01 23:25:55,arrivals,07:50,07:50,0
+Barcelona,EASYJET,,2024-11-01 23:25:55,arrivals,07:50,07:50,0
+Palma de Mallorca,EASYJET,,2024-11-01 23:25:55,arrivals,07:55,07:55,0
+Naples,EASYJET,,2024-11-01 23:25:55,arrivals,08:00,08:00,0
+Madrid,IBERIA,,2024-11-01 23:25:55,arrivals,08:15,08:15,0
+Barcelona,VUELING,,2024-11-01 23:25:55,arrivals,08:15,08:15,0
+Berlin,EASYJET,,2024-11-01 23:25:55,arrivals,08:00,08:00,0
+Lisbon,SWISS,,2024-11-01 23:26:26,departures,11:25,11:25,0
+Athens,SWISS,Go to gate,2024-11-01 23:26:26,departures,07:05,07:05,0
+London,BRITISH AIRWAYS,Go to gate,2024-11-01 23:26:26,departures,07:05,07:05,0
+Pristina,SWISS,,2024-11-01 23:26:26,departures,07:10,08:00,50
+Alicante,EASYJET,Next info at 08:15,2024-11-01 23:26:26,departures,07:20,07:20,0
+Bari,EASYJET,,2024-11-01 23:26:26,departures,07:25,07:25,0
+Sharm El-Sheikh,EASYJET,,2024-11-01 23:26:26,departures,07:40,07:40,0
+Malaga,EASYJET,,2024-11-01 23:26:26,departures,07:45,07:45,0
+Figari,EASYJET,,2024-11-01 23:26:26,departures,08:00,08:00,0
+Hurghada,EASYJET,,2024-11-01 23:26:26,departures,08:05,08:05,0
+London,BRITISH AIRWAYS,,2024-11-01 23:26:26,departures,08:05,08:05,0
+Porto,SWISS,,2024-11-01 23:26:26,departures,08:25,08:25,0
+Tenerife,EASYJET,Departed,2024-11-01 23:26:26,departures,06:35,06:25,-10
+Paris,EASYJET,Took off,2024-11-01 23:26:26,departures,06:00,06:00,0
+Djerba,EASYJET,Departed,2024-11-01 23:26:26,departures,06:05,06:05,0
+Ibiza,EASYJET,Departed,2024-11-01 23:26:26,departures,06:40,06:40,0
+Athens,EASYJET,Departed,2024-11-01 23:26:26,departures,06:10,06:00,-10
+Zurich,SWISS,Departed,2024-11-01 23:26:26,departures,06:10,06:10,0
+Lanzarote,EASYJET,Departed,2024-11-01 23:26:26,departures,06:15,06:10,-5
+Porto,EASYJET,Departed,2024-11-01 23:26:26,departures,06:20,06:15,-5
+Lisbon,EASYJET,Departed,2024-11-01 23:26:26,departures,06:20,06:10,-10
+Munich,AIR DOLOMITI,Departed,2024-11-01 23:26:26,departures,06:20,06:20,0
+Brussels,EASYJET,Departed,2024-11-01 23:26:26,departures,06:10,06:10,0
+Bordeaux,EASYJET,Boarding,2024-11-01 23:26:26,departures,07:05,07:05,0
+Alicante,EASYJET,,2024-11-02 02:27:00,arrivals,12:10,12:10,0
+Istanbul,TURKISH AIRLINES,Arrived,2024-11-02 02:27:00,arrivals,09:20,08:52,-28
+Malaga,EASYJET,,2024-11-02 02:27:00,arrivals,13:20,13:20,0
+Nice,EASYJET,,2024-11-02 02:27:00,arrivals,13:15,13:15,0
+Ajaccio,EASYJET,,2024-11-02 02:27:00,arrivals,13:10,13:10,0
+Pristina,SWISS,Delayed,2024-11-02 02:27:00,arrivals,12:35,12:35,0
+Athens,EASYJET,,2024-11-02 02:27:00,arrivals,12:35,12:35,0
+Porto,EASYJET,,2024-11-02 02:27:00,arrivals,12:35,12:35,0
+Munich,AIR DOLOMITI,Arrived,2024-11-02 02:27:00,arrivals,08:40,08:33,-7
+Bristol,EASYJET,Arrived,2024-11-02 02:27:00,arrivals,08:45,08:30,-15
+Amsterdam,EASYJET,Delayed,2024-11-02 02:27:00,arrivals,08:50,08:50,0
+Paris,EASYJET,Arrived,2024-11-02 02:27:00,arrivals,09:00,08:49,-11
+Brussels,EASYJET,Arrived,2024-11-02 02:27:00,arrivals,09:15,09:07,-8
+Rome,ITA AIRWAYS,,2024-11-02 02:27:00,arrivals,11:05,11:05,0
+Figari,EASYJET,,2024-11-02 02:27:00,arrivals,11:10,11:10,0
+Nice,SWISS,,2024-11-02 02:27:00,arrivals,11:25,11:25,0
+Ibiza,EASYJET,,2024-11-02 02:27:00,arrivals,10:50,10:37,-13
+Porto,EASYJET,,2024-11-02 02:27:00,arrivals,11:30,11:15,-15
+Djerba,EASYJET,,2024-11-02 02:27:00,arrivals,11:50,11:50,0
+Bari,EASYJET,,2024-11-02 02:27:00,arrivals,11:50,11:50,0
+Lisbon,EASYJET,,2024-11-02 02:27:00,arrivals,12:05,12:05,0
+London,BRITISH AIRWAYS,,2024-11-02 02:27:00,arrivals,11:30,11:30,0
+Beirut,MEA MIDDLE EAST AIRLINES,,2024-11-02 02:27:00,arrivals,10:40,10:20,-20
+Manchester,EASYJET,,2024-11-02 02:27:00,arrivals,10:30,10:37,7
+Marrakech,EASYJET,Delayed,2024-11-02 02:27:00,arrivals,10:15,10:15,0
+Porto,EASYJET,Arrived,2024-11-02 02:27:00,arrivals,09:15,09:10,-5
+London,EASYJET,,2024-11-02 02:27:00,arrivals,09:40,10:13,33
+Faro,EASYJET,,2024-11-02 02:27:00,arrivals,09:50,09:34,-16
+Zurich,SWISS,,2024-11-02 02:27:00,arrivals,10:00,10:00,0
+London,EASYJET,,2024-11-02 02:27:00,arrivals,10:00,10:19,19
+Athens,AEGEAN AIRLINES,,2024-11-02 02:27:00,arrivals,10:10,10:06,-4
+Bordeaux,EASYJET,,2024-11-02 02:27:00,arrivals,10:15,09:59,-16
+Munich,AIR DOLOMITI,,2024-11-02 02:27:00,arrivals,12:30,12:30,0
+London,EASYJET,,2024-11-02 02:27:00,arrivals,12:30,12:30,0
+Naples,EASYJET,Took off,2024-11-02 02:27:28,departures,08:40,08:30,-10
+Palma de Mallorca,EASYJET,Took off,2024-11-02 02:27:28,departures,08:30,08:30,0
+Frankfurt,AIR DOLOMITI,,2024-11-02 02:27:28,departures,10:55,10:55,0
+Enfidha,EASYJET,,2024-11-02 02:27:28,departures,10:55,10:55,0
+Athens,AEGEAN AIRLINES,,2024-11-02 02:27:28,departures,11:05,11:05,0
+Manchester,EASYJET,,2024-11-02 02:27:28,departures,11:15,11:15,0
+Oslo,SWISS,,2024-11-02 02:27:28,departures,11:25,11:25,0
+Bastia,EASYJET,,2024-11-02 02:27:28,departures,11:35,11:35,0
+Beirut,MEA MIDDLE EAST AIRLINES,,2024-11-02 02:27:28,departures,11:45,11:45,0
+Rome,ITA AIRWAYS,,2024-11-02 02:27:28,departures,12:00,12:00,0
+London,BRITISH AIRWAYS,,2024-11-02 02:27:28,departures,12:20,12:20,0
+Beijing,AIR CHINA,,2024-11-02 02:27:28,departures,12:20,12:20,0
+Menorca,EASYJET,,2024-11-02 02:27:28,departures,12:25,12:25,0
+Gran Canaria,EASYJET,,2024-11-02 02:27:28,departures,13:20,13:20,0
+Copenhagen,SWISS,,2024-11-02 02:27:28,departures,13:20,13:20,0
+Porto,EASYJET,,2024-11-02 02:27:28,departures,13:15,13:15,0
+London,EASYJET,,2024-11-02 02:27:28,departures,13:15,13:15,0
+Munich,AIR DOLOMITI,,2024-11-02 02:27:28,departures,13:10,13:10,0
+Seville,EASYJET,,2024-11-02 02:27:28,departures,12:55,12:55,0
+Porto,EASYJET,,2024-11-02 02:27:28,departures,12:50,12:50,0
+Nantes,EASYJET,,2024-11-02 02:27:28,departures,12:45,12:45,0
+Stockholm,SWISS,,2024-11-02 02:27:28,departures,12:40,12:40,0
+Amsterdam,EASYJET,,2024-11-02 02:27:28,departures,13:10,13:10,0
+Zurich,SWISS,,2024-11-02 02:27:28,departures,10:45,10:45,0
+Istanbul,TURKISH AIRLINES,,2024-11-02 02:27:28,departures,10:45,10:45,0
+Paris,AIR FRANCE,,2024-11-02 02:27:28,departures,10:40,10:40,0
+London,EASYJET,,2024-11-02 02:27:28,departures,10:35,10:35,0
+London,EASYJET,,2024-11-02 02:27:28,departures,10:25,10:50,25
+Faro,EASYJET,,2024-11-02 02:27:28,departures,10:25,10:25,0
+Washington,UNITED AIRLINES,Go to gate,2024-11-02 02:27:28,departures,10:20,10:20,0
+Ajaccio,EASYJET,Next info at 10:30,2024-11-02 02:27:28,departures,10:10,10:10,0
+Zurich,SWISS,,2024-11-02 02:27:28,departures,10:10,10:10,0
+Nice,SWISS,Took off,2024-11-02 02:27:28,departures,08:35,08:35,0
+Porto,EASYJET,Boarding,2024-11-02 02:27:28,departures,09:55,09:55,0
+Bristol,EASYJET,Departed,2024-11-02 02:27:28,departures,09:25,09:15,-10
+Amsterdam,EASYJET,Next info at 10:15,2024-11-02 02:27:28,departures,09:25,09:25,0
+Munich,AIR DOLOMITI,Took off,2024-11-02 02:27:28,departures,09:20,09:20,0
+Madrid,IBERIA,Took off,2024-11-02 02:27:28,departures,08:55,08:55,0
+Barcelona,VUELING,Departed,2024-11-02 02:27:28,departures,08:55,09:04,9
+Berlin,EASYJET,Took off,2024-11-02 02:27:28,departures,08:50,08:45,-5
+Nice,EASYJET,Took off,2024-11-02 02:27:28,departures,08:45,08:35,-10
+Barcelona,EASYJET,Took off,2024-11-02 02:27:28,departures,08:35,08:25,-10
+Nice,EASYJET,,2024-11-02 02:27:28,departures,10:25,10:25,0
+Palma de Mallorca,EASYJET,,2024-11-02 07:32:58,arrivals,16:30,16:30,0
+Lisbon,EASYJET,,2024-11-02 07:32:58,arrivals,16:25,16:25,0
+Menorca,EASYJET,,2024-11-02 07:32:58,arrivals,16:20,16:20,0
+Algiers,AIR ALGERIE,,2024-11-02 07:32:58,arrivals,15:15,15:30,15
+Palma de Mallorca,EASYJET,,2024-11-02 07:32:58,arrivals,14:50,14:59,9
+Lanzarote,EASYJET,,2024-11-02 07:32:58,arrivals,14:55,14:34,-21
+Lisbon,EASYJET,,2024-11-02 07:32:58,arrivals,15:00,15:17,17
+Edinburgh,EASYJET,,2024-11-02 07:32:58,arrivals,15:10,15:20,10
+London,BRITISH AIRWAYS,,2024-11-02 07:32:58,arrivals,15:25,15:15,-10
+Enfidha,EASYJET,,2024-11-02 07:32:58,arrivals,15:45,15:42,-3
+Tenerife,EASYJET,,2024-11-02 07:32:58,arrivals,15:45,15:25,-20
+Nantes,EASYJET,,2024-11-02 07:32:58,arrivals,16:10,16:10,0
+Munich,AIR DOLOMITI,,2024-11-02 07:32:58,arrivals,16:15,16:15,0
+Bastia,EASYJET,Arrived,2024-11-02 07:32:58,arrivals,14:30,14:16,-14
+Cairo,EGYPTAIR,Arrived,2024-11-02 07:32:58,arrivals,14:25,14:14,-11
+London,BRITISH AIRWAYS,Arrived,2024-11-02 07:32:58,arrivals,13:50,13:28,-22
+Athens,SWISS,Arrived,2024-11-02 07:32:58,arrivals,14:20,13:55,-25
+Amman,ROYAL JORDANIAN,Arrived,2024-11-02 07:32:58,arrivals,13:55,13:23,-32
+Toulouse,EASYJET,Arrived,2024-11-02 07:32:58,arrivals,14:00,14:23,23
+Porto,SWISS,Arrived,2024-11-02 07:32:58,arrivals,14:00,13:49,-11
+Palma de Mallorca,EASYJET,,2024-11-02 07:33:18,departures,15:25,15:25,0
+Lisbon,SWISS,,2024-11-02 07:33:18,departures,15:30,15:30,0
+Heraklion,EASYJET,,2024-11-02 07:33:18,departures,15:40,15:40,0
+Lisbon,EASYJET,,2024-11-02 07:33:18,departures,15:45,15:45,0
+Edinburgh,EASYJET,,2024-11-02 07:33:18,departures,15:55,15:55,0
+Pristina,EASYJET,,2024-11-02 07:33:18,departures,16:00,16:00,0
+London,BRITISH AIRWAYS,,2024-11-02 07:33:18,departures,16:15,16:15,0
+Algiers,AIR ALGERIE,,2024-11-02 07:33:18,departures,16:15,16:15,0
+Copenhagen,EASYJET,,2024-11-02 07:33:18,departures,16:30,16:30,0
+Cairo,EGYPTAIR,Go to gate,2024-11-02 07:33:18,departures,15:25,15:25,0
+Mykonos,EASYJET,,2024-11-02 07:33:18,departures,15:15,15:15,0
+Funchal,EASYJET,Took off,2024-11-02 07:33:18,departures,13:55,13:55,0
+Split,EASYJET,Took off,2024-11-02 07:33:18,departures,14:05,14:00,-5
+Rome,EASYJET,Took off,2024-11-02 07:33:18,departures,14:10,14:05,-5
+Toulouse,EASYJET,Go to gate,2024-11-02 07:33:18,departures,14:35,14:55,20
+London,BRITISH AIRWAYS,Departed,2024-11-02 07:33:18,departures,14:40,14:40,0
+Amman,ROYAL JORDANIAN,Boarding,2024-11-02 07:33:18,departures,15:10,15:10,0
+Rabat,EASYJET,Go to gate,2024-11-02 07:33:18,departures,15:15,15:15,0
+London,BRITISH AIRWAYS,Arrived,2024-11-02 10:33:43,arrivals,16:55,16:44,-11
+Amsterdam,EASYJET,Arrived,2024-11-02 10:33:43,arrivals,17:00,16:40,-20
+Barcelona,VUELING,Arrived,2024-11-02 10:33:43,arrivals,17:05,16:49,-16
+Lisbon,TAP PORTUGAL,,2024-11-02 10:33:43,arrivals,17:25,18:57,92
+Oslo,SWISS,Arrived,2024-11-02 10:33:43,arrivals,17:40,17:06,-34
+Zurich,SWISS,Arrived,2024-11-02 10:33:43,arrivals,17:40,17:24,-16
+Split,EASYJET,,2024-11-02 10:33:43,arrivals,17:45,17:44,-1
+Rome,EASYJET,,2024-11-02 10:33:43,arrivals,17:55,17:32,-23
+Antalya,PEGASUS,,2024-11-02 10:33:43,arrivals,17:55,18:10,15
+Porto,EASYJET,,2024-11-02 10:33:43,arrivals,18:05,17:51,-14
+Sharm El-Sheikh,EASYJET,Arrived,2024-11-02 10:33:43,arrivals,18:05,17:20,-45
+London,BRITISH AIRWAYS,Boarding,2024-11-02 10:34:04,departures,17:50,17:50,0
+Barcelona,VUELING,Boarding,2024-11-02 10:34:04,departures,17:45,17:45,0
+Palma de Mallorca,EASYJET,Took off,2024-11-02 10:34:04,departures,17:35,17:35,0
+Malta,EASYJET,Took off,2024-11-02 10:34:04,departures,17:10,17:10,0
+Lisbon,EASYJET,Took off,2024-11-02 10:34:04,departures,17:05,17:05,0
+Palma de Mallorca,EASYJET,Took off,2024-11-02 10:34:04,departures,17:05,17:10,5
+Munich,AIR DOLOMITI,Took off,2024-11-02 10:34:04,departures,17:00,17:00,0
+Malaga,EASYJET,Took off,2024-11-02 10:34:04,departures,16:45,16:45,0
+Helsinki,FINNAIR,Arrived,2024-11-02 12:06:34,arrivals,18:15,18:12,-3
+Seville,EASYJET,Arrived,2024-11-02 12:06:34,arrivals,18:15,18:35,20
+Barcelona,EASYJET,,2024-11-02 12:06:34,arrivals,21:55,21:55,0
+Funchal,EASYJET,,2024-11-02 12:06:34,arrivals,21:55,21:50,-5
+Tunis,TUNISAIR,Delayed,2024-11-02 12:06:34,arrivals,18:10,18:10,0
+Lisbon,SWISS,,2024-11-02 12:06:34,arrivals,21:30,21:30,0
+Pristina,EASYJET,,2024-11-02 12:06:34,arrivals,21:15,21:15,0
+Copenhagen,EASYJET,,2024-11-02 12:06:34,arrivals,21:05,21:05,0
+Munich,AIR DOLOMITI,,2024-11-02 12:06:34,arrivals,20:55,20:55,0
+Porto,EASYJET,,2024-11-02 12:06:34,arrivals,20:30,20:41,11
+Mykonos,EASYJET,,2024-11-02 12:06:34,arrivals,21:55,21:55,0
+London,EASYJET,,2024-11-02 12:06:34,arrivals,19:25,19:21,-4
+Stockholm,SWISS,Arrived,2024-11-02 12:06:34,arrivals,19:15,18:59,-16
+Copenhagen,SWISS,Arrived,2024-11-02 12:06:34,arrivals,18:55,18:29,-26
+Hurghada,EASYJET,Arrived,2024-11-02 12:06:34,arrivals,18:35,18:26,-9
+Porto,TAP PORTUGAL,Arrived,2024-11-02 12:06:34,arrivals,18:30,18:22,-8
+Olbia,EASYJET,,2024-11-02 12:06:34,arrivals,21:55,21:55,0
+Palma de Mallorca,EASYJET,,2024-11-02 12:06:34,arrivals,21:30,21:30,0
+Palermo,EASYJET,,2024-11-02 12:06:34,arrivals,22:35,22:35,0
+Heraklion,EASYJET,,2024-11-02 12:06:34,arrivals,22:35,22:35,0
+Gran Canaria,EASYJET,,2024-11-02 12:06:34,arrivals,22:30,22:30,0
+Rabat,EASYJET,,2024-11-02 12:06:34,arrivals,21:55,21:55,0
+Frankfurt,LUFTHANSA,,2024-11-02 12:06:34,arrivals,22:25,22:25,0
+Malaga,EASYJET,,2024-11-02 12:06:34,arrivals,22:15,22:15,0
+London,BRITISH AIRWAYS,,2024-11-02 12:06:34,arrivals,22:10,22:10,0
+Nantes,EASYJET,,2024-11-02 12:06:34,arrivals,22:10,22:10,0
+Bordeaux,EASYJET,,2024-11-02 12:06:34,arrivals,22:05,22:05,0
+Malta,EASYJET,,2024-11-02 12:06:34,arrivals,22:20,22:20,0
+London,EASYJET,Go to gate,2024-11-02 12:06:48,departures,20:05,20:05,0
+Tunis,TUNISAIR,Next info at 20:30,2024-11-02 12:06:48,departures,19:10,19:10,0
+Porto,TAP PORTUGAL,Departed,2024-11-02 12:06:48,departures,19:15,19:15,0
+Helsinki,FINNAIR,Departed,2024-11-02 12:06:48,departures,19:00,19:00,0
+Bordeaux,EASYJET,Took off,2024-11-02 12:06:48,departures,19:00,18:55,-5
+Zurich,SWISS,Took off,2024-11-02 12:06:48,departures,18:55,18:55,0
+Antalya,PEGASUS,Departed,2024-11-02 12:06:48,departures,18:45,19:00,15
+Olbia,EASYJET,Took off,2024-11-02 12:06:48,departures,18:30,18:20,-10
+Palermo,EASYJET,Took off,2024-11-02 12:06:48,departures,18:20,18:15,-5
+Lisbon,TAP PORTUGAL,Go to gate,2024-11-02 12:06:48,departures,18:15,19:40,85
+Barcelona,EASYJET,Took off,2024-11-02 12:06:48,departures,18:10,18:00,-10
+Geneva,EASYJET,Cancelled,2024-11-02 12:06:48,departures,12:30,12:30,0
+Porto,EASYJET,,2024-11-02 12:06:48,departures,21:10,21:10,0
+New York,UNITED AIRLINES,,2024-11-02 21:35:37,arrivals,06:25,06:21,-4
+Addis Ababa,ETHIOPIAN AIRLINES,,2024-11-02 21:35:37,arrivals,06:15,06:15,0
+Washington,UNITED AIRLINES,,2024-11-02 21:35:37,arrivals,06:35,06:29,-6
+Ajaccio,EASYJET,,2024-11-02 21:36:12,departures,06:00,06:00,0
+Marrakech,EASYJET,,2024-11-02 21:36:12,departures,06:00,06:00,0
+Zurich,SWISS,,2024-11-02 21:36:12,departures,06:00,06:00,0
+Valencia,SWISS,,2024-11-02 21:36:12,departures,06:00,06:00,0
+Madrid,IBERIA,,2024-11-02 21:36:12,departures,06:00,06:00,0
+Lisbon,TAP PORTUGAL,,2024-11-02 21:36:12,departures,06:05,06:05,0
+London,BRITISH AIRWAYS,,2024-11-02 21:36:12,departures,06:25,06:25,0
+Paris,AIR FRANCE,,2024-11-02 21:36:12,departures,06:30,06:30,0
+Barcelona,EASYJET,,2024-11-02 21:36:12,departures,06:30,06:30,0
+Malaga,EASYJET,,2024-11-02 21:36:12,departures,06:35,06:35,0
+Hurghada,SWISS,,2024-11-02 21:36:12,departures,06:35,06:35,0
+Porto,EASYJET,,2024-11-03 00:36:51,arrivals,09:35,09:35,0
+London,SWISS,,2024-11-03 00:36:51,arrivals,09:35,09:35,0
+New York,SWISS,,2024-11-03 00:36:51,arrivals,09:20,09:00,-20
+Amsterdam,EASYJET,,2024-11-03 00:36:51,arrivals,09:00,09:00,0
+Barcelona,VUELING,,2024-11-03 00:36:51,arrivals,09:00,09:00,0
+Ajaccio,EASYJET,,2024-11-03 00:36:51,arrivals,09:00,09:00,0
+Casablanca,AIR ARABIA MAROC,,2024-11-03 00:36:51,arrivals,08:50,08:50,0
+Vienna,AUSTRIAN,,2024-11-03 00:36:51,arrivals,08:50,08:50,0
+Zurich,SWISS,,2024-11-03 00:36:51,arrivals,08:25,08:25,0
+Amsterdam,KLM ROYAL DUTCH AIRLINES,,2024-11-03 00:36:51,arrivals,08:25,08:31,6
+Antalya,SUN EXPRESS,,2024-11-03 00:36:51,arrivals,08:20,08:05,-15
+Venice,EASYJET,,2024-11-03 00:36:51,arrivals,08:20,07:59,-21
+Paris,AIR FRANCE,,2024-11-03 00:36:51,arrivals,08:15,08:07,-8
+Frankfurt,LUFTHANSA,,2024-11-03 00:36:51,arrivals,08:10,08:02,-8
+Brussels,BRUSSELS AIRLINES,,2024-11-03 00:36:51,arrivals,07:55,07:50,-5
+Palma de Mallorca,EASYJET,,2024-11-03 00:36:51,arrivals,07:50,07:35,-15
+Malaga,EASYJET,,2024-11-03 00:36:51,arrivals,08:35,09:18,43
+Abu Dhabi,ETIHAD AIRWAYS,Arrived,2024-11-03 00:36:51,arrivals,06:55,07:11,16
+New York,UNITED AIRLINES,,2024-11-03 00:37:21,departures,09:15,09:15,0
+Casablanca,AIR ARABIA MAROC,,2024-11-03 00:37:21,departures,09:35,09:35,0
+Bordeaux,EASYJET,,2024-11-03 00:37:21,departures,09:25,09:25,0
+Antalya,SUN EXPRESS,,2024-11-03 00:37:21,departures,09:20,09:20,0
+Malaga,EASYJET,,2024-11-03 00:37:21,departures,09:20,09:55,35
+Amsterdam,KLM ROYAL DUTCH AIRLINES,,2024-11-03 00:37:21,departures,09:10,09:10,0
+Paris,AIR FRANCE,,2024-11-03 00:37:21,departures,09:05,09:05,0
+London,BRITISH AIRWAYS,,2024-11-03 00:37:21,departures,09:00,09:00,0
+Venice,EASYJET,,2024-11-03 00:37:21,departures,08:55,08:55,0
+A Coruna,EASYJET,,2024-11-03 00:37:21,departures,08:50,08:50,0
+Frankfurt,LUFTHANSA,,2024-11-03 00:37:21,departures,08:45,08:45,0
+Munich,AIR DOLOMITI,,2024-11-03 00:37:21,departures,08:35,08:35,0
+Brussels,BRUSSELS AIRLINES,,2024-11-03 00:37:21,departures,08:35,08:35,0
+Palma de Mallorca,EASYJET,,2024-11-03 00:37:21,departures,08:25,08:25,0
+Pristina,EASYJET,Boarding,2024-11-03 00:37:21,departures,08:20,08:20,0
+Marrakech,SWISS,Boarding,2024-11-03 00:37:21,departures,08:05,08:05,0
+Brindisi,EASYJET,Boarding,2024-11-03 00:37:21,departures,08:05,08:05,0
+Porto,EASYJET,Boarding,2024-11-03 00:37:21,departures,08:00,08:00,0
+Vienna,AUSTRIAN,,2024-11-03 00:37:21,departures,09:35,09:35,0
+Belgrade,EASYJET,Took off,2024-11-03 00:37:21,departures,07:00,07:00,0
+London,EASYJET,Took off,2024-11-03 00:37:21,departures,07:00,06:55,-5
+Nantes,EASYJET,Took off,2024-11-03 00:37:21,departures,07:00,07:00,0
+Enfidha,EASYJET,Took off,2024-11-03 00:37:21,departures,07:10,06:55,-15
+Amsterdam,KLM ROYAL DUTCH AIRLINES,Took off,2024-11-03 00:37:21,departures,07:10,07:10,0
+Manchester,ETHIOPIAN AIRLINES,Took off,2024-11-03 00:37:21,departures,07:15,07:12,-3
+Copenhagen,EASYJET,Took off,2024-11-03 00:37:21,departures,07:15,07:10,-5
+London,SWISS,Departed,2024-11-03 00:37:21,departures,07:25,07:25,0
+Porto,EASYJET,Departed,2024-11-03 00:37:21,departures,07:30,07:20,-10
+Zurich,SWISS,Departed,2024-11-03 00:37:21,departures,07:40,07:40,0
+Brussels,SWISS,Took off,2024-11-03 00:37:21,departures,07:00,07:00,0
+Malaga,SWISS,Took off,2024-11-03 00:37:21,departures,07:00,07:00,0
+Rome,EASYJET,Took off,2024-11-03 00:37:21,departures,06:45,06:40,-5
+Frankfurt,LUFTHANSA,Took off,2024-11-03 00:37:21,departures,06:55,06:55,0
+Santiago de Compostela,EASYJET,Took off,2024-11-03 00:37:21,departures,06:40,06:30,-10
+Malaga,EASYJET,,2024-11-03 03:37:52,arrivals,12:05,12:00,-5
+Amsterdam,EASYJET,Arrived,2024-11-03 03:37:52,arrivals,09:40,09:24,-16
+Warsaw,LOT POLISH AIRLINES,Arrived,2024-11-03 03:37:52,arrivals,09:40,09:19,-21
+Paris,AIR FRANCE,Arrived,2024-11-03 03:37:52,arrivals,09:40,09:29,-11
+Zurich,SWISS,Arrived,2024-11-03 03:37:52,arrivals,09:45,09:45,0
+Montreal,AIR CANADA,Arrived,2024-11-03 03:37:52,arrivals,10:00,09:56,-4
+Istanbul,TURKISH AIRLINES,Arrived,2024-11-03 03:37:52,arrivals,10:00,09:31,-29
+Manchester,EASYJET,Arrived,2024-11-03 03:37:52,arrivals,10:00,09:52,-8
+Helsinki,FINNAIR,Arrived,2024-11-03 03:37:52,arrivals,10:05,09:37,-28
+Faro,EASYJET,Arrived,2024-11-03 03:37:52,arrivals,10:10,09:46,-24
+Edinburgh,EASYJET,Arrived,2024-11-03 03:37:52,arrivals,10:10,10:17,7
+Frankfurt,AIR DOLOMITI,Arrived,2024-11-03 03:37:52,arrivals,10:15,10:10,-5
+Brussels,SWISS,Arrived,2024-11-03 03:37:52,arrivals,10:15,10:06,-9
+Barcelona,EASYJET,Arrived,2024-11-03 03:37:52,arrivals,10:15,10:00,-15
+Nantes,EASYJET,Arrived,2024-11-03 03:37:52,arrivals,10:20,10:14,-6
+Valencia,SWISS,Arrived,2024-11-03 03:37:52,arrivals,10:30,10:12,-18
+Amsterdam,KLM ROYAL DUTCH AIRLINES,,2024-11-03 03:37:52,arrivals,11:00,10:53,-7
+London,EASYJET,,2024-11-03 03:37:52,arrivals,11:00,10:56,-4
+Lisbon,TAP PORTUGAL,,2024-11-03 03:37:52,arrivals,11:10,11:23,13
+Paris,AIR FRANCE,,2024-11-03 03:37:52,arrivals,11:15,11:10,-5
+London,BRITISH AIRWAYS,,2024-11-03 03:37:52,arrivals,11:20,10:59,-21
+London,EASYJET,,2024-11-03 03:37:52,arrivals,11:30,11:21,-9
+Santiago de Compostela,EASYJET,,2024-11-03 03:37:52,arrivals,11:35,11:36,1
+London,SWISS,,2024-11-03 03:37:52,arrivals,11:40,11:50,10
+Belgrade,EASYJET,,2024-11-03 03:37:52,arrivals,11:45,11:34,-11
+London,EASYJET,,2024-11-03 03:37:52,arrivals,11:45,11:40,-5
+Madrid,IBERIA,,2024-11-03 03:37:52,arrivals,11:50,11:36,-14
+Copenhagen,EASYJET,,2024-11-03 03:37:52,arrivals,11:55,11:36,-19
+Rome,EASYJET,Arrived,2024-11-03 03:37:52,arrivals,10:30,10:20,-10
+Enfidha,EASYJET,,2024-11-03 03:37:52,arrivals,12:20,11:47,-33
+Nice,EASYJET,,2024-11-03 03:37:52,arrivals,12:20,12:20,0
+Bordeaux,EASYJET,,2024-11-03 03:37:52,arrivals,12:30,12:30,0
+Zurich,SWISS,Took off,2024-11-03 03:38:19,departures,10:05,10:05,0
+Barcelona,VUELING,Took off,2024-11-03 03:38:19,departures,09:40,09:35,-5
+Amsterdam,EASYJET,Took off,2024-11-03 03:38:19,departures,09:50,09:55,5
+Marrakech,EASYJET,Took off,2024-11-03 03:38:19,departures,09:50,09:50,0
+Abu Dhabi,ETIHAD AIRWAYS,Took off,2024-11-03 03:38:19,departures,09:55,09:55,0
+Porto,EASYJET,Departed,2024-11-03 03:38:19,departures,10:15,10:35,20
+Warsaw,LOT POLISH AIRLINES,Took off,2024-11-03 03:38:19,departures,10:20,10:10,-10
+Athens,SWISS,Departed,2024-11-03 03:38:19,departures,10:30,10:30,0
+Paris,AIR FRANCE,Departed,2024-11-03 03:38:19,departures,10:30,10:30,0
+Zurich,SWISS,Departed,2024-11-03 03:38:19,departures,10:35,10:35,0
+Faro,EASYJET,Departed,2024-11-03 03:38:19,departures,10:45,10:35,-10
+Manchester,EASYJET,Boarding,2024-11-03 03:38:19,departures,10:45,10:45,0
+Edinburgh,EASYJET,Go to gate,2024-11-03 03:38:19,departures,10:45,11:00,15
+Helsinki,FINNAIR,Boarding,2024-11-03 03:38:19,departures,10:50,10:50,0
+Frankfurt,AIR DOLOMITI,Boarding,2024-11-03 03:38:19,departures,10:50,10:50,0
+Madrid,IBERIA,,2024-11-03 03:38:19,departures,12:35,12:35,0
+London,EASYJET,,2024-11-03 03:38:19,departures,12:30,12:30,0
+Montreal,AIR CANADA,,2024-11-03 03:38:19,departures,12:20,12:20,0
+London,BRITISH AIRWAYS,,2024-11-03 03:38:19,departures,12:10,12:10,0
+London,EASYJET,,2024-11-03 03:38:19,departures,12:05,12:05,0
+Paris,AIR FRANCE,,2024-11-03 03:38:19,departures,12:05,12:05,0
+Lisbon,TAP PORTUGAL,,2024-11-03 03:38:19,departures,12:00,12:10,10
+Nice,EASYJET,Boarding,2024-11-03 03:38:19,departures,10:50,10:50,0
+Amsterdam,KLM ROYAL DUTCH AIRLINES,,2024-11-03 03:38:19,departures,11:50,11:50,0
+Lisbon,SWISS,Boarding,2024-11-03 03:38:19,departures,11:05,11:05,0
+Naples,EASYJET,,2024-11-03 03:38:19,departures,11:50,11:50,0
+New York,SWISS,Go to gate,2024-11-03 03:38:19,departures,11:40,11:40,0
+Amsterdam,EASYJET,Took off,2024-11-03 03:38:19,departures,10:20,10:20,0
+Washington,UNITED AIRLINES,Boarding,2024-11-03 03:38:19,departures,11:20,11:20,0
+Zurich,SWISS,Go to gate,2024-11-03 03:38:19,departures,11:10,11:10,0
+Brussels,EASYJET,Boarding,2024-11-03 03:38:19,departures,11:10,11:10,0
+London,EASYJET,Go to gate,2024-11-03 03:38:19,departures,10:55,10:55,0
+Istanbul,TURKISH AIRLINES,Departed,2024-11-03 03:38:19,departures,11:00,11:00,0
+Berlin,EASYJET,,2024-11-03 06:38:47,arrivals,15:30,15:30,0
+Paris,EASYJET,,2024-11-03 06:38:47,arrivals,15:35,15:35,0
+Porto,TAP PORTUGAL,,2024-11-03 06:38:47,arrivals,15:30,15:30,0
+Marrakech,SWISS,,2024-11-03 06:38:47,arrivals,15:25,15:06,-19
+Dubai,EMIRATES,Arrived,2024-11-03 06:38:47,arrivals,12:45,12:54,9
+London,EASYJET,,2024-11-03 06:38:47,arrivals,14:45,15:01,16
+Porto,EASYJET,Arrived,2024-11-03 06:38:47,arrivals,12:40,12:18,-22
+Brindisi,EASYJET,Arrived,2024-11-03 06:38:47,arrivals,12:40,12:16,-24
+Tunis,NOUVELAIR TUNISIE,Arrived,2024-11-03 06:38:47,arrivals,12:45,12:36,-9
+Zurich,SWISS,Arrived,2024-11-03 06:38:47,arrivals,12:50,12:51,1
+Pristina,GP AVIATION,Arrived,2024-11-03 06:38:47,arrivals,12:55,13:23,28
+Marrakech,EASYJET,Arrived,2024-11-03 06:38:47,arrivals,13:05,13:27,22
+Frankfurt,LUFTHANSA,Arrived,2024-11-03 06:38:47,arrivals,13:05,13:07,2
+Cairo,EGYPTAIR,Arrived,2024-11-03 06:38:47,arrivals,13:05,13:00,-5
+Porto,EASYJET,Arrived,2024-11-03 06:38:47,arrivals,13:10,12:57,-13
+Istanbul,PEGASUS,Arrived,2024-11-03 06:38:47,arrivals,13:20,13:05,-15
+Madrid,IBERIA,Arrived,2024-11-03 06:38:47,arrivals,13:25,13:25,0
+Lisbon,EASYJET,,2024-11-03 06:38:47,arrivals,14:45,15:32,47
+Dublin,AER LINGUS,Arrived,2024-11-03 06:38:47,arrivals,13:30,13:35,5
+London,BRITISH AIRWAYS,Arrived,2024-11-03 06:38:47,arrivals,13:30,13:33,3
+Jeddah,SAUDIA,Arrived,2024-11-03 06:38:47,arrivals,13:35,12:44,-51
+Doha,QATAR AIRWAYS,Arrived,2024-11-03 06:38:47,arrivals,13:45,13:15,-30
+Pristina,EASYJET,Arrived,2024-11-03 06:38:47,arrivals,13:45,13:18,-27
+Zurich,SWISS,,2024-11-03 06:38:47,arrivals,13:45,13:39,-6
+Amsterdam,KLM ROYAL DUTCH AIRLINES,,2024-11-03 06:38:47,arrivals,13:50,13:57,7
+Istanbul,TURKISH AIRLINES,Arrived,2024-11-03 06:38:47,arrivals,13:50,13:20,-30
+London,EASYJET,Arrived,2024-11-03 06:38:47,arrivals,13:50,13:37,-13
+A Coruna,EASYJET,,2024-11-03 06:38:47,arrivals,13:55,14:04,9
+Paris,AIR FRANCE,,2024-11-03 06:38:47,arrivals,14:10,13:59,-11
+Malaga,SWISS,,2024-11-03 06:38:47,arrivals,14:20,14:31,11
+Brussels,EASYJET,,2024-11-03 06:38:47,arrivals,14:20,14:24,4
+Nice,EASYJET,Arrived,2024-11-03 06:38:47,arrivals,13:30,13:29,-1
+London,SWISS,Took off,2024-11-03 06:39:10,departures,12:50,12:50,0
+Nice,EASYJET,Took off,2024-11-03 06:39:10,departures,12:55,12:50,-5
+Paris,EASYJET,Took off,2024-11-03 06:39:10,departures,13:00,13:00,0
+Catania,EASYJET,Took off,2024-11-03 06:39:10,departures,13:15,13:10,-5
+Porto,EASYJET,Departed,2024-11-03 06:39:10,departures,13:30,13:30,0
+Frankfurt,LUFTHANSA,Go to gate,2024-11-03 06:39:10,departures,13:40,13:40,0
+Bari,EASYJET,Departed,2024-11-03 06:39:10,departures,13:30,13:25,-5
+Cairo,EGYPTAIR,Go to gate,2024-11-03 06:39:10,departures,14:05,14:05,0
+Olbia,EASYJET,Departed,2024-11-03 06:39:10,departures,13:50,13:40,-10
+Hamburg,SWISS,Departed,2024-11-03 06:39:10,departures,13:50,13:50,0
+Pristina,GP AVIATION,Go to gate,2024-11-03 06:39:10,departures,13:55,13:55,0
+Cagliari,EASYJET,Go to gate,2024-11-03 06:39:10,departures,14:05,14:05,0
+Madrid,IBERIA,Go to gate,2024-11-03 06:39:10,departures,14:10,14:10,0
+Tunis,NOUVELAIR TUNISIE,Boarding,2024-11-03 06:39:10,departures,13:45,13:45,0
+Seville,EASYJET,Took off,2024-11-03 06:39:10,departures,12:50,12:50,0
+Lille,EASYJET,Boarding,2024-11-03 06:39:10,departures,14:10,14:10,0
+Lisbon,EASYJET,Took off,2024-11-03 06:39:10,departures,12:40,12:40,0
+Split,EASYJET,Boarding,2024-11-03 06:39:10,departures,14:10,14:10,0
+London,EASYJET,Go to gate,2024-11-03 06:39:10,departures,14:35,14:35,0
+Budapest,EASYJET,Go to gate,2024-11-03 06:39:10,departures,14:15,14:15,0
+Amsterdam,KLM ROYAL DUTCH AIRLINES,,2024-11-03 06:39:10,departures,14:35,14:35,0
+Istanbul,TURKISH AIRLINES,,2024-11-03 06:39:10,departures,14:45,14:45,0
+Zurich,SWISS,,2024-11-03 06:39:10,departures,14:50,14:50,0
+Paris,AIR FRANCE,,2024-11-03 06:39:10,departures,15:00,15:00,0
+Dubai,EMIRATES,Go to gate,2024-11-03 06:39:10,departures,15:00,15:00,0
+Agadir,EASYJET,,2024-11-03 06:39:10,departures,15:00,15:00,0
+Jeddah,SAUDIA,,2024-11-03 06:39:10,departures,15:00,15:00,0
+Barcelona,EASYJET,,2024-11-03 06:39:10,departures,15:10,15:10,0
+Prague,EASYJET,,2024-11-03 06:39:10,departures,15:15,15:15,0
+Lisbon,EASYJET,,2024-11-03 06:39:10,departures,15:20,16:05,45
+Doha,QATAR AIRWAYS,,2024-11-03 06:39:10,departures,15:25,15:25,0
+London,BRITISH AIRWAYS,Go to gate,2024-11-03 06:39:10,departures,14:30,14:30,0
+Istanbul,PEGASUS,Go to gate,2024-11-03 06:39:10,departures,14:20,14:20,0
+Dublin,AER LINGUS,Go to gate,2024-11-03 06:39:10,departures,14:10,14:10,0
+Luxembourg,LUXAIR,Arrived,2024-11-03 09:39:36,arrivals,16:20,16:12,-8
+Amsterdam,EASYJET,Arrived,2024-11-03 09:39:36,arrivals,15:40,15:33,-7
+Olbia,EASYJET,,2024-11-03 09:39:36,arrivals,17:35,17:35,0
+Cagliari,EASYJET,,2024-11-03 09:39:36,arrivals,17:45,17:45,0
+Nice,EASYJET,,2024-11-03 09:39:36,arrivals,17:45,17:45,0
+Naples,EASYJET,,2024-11-03 09:39:36,arrivals,17:25,17:23,-2
+Lille,EASYJET,,2024-11-03 09:39:36,arrivals,17:15,16:59,-16
+Istanbul,TURKISH AIRLINES,,2024-11-03 09:39:36,arrivals,17:10,16:53,-17
+Lisbon,SWISS,,2024-11-03 09:39:36,arrivals,17:05,17:22,17
+London,SWISS,,2024-11-03 09:39:36,arrivals,17:05,17:18,13
+London,BRITISH AIRWAYS,Arrived,2024-11-03 09:39:36,arrivals,15:40,15:26,-14
+Hurghada,SWISS,,2024-11-03 09:39:36,arrivals,17:00,16:48,-12
+Athens,SWISS,,2024-11-03 09:39:36,arrivals,16:55,16:59,4
+Vienna,AUSTRIAN,,2024-11-03 09:39:36,arrivals,16:55,16:51,-4
+Amsterdam,KLM ROYAL DUTCH AIRLINES,Arrived,2024-11-03 09:39:36,arrivals,16:40,16:22,-18
+Munich,AIR DOLOMITI,,2024-11-03 09:39:36,arrivals,16:30,16:39,9
+Paris,AIR FRANCE,Arrived,2024-11-03 09:39:36,arrivals,16:15,16:04,-11
+Brussels,BRUSSELS AIRLINES,Arrived,2024-11-03 09:39:36,arrivals,16:10,15:58,-12
+Frankfurt,LUFTHANSA,Arrived,2024-11-03 09:39:36,arrivals,16:05,16:02,-3
+Athens,AEGEAN AIRLINES,Arrived,2024-11-03 09:39:36,arrivals,16:00,16:14,14
+Tunis,TUNISAIR,,2024-11-03 09:39:36,arrivals,16:00,17:09,69
+Naples,EASYJET,Arrived,2024-11-03 09:39:36,arrivals,15:55,15:35,-20
+Porto,EASYJET,Arrived,2024-11-03 09:39:36,arrivals,15:55,16:00,5
+Barcelona,EASYJET,,2024-11-03 09:39:36,arrivals,15:55,17:12,77
+Casablanca,ROYAL AIR MAROC,Arrived,2024-11-03 09:39:36,arrivals,15:55,15:48,-7
+Bristol,EASYJET,Arrived,2024-11-03 09:39:36,arrivals,15:50,15:51,1
+Marrakech,EASYJET,,2024-11-03 09:39:36,arrivals,16:55,17:14,19
+Nice,SWISS,,2024-11-03 09:39:36,arrivals,20:40,20:40,0
+Bari,EASYJET,,2024-11-03 09:39:36,arrivals,18:00,17:59,-1
+Toulouse,EASYJET,,2024-11-03 09:39:36,arrivals,21:55,21:55,0
+London,BRITISH AIRWAYS,,2024-11-03 09:39:36,arrivals,22:05,22:05,0
+Bordeaux,EASYJET,,2024-11-03 09:39:36,arrivals,22:15,22:15,0
+London,EASYJET,,2024-11-03 09:39:36,arrivals,22:25,22:25,0
+Lisbon,EASYJET,,2024-11-03 09:39:36,arrivals,22:30,22:30,0
+Ibiza,EASYJET,,2024-11-03 09:39:36,arrivals,22:30,22:30,0
+Brussels,EASYJET,,2024-11-03 09:39:36,arrivals,22:30,22:30,0
+Paris,EASYJET,,2024-11-03 09:39:36,arrivals,22:30,22:30,0
+Porto,EASYJET,,2024-11-03 09:39:36,arrivals,22:50,22:50,0
+Alicante,EASYJET,,2024-11-03 09:39:36,arrivals,22:50,22:50,0
+Agadir,EASYJET,,2024-11-03 09:39:36,arrivals,22:50,22:50,0
+London,EASYJET,,2024-11-03 09:39:36,arrivals,23:00,23:00,0
+Nantes,EASYJET,,2024-11-03 09:39:36,arrivals,23:00,23:00,0
+Barcelona,EASYJET,,2024-11-03 09:39:36,arrivals,22:35,22:35,0
+Copenhagen,EASYJET,,2024-11-03 09:39:36,arrivals,22:40,22:40,0
+Manchester,ETHIOPIAN AIRLINES,,2024-11-03 09:39:36,arrivals,21:20,21:20,0
+Porto,SWISS,,2024-11-03 09:39:36,arrivals,21:50,21:50,0
+Split,EASYJET,,2024-11-03 09:39:36,arrivals,18:00,18:00,0
+Seville,EASYJET,,2024-11-03 09:39:36,arrivals,18:05,18:34,29
+Hamburg,SWISS,,2024-11-03 09:39:36,arrivals,18:10,18:10,0
+Manchester,EASYJET,,2024-11-03 09:39:36,arrivals,18:10,18:10,0
+Catania,EASYJET,,2024-11-03 09:39:36,arrivals,18:20,18:20,0
+Lisbon,EASYJET,,2024-11-03 09:39:36,arrivals,18:25,18:36,11
+Porto,EASYJET,,2024-11-03 09:39:36,arrivals,18:40,18:40,0
+Prague,EASYJET,,2024-11-03 09:39:36,arrivals,19:00,19:00,0
+Budapest,EASYJET,,2024-11-03 09:39:36,arrivals,18:30,18:30,0
+Barcelona,EASYJET,,2024-11-03 09:39:36,arrivals,19:15,19:15,0
+Pristina,EASYJET,,2024-11-03 09:39:36,arrivals,21:05,21:05,0
+Barcelona,EASYJET,,2024-11-03 09:39:36,arrivals,20:00,20:00,0
+Prague,EUROWINGS,,2024-11-03 09:39:36,arrivals,20:10,20:10,0
+Nantes,EASYJET,,2024-11-03 09:39:36,arrivals,19:35,19:35,0
+Toulouse,EASYJET,,2024-11-03 09:39:55,departures,19:00,19:10,10
+London,EASYJET,,2024-11-03 09:39:55,departures,19:15,19:15,0
+Manchester,EASYJET,,2024-11-03 09:39:55,departures,19:00,19:00,0
+Istanbul,TURKISH AIRLINES,,2024-11-03 09:39:55,departures,18:35,18:35,0
+Barcelona,EASYJET,,2024-11-03 09:39:55,departures,18:50,18:50,0
+Rome,EASYJET,,2024-11-03 09:39:55,departures,18:45,19:10,25
+London,EASYJET,,2024-11-03 09:39:55,departures,18:40,18:40,0
+Bordeaux,EASYJET,,2024-11-03 09:39:55,departures,18:55,18:55,0
+Paris,EASYJET,,2024-11-03 09:39:55,departures,19:35,19:35,0
+Prague,EUROWINGS,,2024-11-03 09:39:55,departures,21:00,21:00,0
+Nantes,EASYJET,,2024-11-03 09:39:55,departures,19:50,19:50,0
+Nice,EASYJET,,2024-11-03 09:39:55,departures,18:30,18:30,0
+Addis Ababa,ETHIOPIAN AIRLINES,,2024-11-03 09:39:55,departures,22:15,22:15,0
+Berlin,EASYJET,,2024-11-03 09:39:55,departures,21:00,21:00,0
+Barcelona,EASYJET,,2024-11-03 09:39:55,departures,20:40,20:40,0
+Zurich,SWISS,,2024-11-03 09:39:55,departures,20:30,20:30,0
+Naples,EASYJET,,2024-11-03 09:39:55,departures,18:00,18:00,0
+Ibiza,EASYJET,,2024-11-03 09:39:55,departures,18:20,18:20,0
+Athens,AEGEAN AIRLINES,Boarding,2024-11-03 09:39:55,departures,16:55,16:55,0
+Lisbon,EASYJET,Departed,2024-11-03 09:39:55,departures,16:45,16:45,0
+Frankfurt,LUFTHANSA,Departed,2024-11-03 09:39:55,departures,16:45,16:45,0
+Barcelona,EASYJET,,2024-11-03 09:39:55,departures,16:40,17:45,65
+Bristol,EASYJET,Departed,2024-11-03 09:39:55,departures,16:35,16:35,0
+Porto,EASYJET,Departed,2024-11-03 09:39:55,departures,16:30,16:40,10
+Casablanca,ROYAL AIR MAROC,Departed,2024-11-03 09:39:55,departures,16:55,16:55,0
+London,BRITISH AIRWAYS,Took off,2024-11-03 09:39:55,departures,16:25,16:25,0
+Nantes,EASYJET,Took off,2024-11-03 09:39:55,departures,16:20,16:20,0
+Berlin,EASYJET,Departed,2024-11-03 09:39:55,departures,16:10,16:05,-5
+Porto,SWISS,Took off,2024-11-03 09:39:55,departures,16:10,16:10,0
+London,SWISS,Took off,2024-11-03 09:39:55,departures,15:55,15:55,0
+Pristina,EASYJET,Took off,2024-11-03 09:39:55,departures,15:40,15:40,0
+Alicante,EASYJET,,2024-11-03 09:39:55,departures,18:20,18:20,0
+Amsterdam,EASYJET,Departed,2024-11-03 09:39:55,departures,16:25,16:25,0
+Brussels,BRUSSELS AIRLINES,Boarding,2024-11-03 09:39:55,departures,17:00,17:00,0
+Porto,TAP PORTUGAL,,2024-11-03 09:39:55,departures,16:25,19:00,155
+Luxembourg,LUXAIR,Go to gate,2024-11-03 09:39:55,departures,17:00,17:00,0
+Copenhagen,EASYJET,,2024-11-03 09:39:55,departures,17:55,17:55,0
+Nice,SWISS,,2024-11-03 09:39:55,departures,17:55,17:55,0
+Munich,AIR DOLOMITI,Go to gate,2024-11-03 09:39:55,departures,17:10,17:10,0
+Paris,AIR FRANCE,Boarding,2024-11-03 09:39:55,departures,17:05,17:05,0
+Porto,EASYJET,,2024-11-03 09:39:55,departures,17:40,17:50,10
+Tunis,TUNISAIR,Go to gate,2024-11-03 09:39:55,departures,17:00,17:25,25
+Nantes,EASYJET,,2024-11-04 12:43:03,arrivals,22:15,22:15,0
+Copenhagen,EASYJET,,2024-11-04 12:43:03,arrivals,22:15,22:15,0
+Barcelona,EASYJET,Cancelled,2024-11-04 12:43:03,arrivals,16:30,16:30,0
+Rome,EASYJET,,2024-11-04 12:43:03,arrivals,22:25,22:25,0
+Nice,SWISS,,2024-11-04 12:43:03,arrivals,22:20,22:20,0
+Porto,EASYJET,,2024-11-04 12:43:03,arrivals,22:30,22:30,0
+Bordeaux,EASYJET,,2024-11-04 12:43:03,arrivals,22:55,22:55,0
+Stockholm,EASYJET,,2024-11-04 12:43:03,arrivals,22:35,22:35,0
+Amsterdam,EASYJET,,2024-11-04 12:43:03,arrivals,22:35,22:35,0
+London,EASYJET,,2024-11-04 12:43:03,arrivals,22:40,22:40,0
+Nice,EASYJET,,2024-11-04 12:43:03,arrivals,22:45,22:45,0
+Heraklion,EASYJET,,2024-11-04 12:43:03,arrivals,22:55,22:55,0
+Bilbao,EASYJET,,2024-11-04 12:43:03,arrivals,22:35,22:35,0
+Frankfurt,LUFTHANSA,Delayed,2024-11-04 12:43:03,arrivals,21:55,21:55,0
+Toulouse,EASYJET,Delayed,2024-11-04 12:43:03,arrivals,19:35,19:35,0
+Marrakech,EASYJET,,2024-11-04 12:43:03,arrivals,21:55,22:07,12
+Barcelona,EASYJET,Delayed,2024-11-04 12:43:03,arrivals,17:10,17:10,0
+Munich,AIR DOLOMITI,,2024-11-04 12:43:03,arrivals,19:20,20:24,64
+Maurice,AIR MAURITIUS,Arrived,2024-11-04 12:43:03,arrivals,19:30,18:27,-63
+London,BRITISH AIRWAYS,,2024-11-04 12:43:03,arrivals,19:55,20:05,10
+London,BRITISH AIRWAYS,,2024-11-04 12:43:03,arrivals,21:55,21:55,0
+Madrid,IBERIA,,2024-11-04 12:43:03,arrivals,20:00,20:00,0
+Manchester,EASYJET,,2024-11-04 12:43:03,arrivals,20:15,20:36,21
+Porto,EASYJET,,2024-11-04 12:43:03,arrivals,20:15,20:16,1
+Brussels,BRUSSELS AIRLINES,,2024-11-04 12:43:03,arrivals,20:20,20:20,0
+Manchester,ETHIOPIAN AIRLINES,,2024-11-04 12:43:03,arrivals,20:30,20:33,3
+Marrakech,SWISS,,2024-11-04 12:43:03,arrivals,21:15,21:07,-8
+Faro,EASYJET,,2024-11-04 12:43:03,arrivals,21:50,21:50,0
+London,EASYJET,,2024-11-04 12:43:03,arrivals,20:00,19:44,-16
+Zurich,SWISS,,2024-11-04 12:43:03,arrivals,23:35,23:35,0
+Porto,EASYJET,Go to gate,2024-11-04 12:43:18,departures,20:50,20:50,0
+London,EASYJET,,2024-11-04 12:43:18,departures,20:45,20:45,0
+London,BRITISH AIRWAYS,,2024-11-04 12:43:18,departures,20:45,20:45,0
+Madrid,IBERIA,,2024-11-04 12:43:18,departures,20:45,20:45,0
+Nice,EASYJET,Next info at 19:45,2024-11-04 12:43:18,departures,20:10,20:10,0
+Munich,AIR DOLOMITI,,2024-11-04 12:43:18,departures,20:00,21:00,60
+Bordeaux,EASYJET,Departed,2024-11-04 12:43:18,departures,19:45,19:35,-10
+Manchester,EASYJET,,2024-11-04 12:43:18,departures,21:00,21:10,10
+Zurich,SWISS,Took off,2024-11-04 12:43:18,departures,19:05,19:05,0
+London,EASYJET,Took off,2024-11-04 12:43:18,departures,18:50,18:45,-5
+Nantes,EASYJET,Took off,2024-11-04 12:43:18,departures,18:50,19:20,30
+Bilbao,EASYJET,Took off,2024-11-04 12:43:18,departures,18:45,18:50,5
+Amsterdam,EASYJET,Departed,2024-11-04 12:43:18,departures,18:45,19:45,60
+Barcelona,EASYJET,Cancelled,2024-11-04 12:43:18,departures,17:05,17:05,0
+Nice,SWISS,Took off,2024-11-04 12:43:18,departures,19:35,19:25,-10
+Brussels,BRUSSELS AIRLINES,,2024-11-04 12:43:18,departures,21:10,21:10,0
+Addis Ababa,ETHIOPIAN AIRLINES,,2024-11-04 12:43:18,departures,21:25,21:25,0
+Maurice,AIR MAURITIUS,,2024-11-04 12:43:18,departures,21:15,21:15,0
+Alicante,EASYJET,,2024-11-06 11:15:04,arrivals,21:40,21:40,0
+Paris,AIR FRANCE,Arrived,2024-11-06 11:15:04,arrivals,17:25,17:12,-13
+Porto,SWISS,Arrived,2024-11-06 11:15:04,arrivals,17:25,17:16,-9
+Nantes,EASYJET,Cancelled,2024-11-06 11:15:04,arrivals,14:00,14:00,0
+Copenhagen,SAS SCANDINAVIAN AIRLINES,,2024-11-06 11:15:04,arrivals,19:30,19:25,-5
+Paris,AIR FRANCE,,2024-11-06 11:15:04,arrivals,19:40,19:40,0
+London,EASYJET,,2024-11-06 11:15:04,arrivals,19:55,19:55,0
+Düsseldorf,EUROWINGS,,2024-11-06 11:15:04,arrivals,20:05,20:05,0
+London,SWISS,,2024-11-06 11:15:04,arrivals,20:05,20:05,0
+Luxembourg,LUXAIR,,2024-11-06 11:15:04,arrivals,20:15,20:15,0
+Istanbul,TURKISH AIRLINES,Arrived,2024-11-06 11:15:04,arrivals,17:25,16:54,-31
+Berlin,EASYJET,,2024-11-06 11:15:04,arrivals,20:20,20:20,0
+Porto,EASYJET,,2024-11-06 11:15:04,arrivals,20:20,20:09,-11
+London,BRITISH AIRWAYS,Cancelled,2024-11-06 11:15:04,arrivals,20:20,20:20,0
+London,BRITISH AIRWAYS,,2024-11-06 11:15:04,arrivals,20:45,20:45,0
+Djerba,EASYJET,,2024-11-06 11:15:04,arrivals,20:50,20:50,0
+Brussels,SWISS,,2024-11-06 11:15:04,arrivals,21:00,21:00,0
+Nice,SWISS,,2024-11-06 11:15:04,arrivals,21:20,21:20,0
+Belgrade,EASYJET,,2024-11-06 11:15:04,arrivals,21:45,21:45,0
+Toulouse,EASYJET,,2024-11-06 11:15:04,arrivals,20:15,20:15,0
+Lisbon,TAP PORTUGAL,,2024-11-06 11:15:04,arrivals,17:30,19:02,92
+Zurich,SWISS,Arrived,2024-11-06 11:15:04,arrivals,17:35,17:24,-11
+Munich,AIR DOLOMITI,,2024-11-06 11:15:04,arrivals,19:25,19:25,0
+Manchester,EASYJET,,2024-11-06 11:15:04,arrivals,19:10,19:07,-3
+Vienna,AUSTRIAN,,2024-11-06 11:15:04,arrivals,19:10,19:00,-10
+Warsaw,LOT POLISH AIRLINES,,2024-11-06 11:15:04,arrivals,19:00,19:15,15
+Zurich,SWISS,,2024-11-06 11:15:04,arrivals,18:50,18:50,0
+Dubai,EMIRATES,,2024-11-06 11:15:04,arrivals,18:45,18:28,-17
+Amsterdam,KLM ROYAL DUTCH AIRLINES,,2024-11-06 11:15:04,arrivals,18:40,18:39,-1
+Paris,EASYJET,,2024-11-06 11:15:04,arrivals,21:50,21:50,0
+Amsterdam,EASYJET,,2024-11-06 11:15:04,arrivals,18:40,18:20,-20
+Nice,EASYJET,,2024-11-06 11:15:04,arrivals,18:35,18:38,3
+Budapest,EASYJET,,2024-11-06 11:15:04,arrivals,18:25,18:41,16
+Casablanca,AIR ARABIA MAROC,Arrived,2024-11-06 11:15:04,arrivals,18:05,18:00,-5
+Rome,ITA AIRWAYS,Arrived,2024-11-06 11:15:04,arrivals,18:00,17:58,-2
+Madrid,IBERIA,Arrived,2024-11-06 11:15:04,arrivals,17:50,17:44,-6
+London,BRITISH AIRWAYS,Arrived,2024-11-06 11:15:04,arrivals,17:50,17:42,-8
+Brussels,BRUSSELS AIRLINES,Arrived,2024-11-06 11:15:04,arrivals,17:45,17:33,-12
+Frankfurt,AIR DOLOMITI,Arrived,2024-11-06 11:15:04,arrivals,17:45,18:09,24
+Pristina,EASYJET,Arrived,2024-11-06 11:15:04,arrivals,17:45,17:40,-5
+Tenerife,EASYJET,Arrived,2024-11-06 11:15:04,arrivals,17:35,17:19,-16
+Barcelona,VUELING,Arrived,2024-11-06 11:15:04,arrivals,17:30,17:35,5
+Zurich,SWISS,,2024-11-06 11:15:04,arrivals,21:50,21:50,0
+Split,EASYJET,,2024-11-06 11:15:04,arrivals,22:15,22:15,0
+Sharm El-Sheikh,EASYJET,,2024-11-06 11:15:04,arrivals,22:00,21:44,-16
+Berlin,SWISS,,2024-11-06 11:15:04,arrivals,22:00,22:00,0
+Lisbon,TAP PORTUGAL,,2024-11-06 11:15:04,arrivals,23:15,23:15,0
+Munich,AIR DOLOMITI,,2024-11-06 11:15:04,arrivals,23:05,23:05,0
+Paris,AIR FRANCE,,2024-11-06 11:15:04,arrivals,23:00,23:00,0
+Barcelona,EASYJET,,2024-11-06 11:15:04,arrivals,22:55,22:55,0
+Nantes,EASYJET,Cancelled,2024-11-06 11:15:04,arrivals,22:40,22:40,0
+Porto,EASYJET,,2024-11-06 11:15:04,arrivals,22:35,22:35,0
+Brussels,EASYJET,,2024-11-06 11:15:04,arrivals,22:25,22:25,0
+Amsterdam,KLM ROYAL DUTCH AIRLINES,,2024-11-06 11:15:04,arrivals,22:45,22:45,0
+Brussels,SWISS,,2024-11-06 11:15:04,arrivals,22:25,22:25,0
+Madrid,IBERIA,,2024-11-06 11:15:04,arrivals,22:20,22:20,0
+Rome,EASYJET,,2024-11-06 11:15:04,arrivals,22:10,22:10,0
+Frankfurt,LUFTHANSA,,2024-11-06 11:15:04,arrivals,22:05,22:05,0
+London,SWISS,,2024-11-06 11:15:04,arrivals,22:05,22:05,0
+Marrakech,EASYJET,,2024-11-06 11:15:04,arrivals,22:00,22:00,0
+Lisbon,EASYJET,,2024-11-06 11:15:04,arrivals,22:25,22:25,0
+Istanbul,TURKISH AIRLINES,Departed,2024-11-06 11:15:20,departures,18:20,18:15,-5
+Manchester,EASYJET,,2024-11-06 11:15:20,departures,19:55,19:55,0
+Vienna,AUSTRIAN,,2024-11-06 11:15:20,departures,19:55,19:55,0
+Brussels,BRUSSELS AIRLINES,Boarding,2024-11-06 11:15:20,departures,18:30,18:30,0
+Frankfurt,AIR DOLOMITI,Go to gate,2024-11-06 11:15:20,departures,18:25,18:45,20
+Rome,EASYJET,Boarding,2024-11-06 11:15:20,departures,18:20,18:20,0
+Split,EASYJET,Departed,2024-11-06 11:15:20,departures,18:20,18:10,-10
+Lisbon,TAP PORTUGAL,,2024-11-06 11:15:20,departures,18:20,19:40,80
+Toulouse,EASYJET,Took off,2024-11-06 11:15:20,departures,17:20,17:20,0
+Barcelona,VUELING,Boarding,2024-11-06 11:15:20,departures,18:10,18:20,10
+London,SWISS,Took off,2024-11-06 11:15:20,departures,17:50,17:50,0
+Berlin,SWISS,Departed,2024-11-06 11:15:20,departures,17:45,18:15,30
+Brussels,SWISS,Took off,2024-11-06 11:15:20,departures,17:40,17:40,0
+Vienna,AUSTRIAN,Took off,2024-11-06 11:15:20,departures,17:40,17:40,0
+Amsterdam,KLM ROYAL DUTCH AIRLINES,Took off,2024-11-06 11:15:20,departures,17:30,17:30,0
+Munich,AIR DOLOMITI,,2024-11-06 11:15:20,departures,20:05,20:05,0
+Porto,EASYJET,Took off,2024-11-06 11:15:20,departures,17:20,17:15,-5
+Nantes,EASYJET,Cancelled,2024-11-06 11:15:20,departures,10:40,10:40,0
+Paris,AIR FRANCE,Departed,2024-11-06 11:15:20,departures,18:15,18:15,0
+Zurich,SWISS,,2024-11-06 11:15:20,departures,20:15,20:15,0
+Berlin,EASYJET,,2024-11-06 11:15:20,departures,20:55,20:55,0
+Paris,AIR FRANCE,,2024-11-06 11:15:20,departures,20:30,20:30,0
+Amsterdam,KLM ROYAL DUTCH AIRLINES,,2024-11-06 11:15:20,departures,19:25,19:30,5
+Madrid,IBERIA,Boarding,2024-11-06 11:15:20,departures,18:35,18:35,0
+Nice,SWISS,Boarding,2024-11-06 11:15:20,departures,18:35,18:35,0
+London,BRITISH AIRWAYS,Boarding,2024-11-06 11:15:20,departures,18:40,18:40,0
+Rome,ITA AIRWAYS,Go to gate,2024-11-06 11:15:20,departures,18:55,18:55,0
+Casablanca,AIR ARABIA MAROC,Go to gate,2024-11-06 11:15:20,departures,18:55,18:55,0
+Paris,EASYJET,,2024-11-06 11:15:20,departures,19:05,19:05,0
+Brussels,SWISS,,2024-11-06 11:15:20,departures,19:10,19:10,0
+Brussels,EASYJET,,2024-11-06 11:15:20,departures,19:15,19:15,0
+Barcelona,EASYJET,,2024-11-06 11:15:20,departures,19:15,19:15,0
+Zurich,SWISS,,2024-11-06 11:15:20,departures,19:20,19:20,0
+Nantes,EASYJET,Cancelled,2024-11-06 11:15:20,departures,19:25,19:25,0
+London,BRITISH AIRWAYS,,2024-11-06 11:15:20,departures,21:00,21:00,0
+Porto,EASYJET,,2024-11-06 11:15:20,departures,20:55,20:55,0
+Luxembourg,LUXAIR,,2024-11-06 11:15:20,departures,20:55,20:55,0
+London,SWISS,,2024-11-06 11:15:20,departures,20:50,20:50,0
+Düsseldorf,EUROWINGS,,2024-11-06 11:15:20,departures,20:45,20:45,0
+Dubai,EMIRATES,,2024-11-06 11:15:20,departures,20:40,20:40,0
+London,EASYJET,,2024-11-06 11:15:20,departures,20:35,20:35,0
+Copenhagen,SAS SCANDINAVIAN AIRLINES,,2024-11-06 11:15:20,departures,20:15,20:15,0
+Warsaw,LOT POLISH AIRLINES,,2024-11-06 11:15:20,departures,19:40,19:50,10
