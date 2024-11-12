@@ -1,4 +1,3 @@
-
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -8,8 +7,10 @@ from selenium.common.exceptions import WebDriverException, TimeoutException
 from bs4 import BeautifulSoup
 import pandas as pd
 from datetime import datetime
+from pathlib import Path
 import logging
 import time
+import os
 
 # Setup logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -73,8 +74,12 @@ def save_flights_to_csv(flights, flight_type):
     if flights:
         df = pd.DataFrame(flights)
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        output_directory = "/Users/nafisaumar/Documents/GenevaAirport/"
-        csv_filename = f"{output_directory}geneva_{flight_type}_{timestamp}.csv"
+
+        # Define a dynamic output directory relative to the user's home
+        output_directory = Path(os.path.expanduser("~")) / "Documents" / "GenevaAirport"
+        output_directory.mkdir(parents=True, exist_ok=True)  # Create directory if it doesn't exist
+
+        csv_filename = output_directory / f"geneva_{flight_type}_{timestamp}.csv"
         df.to_csv(csv_filename, index=False)
         logger.info(f"Data saved to {csv_filename}")
     else:
@@ -82,6 +87,7 @@ def save_flights_to_csv(flights, flight_type):
 
 # Scraping process
 def main():
+    driver = None
     try:
         driver = initialize_driver()
 
@@ -97,13 +103,12 @@ def main():
 
     except WebDriverException as e:
         logger.error(f"Failed to connect to the existing Chrome instance: {e}")
-        raise e
+    except Exception as e:
+        logger.error(f"An unexpected error occurred: {e}")
     finally:
-        driver.quit()
+        if driver:
+            driver.quit()
 
 # Scraping function
 if __name__ == "__main__":
-    try:
-        main()
-    except Exception as e:
-        logger.error(f"An unexpected error occurred: {e}")
+    main()
