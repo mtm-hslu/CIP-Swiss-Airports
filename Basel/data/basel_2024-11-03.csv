@@ -1,0 +1,182 @@
+Type,Time,Expected,Origin/Destination,Airline,Flight Number,Status,Note,Date Scraped
+Arrivals,07:55,07:47,Antalya,SunExpress,XQ110,Landed 07:44,,2024-11-03 23:55:20
+Arrivals,08:15,08:12,Belgrade,Wizz Air,W64051,Landed 08:09,,2024-11-03 23:55:20
+Arrivals,08:25,08:14,Zagreb,Ryanair,FR5862,Landed 08:13,,2024-11-03 23:55:20
+Arrivals,08:55,08:37,Palma,easyJet,EC7271,Landed 08:34,,2024-11-03 23:55:20
+Arrivals,08:55,08:48,Munich,Lufthansa,LH2394,Landed 08:45,,2024-11-03 23:55:20
+Arrivals,09:15,09:01,Barcelona,easyJet,EC7101,Landed 08:58,,2024-11-03 23:55:20
+Arrivals,09:30,09:23,Barcelona,Vueling,VY6278,Landed 09:21,,2024-11-03 23:55:20
+Arrivals,09:35,09:27,Paris Charles De Gaulle,Air France,AF1192,Landed 09:25,,2024-11-03 23:55:20
+Arrivals,09:40,10:03,Porto,easyJet,EC7731,Landed 10:00,,2024-11-03 23:55:20
+Arrivals,09:45,09:36,Lisbon,easyJet,EC7677,Landed 09:29,,2024-11-03 23:55:20
+Arrivals,10:00,09:36,Berlin,easyJet,DS1186,Landed 09:33,,2024-11-03 23:55:20
+Arrivals,10:15,10:17,Frankfurt,Lufthansa,LH1202,Landed 10:16,,2024-11-03 23:55:20
+Arrivals,10:20,09:59,Naples,easyJet,DS4219,Landed 09:56,,2024-11-03 23:55:20
+Arrivals,10:20,10:11,London Heathrow,British Airways,BA752,Landed 10:07,,2024-11-03 23:55:20
+Arrivals,10:35,10:22,Hamburg,easyJet,DS1182,Landed 10:19,,2024-11-03 23:55:20
+Arrivals,10:40,10:29,Amsterdam,KLM,KL1943,Landed 10:25,,2024-11-03 23:55:20
+Arrivals,11:00,10:44,Pristina,Chair Airlines,GM611,Landed 10:42,,2024-11-03 23:55:20
+Arrivals,11:35,11:33,Olbia,easyJet,DS1106,Landed 11:30,,2024-11-03 23:55:20
+Arrivals,11:45,11:37,Alicante,easyJet,DS1012,Landed 11:34,,2024-11-03 23:55:20
+Arrivals,11:55,11:44,Istanbul Sabiha Gökcen,Pegasus Airlines,PC939,Landed 11:41,,2024-11-03 23:55:20
+Arrivals,12:05,11:56,Madrid,easyJet,DS1016,Landed 11:52,,2024-11-03 23:55:20
+Arrivals,12:10,11:47,Dubai,Flydubai,FZ1425,Landed 11:43,,2024-11-03 23:55:20
+Arrivals,12:20,12:04,Pristina,easyJet,DS1210,Landed 12:01,,2024-11-03 23:55:20
+Arrivals,12:25,12:36,Munich,Lufthansa,LH2396,Landed 12:32,,2024-11-03 23:55:20
+Arrivals,12:25,12:23,Faro,easyJet,DS1278,Landed 12:19,,2024-11-03 23:55:20
+Arrivals,12:35,12:27,Toulouse,easyJet,EC4971,Landed 12:23,,2024-11-03 23:55:20
+Arrivals,12:50,12:16,Athens,easyJet,DS1146,Landed 12:12,,2024-11-03 23:55:20
+Arrivals,13:00,13:01,Pristina,GP Aviation,IV800,Landed 12:57,,2024-11-03 23:55:20
+Arrivals,13:00,12:43,Budapest,Wizz Air,W62269,Landed 12:40,,2024-11-03 23:55:20
+Arrivals,13:25,13:22,Frankfurt,Lufthansa,LH1204,Landed 13:19,,2024-11-03 23:55:20
+Arrivals,13:40,13:37,Malaga,easyJet,DS1006,Landed 13:35,,2024-11-03 23:55:20
+Arrivals,13:40,13:42,Algiers,Air Algérie,AH1172,Landed 13:39,,2024-11-03 23:55:20
+Arrivals,14:05,14:18,Paris Charles De Gaulle,Air France,AF1292,Landed 14:14,,2024-11-03 23:55:20
+Arrivals,14:25,14:34,Marrakech,easyJet,DS1254,Landed 14:31,,2024-11-03 23:55:20
+Arrivals,14:30,14:09,Istanbul Sabiha Gökcen,Ajet,VF105,Landed 14:06,,2024-11-03 23:55:20
+Arrivals,14:40,14:26,Krakow,easyJet,DS1284,Landed 14:22,,2024-11-03 23:55:20
+Arrivals,15:00,14:47,Warsaw,Wizz Air,W61363,Landed 14:44,,2024-11-03 23:55:20
+Arrivals,15:00,15:26,Gran Canaria,Enter Air,E4962,Landed 15:22,,2024-11-03 23:55:20
+Arrivals,15:00,14:37,Cagliari,easyJet,DS1110,Landed 14:33,,2024-11-03 23:55:20
+Arrivals,15:15,14:54,Skopje,Wizz Air,W64731,Landed 14:51,,2024-11-03 23:55:20
+Arrivals,15:20,15:11,Bucharest,Wizz Air,W43089,Landed 15:06,,2024-11-03 23:55:20
+Arrivals,15:30,15:17,Naples,easyJet,EC4221,Landed 15:13,,2024-11-03 23:55:20
+Arrivals,15:30,15:14,Istanbul Sabiha Gökcen,Pegasus Airlines,PC941,Landed 15:10,,2024-11-03 23:55:20
+Arrivals,15:30,16:49,Cluj,Wizz Air,W43371,Landed 16:46,,2024-11-03 23:55:20
+Arrivals,15:35,15:43,London Heathrow,British Airways,BA754,Landed 15:38,,2024-11-03 23:55:20
+Arrivals,15:55,16:21,Palma,easyJet,EC7277,Landed 16:16,,2024-11-03 23:55:20
+Arrivals,16:20,16:04,Pristina,easyJet,DS1204,Landed 15:57,,2024-11-03 23:55:20
+Arrivals,16:25,17:06,Antalya,Pegasus Airlines,PC5053,Landed 17:05,,2024-11-03 23:55:20
+Arrivals,16:30,17:54,Tirana,Wizz Air,W45123,Landed 17:50,,2024-11-03 23:55:20
+Arrivals,16:30,16:23,Copenhagen,easyJet,DS1264,Landed 16:20,,2024-11-03 23:55:20
+Arrivals,16:50,16:56,Turin,Netjets,NJE948,Landed 16:51,Cargo,2024-11-03 23:55:20
+Arrivals,16:50,16:42,Rome,easyJet,DS1126,Landed 16:38,,2024-11-03 23:55:20
+Arrivals,16:55,16:47,Venice,easyJet,EC4083,Landed 16:42,,2024-11-03 23:55:20
+Arrivals,17:00,16:31,Warsaw,VistaJet,VJT492,Landed 16:26,Cargo,2024-11-03 23:55:20
+Arrivals,17:05,17:03,Antalya,SunExpress,XQ210,Landed 16:59,,2024-11-03 23:55:20
+Arrivals,17:05,18:01,Alicante,easyJet,EC5501,Landed 17:56,,2024-11-03 23:55:20
+Arrivals,17:10,16:58,Istanbul,Turkish Airlines,TK1925,Landed 16:54,,2024-11-03 23:55:20
+Arrivals,17:25,17:17,Amsterdam,KLM,KL1947,Landed 17:14,,2024-11-03 23:55:20
+Arrivals,18:00,18:04,London Heathrow,British Airways,BA750,Landed 18:00,,2024-11-03 23:55:20
+Arrivals,18:00,17:31,Enfidha,easyJet,DS1274,Landed 17:25,,2024-11-03 23:55:20
+Arrivals,18:05,17:57,Frankfurt,Lufthansa,LH1206,Landed 17:54,,2024-11-03 23:55:20
+Arrivals,18:10,17:51,Bordeaux,easyJet,DS1072,Landed 17:46,,2024-11-03 23:55:20
+Arrivals,18:25,18:06,Palermo,easyJet,DS1116,Landed 18:02,,2024-11-03 23:55:20
+Arrivals,18:25,18:29,London Stansted,Ryanair,RK4182,Landed 18:25,,2024-11-03 23:55:20
+Arrivals,18:30,18:17,Prague,easyJet,DS1270,Landed 18:13,,2024-11-03 23:55:20
+Arrivals,18:40,18:14,Ajaccio,easyJet,DS1064,Landed 18:09,,2024-11-03 23:55:20
+Arrivals,18:50,18:36,London Gatwick,easyJet,DS8478,Landed 18:28,,2024-11-03 23:55:20
+Arrivals,19:25,19:46,Munich,Lufthansa,LH2400,Landed 19:41,,2024-11-03 23:55:20
+Arrivals,19:30,19:26,Pristina,GP Aviation,IV802,Landed 19:22,,2024-11-03 23:55:20
+Arrivals,20:15,20:13,Amsterdam,easyJet,EC7863,Landed 20:08,,2024-11-03 23:55:20
+Arrivals,20:30,20:17,Nis,Wizz Air,W64195,Landed 20:13,,2024-11-03 23:55:20
+Arrivals,20:35,,Barcelona,easyJet,EC7103,Cancelled,,2024-11-03 23:55:20
+Arrivals,21:00,21:33,Manchester,easyJet,U22181,Landed 21:28,,2024-11-03 23:55:20
+Arrivals,21:00,21:07,London Gatwick,easyJet,U28479,Landed 21:02,,2024-11-03 23:55:20
+Arrivals,21:20,22:01,Malaga,easyJet,EC7021,Landed 21:59,,2024-11-03 23:55:20
+Arrivals,21:30,21:26,Frankfurt,Lufthansa,LH1208,Landed 21:22,,2024-11-03 23:55:20
+Arrivals,21:50,21:56,London Heathrow,British Airways,BA756,Landed 21:52,,2024-11-03 23:55:20
+Arrivals,22:05,21:58,Amsterdam,KLM,KL1949,Landed 21:55,,2024-11-03 23:55:20
+Arrivals,22:15,22:06,Montpellier,easyJet,DS1076,Landed 22:02,,2024-11-03 23:55:20
+Arrivals,22:20,22:16,Pristina,Chair Airlines,GM613,Landed 22:13,,2024-11-03 23:55:20
+Arrivals,22:30,22:29,Rome,easyJet,DS1124,Landed 22:26,,2024-11-03 23:55:20
+Arrivals,22:35,22:24,Hamburg,easyJet,DS1184,Landed 22:22,,2024-11-03 23:55:20
+Arrivals,22:35,22:49,Berlin,easyJet,DS1188,Landed 22:45,,2024-11-03 23:55:20
+Arrivals,22:40,22:39,Nice,easyJet,DS1054,Landed 22:36,,2024-11-03 23:55:20
+Arrivals,22:40,22:36,Heraklion,Enter Air,E4952,Landed 22:34,,2024-11-03 23:55:20
+Arrivals,22:45,23:01,Madrid,easyJet,DS1018,Landed 22:58,,2024-11-03 23:55:20
+Arrivals,22:45,22:19,Budapest,easyJet,DS1214,Landed 22:16,,2024-11-03 23:55:20
+Arrivals,22:50,23:39,Porto,easyJet,DS1276,Landed 23:36,,2024-11-03 23:55:20
+Arrivals,22:50,22:21,Heraklion,easyJet,DS1150,Landed 22:19,,2024-11-03 23:55:20
+Arrivals,22:55,22:42,Tenerife,easyJet,DS1026,Landed 22:38,,2024-11-03 23:55:20
+Arrivals,23:00,22:44,Pristina,easyJet,DS1206,Landed 22:40,,2024-11-03 23:55:20
+Departures,06:00,,Pristina,Chair Airlines,GM610,Departed 06:09,,2024-11-03 23:55:45
+Departures,06:00,,Gran Canaria,Enter Air,E4961,Departed 06:13,,2024-11-03 23:55:45
+Departures,06:00,,Faro,easyJet,DS1277,Departed 06:11,,2024-11-03 23:55:45
+Departures,06:05,,Naples,easyJet,DS4220,Departed 06:16,,2024-11-03 23:55:45
+Departures,06:05,,Amsterdam,KLM,KL1942,Departed 06:15,,2024-11-03 23:55:45
+Departures,06:15,,Athens,easyJet,DS1145,Departed 06:20,,2024-11-03 23:55:45
+Departures,06:25,,Berlin,easyJet,DS1185,Departed 06:25,,2024-11-03 23:55:45
+Departures,06:30,,Alicante,easyJet,DS1011,Departed 06:38,,2024-11-03 23:55:45
+Departures,06:35,,London Heathrow,British Airways,BA751,Departed 06:42,,2024-11-03 23:55:45
+Departures,06:45,,Marrakech,easyJet,DS1253,Departed 06:51,,2024-11-03 23:55:45
+Departures,06:50,,Frankfurt,Lufthansa,LH1211,Departed 06:54,,2024-11-03 23:55:45
+Departures,06:55,,Madrid,easyJet,DS1015,Departed 07:01,,2024-11-03 23:55:45
+Departures,07:10,,Hamburg,easyJet,DS1181,Departed 07:09,,2024-11-03 23:55:45
+Departures,07:15,,Pristina,easyJet,DS1209,Departed 07:30,,2024-11-03 23:55:45
+Departures,07:30,,Malaga,easyJet,DS1005,Departed 07:27,,2024-11-03 23:55:45
+Departures,07:40,,Olbia,easyJet,DS1105,Departed 07:42,,2024-11-03 23:55:45
+Departures,08:45,,Belgrade,Wizz Air,W64052,Departed 08:54,,2024-11-03 23:55:45
+Departures,08:45,,Antalya,SunExpress,XQ111,Departed 08:52,,2024-11-03 23:55:45
+Departures,08:50,08:55,Zagreb,Ryanair,FR5863,Departed 09:08,,2024-11-03 23:55:45
+Departures,09:30,,Palma,easyJet,EC7272,Departed 10:09,,2024-11-03 23:55:45
+Departures,09:35,,Munich,Lufthansa,LH2395,Departed 09:35,,2024-11-03 23:55:45
+Departures,09:45,,Barcelona,easyJet,EC7102,Departed 10:11,,2024-11-03 23:55:45
+Departures,10:15,,Paris Charles De Gaulle,Air France,AF1193,Departed 10:18,,2024-11-03 23:55:45
+Departures,10:15,10:35,Porto,easyJet,EC7732,Departed 11:20,,2024-11-03 23:55:45
+Departures,10:15,,Barcelona,Vueling,VY6279,Departed 11:06,,2024-11-03 23:55:45
+Departures,10:20,,Lisbon,easyJet,EC7678,Departed 10:23,,2024-11-03 23:55:45
+Departures,10:35,,Krakow,easyJet,DS1283,Departed 10:32,,2024-11-03 23:55:45
+Departures,10:50,,Frankfurt,Lufthansa,LH1203,Departed 11:09,,2024-11-03 23:55:45
+Departures,10:55,,Cagliari,easyJet,DS1109,Departed 10:53,,2024-11-03 23:55:45
+Departures,11:15,,Pristina,easyJet,DS1203,Departed 11:22,,2024-11-03 23:55:45
+Departures,11:15,,Amsterdam,KLM,KL1944,Departed 11:19,,2024-11-03 23:55:45
+Departures,11:20,,London Heathrow,British Airways,BA753,Departed 11:24,,2024-11-03 23:55:45
+Departures,11:45,,Pristina,Chair Airlines,GM612,Departed 11:51,,2024-11-03 23:55:45
+Departures,12:20,,Copenhagen,easyJet,DS1263,Departed 12:34,,2024-11-03 23:55:45
+Departures,12:30,,Enfidha,easyJet,DS1273,Departed 12:38,,2024-11-03 23:55:45
+Departures,12:55,,Rome,easyJet,DS1125,Departed 12:59,,2024-11-03 23:55:45
+Departures,13:00,,Istanbul Sabiha Gökcen,Pegasus Airlines,PC940,Departed 13:12,,2024-11-03 23:55:45
+Departures,13:05,,Toulouse,easyJet,EC4972,Departed 13:17,,2024-11-03 23:55:45
+Departures,13:05,13:10,Munich,Lufthansa,LH2397,Departed 13:21,,2024-11-03 23:55:45
+Departures,13:10,,Tenerife,easyJet,DS1025,Departed 13:29,,2024-11-03 23:55:45
+Departures,13:10,,Dubai,Flydubai,FZ1426,Departed 13:26,,2024-11-03 23:55:45
+Departures,13:35,,Budapest,Wizz Air,W62270,Departed 13:43,,2024-11-03 23:55:45
+Departures,13:40,,Palermo,easyJet,DS1115,Departed 13:45,,2024-11-03 23:55:45
+Departures,14:00,,Pristina,GP Aviation,IV801,Departed 14:08,,2024-11-03 23:55:45
+Departures,14:10,,Frankfurt,Lufthansa,LH1205,Departed 14:16,,2024-11-03 23:55:45
+Departures,14:30,,Bordeaux,easyJet,DS1071,Departed 14:35,,2024-11-03 23:55:45
+Departures,14:35,,London Gatwick,easyJet,DS8477,Departed 14:46,,2024-11-03 23:55:45
+Departures,14:40,,Algiers,Air Algérie,AH1173,Departed 14:53,,2024-11-03 23:55:45
+Departures,14:45,,Paris Charles De Gaulle,Air France,AF1293,Departed 15:01,,2024-11-03 23:55:45
+Departures,15:10,,Prague,easyJet,DS1269,Departed 15:24,,2024-11-03 23:55:45
+Departures,15:20,,Ajaccio,easyJet,DS1063,Departed 15:21,,2024-11-03 23:55:45
+Departures,15:35,,Warsaw,Wizz Air,W61364,Departed 15:45,,2024-11-03 23:55:45
+Departures,15:45,,Nis,Wizz Air,W64196,Departed 15:55,,2024-11-03 23:55:45
+Departures,15:45,,Heraklion,easyJet,DS1149,Departed 15:48,,2024-11-03 23:55:45
+Departures,15:50,,Istanbul Sabiha Gökcen,Ajet,VF106,Departed 15:43,,2024-11-03 23:55:45
+Departures,15:55,,Bucharest,Wizz Air,W43090,Departed 16:24,,2024-11-03 23:55:45
+Departures,16:00,,Naples,easyJet,EC4222,Departed 16:04,,2024-11-03 23:55:45
+Departures,16:05,17:10,Cluj,Wizz Air,W43372,Departed 17:44,,2024-11-03 23:55:45
+Departures,16:05,,Heraklion,Enter Air,E4951,Departed 16:22,Cargo,2024-11-03 23:55:45
+Departures,16:20,,London Heathrow,British Airways,BA755,Departed 16:34,,2024-11-03 23:55:45
+Departures,16:30,16:50,Palma,easyJet,EC7278,Departed 17:16,,2024-11-03 23:55:45
+Departures,16:35,,Istanbul Sabiha Gökcen,Pegasus Airlines,PC942,Departed 16:50,,2024-11-03 23:55:45
+Departures,17:05,18:25,Tirana,Wizz Air,W45124,Departed 18:50,,2024-11-03 23:55:45
+Departures,17:05,,Porto,easyJet,DS1275,Departed 17:15,,2024-11-03 23:55:45
+Departures,17:15,17:40,Antalya,Pegasus Airlines,PC5054,Departed 18:18,,2024-11-03 23:55:45
+Departures,17:25,,Venice,easyJet,EC4084,Departed 17:32,,2024-11-03 23:55:45
+Departures,17:35,,Madrid,easyJet,DS1017,Departed 17:48,,2024-11-03 23:55:45
+Departures,17:45,18:35,Alicante,easyJet,EC5500,Departed 18:43,,2024-11-03 23:55:45
+Departures,17:55,,Antalya,SunExpress,XQ211,Departed 18:17,,2024-11-03 23:55:45
+Departures,17:55,,Pristina,easyJet,DS1205,Departed 17:58,,2024-11-03 23:55:45
+Departures,17:55,,Amsterdam,KLM,KL1948,Departed 18:01,,2024-11-03 23:55:45
+Departures,18:00,,Istanbul Atatürk,VistaJet,VJT492,Departed 18:16,Cargo,2024-11-03 23:55:45
+Departures,18:05,,Istanbul,Turkish Airlines,TK1926,Departed 18:11,,2024-11-03 23:55:45
+Departures,18:40,,Rome,easyJet,DS1123,Departed 18:38,,2024-11-03 23:55:45
+Departures,18:40,,Frankfurt,Lufthansa,LH1207,Departed 18:51,,2024-11-03 23:55:45
+Departures,18:45,,Budapest,easyJet,DS1213,Departed 18:48,,2024-11-03 23:55:45
+Departures,18:50,,London Stansted,Ryanair,RK4181,Departed 19:13,,2024-11-03 23:55:45
+Departures,18:50,,London Heathrow,British Airways,BA749,Departed 18:55,,2024-11-03 23:55:45
+Departures,19:00,,Berlin,easyJet,DS1187,Departed 19:03,,2024-11-03 23:55:45
+Departures,19:10,,Hamburg,easyJet,DS1183,Departed 19:24,,2024-11-03 23:55:45
+Departures,19:10,,Montpellier,easyJet,DS1075,Departed 19:10,,2024-11-03 23:55:45
+Departures,19:40,,Nice,easyJet,DS1053,Departed 20:06,,2024-11-03 23:55:45
+Departures,20:00,20:15,Munich,Lufthansa,LH2401,Departed 20:31,,2024-11-03 23:55:45
+Departures,20:30,,Pristina,GP Aviation,IV803,Departed 20:43,,2024-11-03 23:55:45
+Departures,20:45,,Amsterdam,easyJet,EC7864,Departed 20:59,,2024-11-03 23:55:45
+Departures,21:00,,Skopje,Wizz Air,W64732,Departed 21:09,,2024-11-03 23:55:45
+Departures,21:05,,Barcelona,easyJet,EC7104,Cancelled,,2024-11-03 23:55:45
+Departures,21:40,22:00,Manchester,easyJet,U22182,Departed 22:25,,2024-11-03 23:55:45
+Departures,21:45,,London Gatwick,easyJet,U28480,Departed 22:14,,2024-11-03 23:55:45
+Departures,21:55,22:35,Malaga,easyJet,EC7022,Departed 22:47,,2024-11-03 23:55:45
