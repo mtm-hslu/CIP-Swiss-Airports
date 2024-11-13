@@ -13,12 +13,13 @@ for file in files:
             print(f"File {file} is empty, skipping.")
             continue
 
+        # Fill in the column flight_type with arrival or departure
         if "arrivals" in file.lower():
-            df['flight_type'] = 'arrivals'
-            df.rename(columns={'origin': 'location'}, inplace=True)  # Rename to unify with departures
+            df['flight_type'] = 'arrival'
+            df.rename(columns={'origin': 'foreign_airport'}, inplace=True)
         elif "departures" in file.lower():
-            df['flight_type'] = 'departures'
-            df.rename(columns={'destination': 'location'}, inplace=True)  # Rename to unify with arrivals
+            df['flight_type'] = 'departure'
+            df.rename(columns={'destination': 'foreign_airport'}, inplace=True)
         else:
             print(f"File {file} doesn't contain 'arrivals' or 'departures' in its name, skipping.")
             continue
@@ -60,7 +61,7 @@ if dfs:
         'Figari': 'Figari',
         'Ibiza': 'Ibiza'
     }
-    combined_df['location'] = combined_df['location'].replace(translation_dict)
+    combined_df['foreign_airport'] = combined_df['foreign_airport'].replace(translation_dict)
 
     # Extract 'scheduled' and 'actual' times from the 'time' column
     combined_df['scheduled'] = combined_df['time'].str.extract(r'(\d{2}:\d{2})')
@@ -81,7 +82,7 @@ if dfs:
     combined_df.sort_values(by='scrape_time', ascending=True, inplace=True)
 
     # Drop duplicates, keeping the latest entry for each unique flight
-    combined_df = combined_df.drop_duplicates(subset=['scheduled', 'location', 'airline', 'flight_type'], keep='last')
+    combined_df = combined_df.drop_duplicates(subset=['scheduled', 'foreign_airport', 'airline', 'flight_type'], keep='last')
 
     # Data Quality Checks
 
@@ -99,9 +100,9 @@ if dfs:
     # Check if arrivals and departures data are both present for each date
     for date in expected_dates:
         arrivals = combined_df[
-            (combined_df['flight_type'] == 'arrivals') & (combined_df['scrape_time'].dt.date == date.date())]
+            (combined_df['flight_type'] == 'arrival') & (combined_df['scrape_time'].dt.date == date.date())]
         departures = combined_df[
-            (combined_df['flight_type'] == 'departures') & (combined_df['scrape_time'].dt.date == date.date())]
+            (combined_df['flight_type'] == 'departure') & (combined_df['scrape_time'].dt.date == date.date())]
 
         if arrivals.empty:
             print(f"Missing arrivals data for {date.date()}")
@@ -136,8 +137,23 @@ if dfs:
     combined_df['delta'] = ((combined_df['actual_dt'] - combined_df['scheduled_dt']).dt.total_seconds() / 60).astype(
         int)
 
+    # Extract date part and combine with 'actual' and 'scheduled' to create new datetime
+    combined_df['actual_date'] = (combined_df['scrape_time'].dt.strftime('%Y-%m-%d') +
+                                  ' ' + combined_df['actual'])
+    combined_df['scheduled_date'] = (combined_df['scrape_time'].dt.strftime('%Y-%m-%d') +
+                                  ' ' + combined_df['scheduled'])
+    # Convert to datetime type
+    combined_df['actual_date'] = pd.to_datetime(combined_df['actual_date'])
+    combined_df['scheduled_date'] = pd.to_datetime(combined_df['scheduled_date'])
+
     # Drop the temporary datetime columns after calculation
     combined_df.drop(columns=['scheduled_dt', 'actual_dt'], inplace=True)
+
+    # Drop unnecessary columns
+    combined_df.drop(columns=['status', 'scrape_time', 'scheduled','actual'], inplace=True)
+
+    # Add local airport in the DataFrame
+    combined_df['local_airport'] = "Geneva"
 
     # Save the cleaned DataFrame
     output_file = Path("data/combined_cleaned_data.csv")
