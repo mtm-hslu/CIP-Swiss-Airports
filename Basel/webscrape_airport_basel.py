@@ -1,6 +1,6 @@
 
 """
-authors:    Kethrin
+authors:    Kethrin Heinze
 date:       19.10.2024
 """
 
