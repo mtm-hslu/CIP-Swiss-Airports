@@ -1,4 +1,7 @@
-
+"""
+author:    Kethrin Heinze
+date:      19.10.2024
+"""
 
 import csv
 from bs4 import BeautifulSoup
