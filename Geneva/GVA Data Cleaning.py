@@ -155,6 +155,19 @@ if dfs:
     # Add local airport in the DataFrame
     combined_df['local_airport'] = "Geneva"
 
+    # Rename Geneva columns
+    combined_df.rename(columns={'flight_type': 'Type', 'local_airport': 'LocalAirport',
+                              'foreign_airport': 'ForeignAirport', 'scheduled_date': 'PlannedDate',
+                              'actual_date': 'ActualDate', 'delta': 'Delay', 'airline': 'Airline'}, inplace=True)
+    # Ensure columns are in the desired order
+    combined_df = combined_df[['Type', 'LocalAirport', 'ForeignAirport', 'Airline', 'PlannedDate', 'ActualDate', 'Delay']]
+
+    # Bring values in uppercase for consistency
+    combined_df['Type'] = combined_df['Type'].str.upper()
+    combined_df['LocalAirport'] = combined_df['LocalAirport'].str.upper()
+    combined_df['ForeignAirport'] = combined_df['ForeignAirport'].str.upper()
+    combined_df['Airline'] = combined_df['Airline'].str.upper()
+
     # Save the cleaned DataFrame
     output_file = Path("data/combined_cleaned_data.csv")
     combined_df.to_csv(output_file, index=False)
