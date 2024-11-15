@@ -19,7 +19,7 @@ Inside each airport folder, you will find:
 - **Analysis Scripts** (`.py` or `.ipynb`): Python scripts or Jupyter Notebooks used to analyze the scraped data.
 
 ### Final Phase Folder
-The final file that answers the project questions is in this folder : `questions_answering.ipynb` 
+The final file that answers the project questions is in this folder: `questions_answering.ipynb`. It also contains the final data set on which the questions answering is made from:`final_airports_2w.csv`.
 
 ## Getting Started with the code
 ### 1. Setting Up a Virtual Environment
@@ -66,7 +66,7 @@ The file responsible for the cleaning for Basel for example is `Basel/data_clean
 
 ### 4. Final analysis (group work)
 This last step consist of getting all combine files from each airport and answer then assignment questions. 
-The file resposnsble for this step is here `_final_phase/questions_answering.ipynb`.
+The file responsible for this step is here `_final_phase/questions_answering.ipynb`. It also generates the final data set `final_airports_2w.csv` on which the analysis is made from.
 
 
 
